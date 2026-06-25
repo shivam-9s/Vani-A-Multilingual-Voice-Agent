@@ -1,0 +1,55 @@
+intent_id,intent_name,category,description
+1,order_status,Orders,Check the current status of an order
+2,track_shipment,Orders,Track the shipment of an order
+3,cancel_order,Orders,Cancel an existing order
+4,modify_order,Orders,Modify an existing order before dispatch
+5,return_order,Orders,Request a return for a delivered order
+6,exchange_order,Orders,Request an exchange for a delivered order
+7,reorder_product,Orders,Place an order again for a previous purchase
+8,order_history,Orders,View previous orders
+9,order_confirmation,Orders,Confirm whether an order was successfully placed
+10,order_not_received,Orders,Report that an order has not been received
+
+11,delivery_status,Delivery,Check current delivery progress
+12,delivery_delay,Delivery,Report or inquire about a delayed delivery
+13,reschedule_delivery,Delivery,Change the delivery date
+14,change_delivery_slot,Delivery,Change the preferred delivery time slot
+15,update_address,Delivery,Update the delivery address
+16,delivery_agent_contact,Delivery,Get delivery agent contact details
+17,missing_package,Delivery,Report a missing package
+18,damaged_package,Delivery,Report a damaged package
+19,wrong_delivery,Delivery,Report receiving the wrong package
+20,delivery_instructions,Delivery,Add or modify delivery instructions
+
+21,payment_status,Payments,Check payment status
+22,payment_failed,Payments,Report a failed payment
+23,refund_status,Payments,Check refund status
+24,refund_request,Payments,Request a refund
+25,invoice_request,Payments,Download or request an invoice
+26,payment_method_change,Payments,Change the payment method
+27,duplicate_payment,Payments,Report duplicate payment
+28,cashback_query,Payments,Check cashback information
+29,promo_code_issue,Payments,Report a promo code issue
+30,wallet_balance,Payments,Check wallet balance
+
+31,login_issue,Account,Resolve login issues
+32,reset_password,Account,Reset account password
+33,change_email,Account,Update registered email address
+34,change_phone,Account,Update registered phone number
+35,account_verification,Account,Verify user account
+36,profile_update,Account,Update profile information
+37,account_locked,Account,Unlock a locked account
+38,deactivate_account,Account,Temporarily deactivate account
+39,delete_account,Account,Permanently delete account
+40,reactivate_account,Account,Reactivate a deactivated account
+
+41,product_information,Products,Get product details
+42,product_availability,Products,Check product availability
+43,product_recommendation,Products,Recommend products based on user needs
+44,warranty_claim,Products,Submit a warranty claim
+45,technical_support,Support,Get technical support
+46,raise_complaint,Support,Register a complaint
+47,complaint_status,Support,Check complaint status
+48,speak_to_agent,Support,Connect with a human support agent
+49,store_location,Support,Find nearby store locations
+50,general_query,Support,Handle general customer queries
