@@ -1,0 +1,33 @@
+text,intent
+Where is my order?,order_status
+Track my order.,order_status
+Can you check my order status?,order_status
+What is the status of my order?,order_status
+Has my order been shipped?,order_status
+I want to track my package.,order_status
+Can you tell me where my parcel is?,order_status
+Please track order number 12345.,order_status
+Show my order status.,order_status
+Is my order out for delivery?,order_status
+
+Mera order kahan hai?,order_status
+Mere order ka status batao.,order_status
+Mera parcel track karo.,order_status
+Order number 12345 ka status kya hai?,order_status
+Kya mera order dispatch ho gaya?,order_status
+Mujhe mera order track karna hai.,order_status
+Mera package kab aayega?,order_status
+Order ki current location batao.,order_status
+Mera order abhi kahan pahucha hai?,order_status
+Mere order ki delivery kab hogi?,order_status
+
+Track karo mera order.,order_status
+Mera order track kar do.,order_status
+Order status check karo.,order_status
+Please mera parcel check karo.,order_status
+Mujhe order ki update chahiye.,order_status
+Mera shipment kahan hai?,order_status
+Can you track mera order?,order_status
+Order ka latest status batao.,order_status
+Parcel ka update do.,order_status
+Mera package locate karo.,order_status
