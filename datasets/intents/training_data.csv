@@ -1,4 +1,6 @@
 text,intent
+
+
 Where is my order?,order_status
 Track my order.,order_status
 Can you check my order status?,order_status
@@ -30,4 +32,491 @@ Mera shipment kahan hai?,order_status
 Can you track mera order?,order_status
 Order ka latest status batao.,order_status
 Parcel ka update do.,order_status
+
+
 Mera package locate karo.,order_status
+Track my shipment.,track_shipment
+Where is my shipment?,track_shipment
+Can you track my shipment?,track_shipment
+I want to track my package.,track_shipment
+Track package number 12345.,track_shipment
+Show the live location of my shipment.,track_shipment
+Where has my shipment reached?,track_shipment
+Can I track my parcel?,track_shipment
+Track my courier.,track_shipment
+Where is my courier now?,track_shipment
+Show my shipment details.,track_shipment
+Locate my package.,track_shipment
+Provide shipment tracking information.,track_shipment
+Track my delivery package.,track_shipment
+Give me shipment updates.,track_shipment
+
+Mera shipment track karo.,track_shipment
+Mera parcel kahan hai?,track_shipment
+Mera courier track karo.,track_shipment
+Shipment ki location batao.,track_shipment
+Mera package abhi kahan hai?,track_shipment
+Mujhe shipment track karna hai.,track_shipment
+Mere parcel ki live location batao.,track_shipment
+Shipment number 12345 track karo.,track_shipment
+Mera courier kis jagah hai?,track_shipment
+Parcel ki current location batao.,track_shipment
+Shipment update do.,track_shipment
+Mera package locate karo.,track_shipment
+Mera shipment kidhar pahucha hai?,track_shipment
+Parcel ki movement dikhao.,track_shipment
+Courier ki tracking information do.,track_shipment
+
+Track karo mera shipment.,track_shipment
+Mera shipment locate karo.,track_shipment
+Parcel track kar do.,track_shipment
+Courier ka location batao.,track_shipment
+Package track karo.,track_shipment
+Can you track mera shipment?,track_shipment
+Shipment ka latest update do.,track_shipment
+Parcel ki live location dikhao.,track_shipment
+Mera courier kaha tak pahucha?,track_shipment
+Shipment check karo.,track_shipment
+Package ki tracking dikhao.,track_shipment
+Please mera courier track karo.,track_shipment
+Shipment ka status aur location batao.,track_shipment
+Courier tracking chahiye.,track_shipment
+Parcel kaha hai abhi?,track_shipment
+
+shipment track pls.,track_shipment
+track parcel asap.,track_shipment
+mera shipment??,track_shipment
+courier location?,track_shipment
+package tracking.,track_shipment
+
+Cancel my order.,cancel_order
+I want to cancel my order.,cancel_order
+Please cancel my order.,cancel_order
+Can you cancel my order?,cancel_order
+Cancel order number 12345.,cancel_order
+I no longer need my order.,cancel_order
+Stop my order from being delivered.,cancel_order
+I want to withdraw my order.,cancel_order
+Cancel the purchase I made.,cancel_order
+Please stop processing my order.,cancel_order
+I placed the order by mistake.,cancel_order
+Cancel my recent order.,cancel_order
+Can I cancel my purchase?,cancel_order
+Please cancel this order immediately.,cancel_order
+I don't want this order anymore.,cancel_order
+
+Mera order cancel karo.,cancel_order
+Mujhe apna order cancel karna hai.,cancel_order
+Kripya mera order cancel kar dijiye.,cancel_order
+Order number 12345 cancel karo.,cancel_order
+Mujhe ye order nahi chahiye.,cancel_order
+Galti se order ho gaya.,cancel_order
+Mera order rok do.,cancel_order
+Is order ko cancel kar do.,cancel_order
+Delivery se pehle order cancel karo.,cancel_order
+Mera purchase cancel karo.,cancel_order
+Mera latest order cancel karo.,cancel_order
+Order process mat karo.,cancel_order
+Mera order hata do.,cancel_order
+Order cancel karna hai.,cancel_order
+Ye order ab nahi chahiye.,cancel_order
+
+Cancel karo mera order.,cancel_order
+Mera order cancel kar do.,cancel_order
+Please mera order cancel karo.,cancel_order
+Order cancel karna hai boss.,cancel_order
+Galti se order place ho gaya.,cancel_order
+Order ko stop kar do.,cancel_order
+Can you cancel mera order?,cancel_order
+Mujhe order withdraw karna hai.,cancel_order
+Mera latest order hata do.,cancel_order
+Delivery se pehle cancel karo.,cancel_order
+Order ko process mat karo.,cancel_order
+Order cancel please.,cancel_order
+Ye wala order cancel karna hai.,cancel_order
+Mera purchase cancel kar do.,cancel_order
+Cancel my recent order yaar.,cancel_order
+
+cancel order pls.,cancel_order
+cancel 12345.,cancel_order
+order cancel asap.,cancel_order
+dont want this order.,cancel_order
+cancel my purchase now.,cancel_order
+
+Modify my order.,modify_order
+I want to change my order.,modify_order
+Please modify my order.,modify_order
+Can I edit my order?,modify_order
+I need to update my order.,modify_order
+Change the quantity in my order.,modify_order
+I want to change the color of my product.,modify_order
+Please change the size of my order.,modify_order
+Update my order before shipping.,modify_order
+I selected the wrong product,modify_order
+Can you modify order number 12345?,modify_order
+I want to change an item in my order.,modify_order
+Replace one item in my order.,modify_order
+Edit my purchase details.,modify_order
+Can I make changes to my order?,modify_order
+
+Mera order modify karo.,modify_order
+Mujhe apna order change karna hai.,modify_order
+Mere order mein changes karne hain.,modify_order
+Order number 12345 modify karo.,modify_order
+Product ka color change karna hai.,modify_order
+Size change karna hai.,modify_order
+Quantity badalni hai.,modify_order
+Mera order update karo.,modify_order
+Galat product select ho gaya.,modify_order
+Mujhe order edit karna hai.,modify_order
+Order mein ek item replace karo.,modify_order
+Order ship hone se pehle modify karo.,modify_order
+Purchase details update karo.,modify_order
+Mera order thoda change karna hai.,modify_order
+Order details badal do.,modify_order
+
+Mera order change kar do.,modify_order
+Please mera order modify karo.,modify_order
+Order edit karna hai.,modify_order
+Quantity change kar do.,modify_order
+Color change karna hai.,modify_order
+Size change kar do.,modify_order
+Can you modify mera order?,modify_order
+Mera purchase update karo.,modify_order
+Order mein product replace karo.,modify_order
+Mera order update kar do.,modify_order
+Order details edit karo.,modify_order
+Shipment se pehle order change karo.,modify_order
+Order ko customize karna hai.,modify_order
+Product variant change karo.,modify_order
+Wrong item choose ho gaya.,modify_order
+
+modify order pls.,modify_order
+change order asap.,modify_order
+edit order 12345.,modify_order
+wrong product selected.,modify_order
+need to update order.,modify_order
+
+Return my order.,return_order
+I want to return my order.,return_order
+Please return my order.,return_order
+Can I return this product?,return_order
+I need to return the item.,return_order
+I want to initiate a return.,return_order
+How can I return my order?,return_order
+Start the return process.,return_order
+The product is not suitable, I want to return it.,return_order
+I want to send this product back.,return_order
+Return order number 12345.,return_order
+I received the wrong product and want to return it.,return_order
+Please arrange a return pickup.,return_order
+I don't want this product anymore.,return_order
+Can you help me return my purchase?,return_order
+
+Mera order return karna hai.,return_order
+Mujhe product return karna hai.,return_order
+Kripya mera order return kar dijiye.,return_order
+Main is product ko wapas karna chahta hoon.,return_order
+Return process shuru karo.,return_order
+Order number 12345 return karna hai.,return_order
+Product pasand nahi aaya.,return_order
+Galat product mila hai, return karna hai.,return_order
+Return pickup arrange karo.,return_order
+Mujhe refund ke liye return karna hai.,return_order
+Is item ko wapas lena hai.,return_order
+Mujhe return request raise karni hai.,return_order
+Ye product wapas bhejna hai.,return_order
+Order return ka process batao.,return_order
+Mera order return accept karo.,return_order
+
+Mera order return karo.,return_order
+Please mera product return karo.,return_order
+Return request raise karo.,return_order
+Product wapas bhejna hai.,return_order
+Mujhe return karna hai.,return_order
+Can you return mera order?,return_order
+Order return process batao.,return_order
+Return pickup kab hoga?,return_order
+Product exchange nahi, return chahiye.,return_order
+Mera parcel return kar do.,return_order
+Ye item pasand nahi aaya.,return_order
+Order ko return ke liye register karo.,return_order
+Return request accept karo.,return_order
+Product return karna hai yaar.,return_order
+Return initiate kar do.,return_order
+
+return order pls.,return_order
+want to return.,return_order
+return product asap.,return_order
+wrong item return.,return_order
+need return now.,return_order
+
+Exchange my order.,exchange_order
+I want to exchange my product.,exchange_order
+Please exchange my order.,exchange_order
+Can I exchange this item?,exchange_order
+I need to replace this product.,exchange_order
+I want a different size.,exchange_order
+I want to exchange for another color.,exchange_order
+Exchange order number 12345.,exchange_order
+Can you arrange an exchange?,exchange_order
+Replace my product with another one.,exchange_order
+I received the wrong size.,exchange_order
+The color is incorrect, I need an exchange.,exchange_order
+I want another variant of this product.,exchange_order
+Please process my exchange request.,exchange_order
+Help me exchange my purchase.,exchange_order
+
+Mera order exchange karna hai.,exchange_order
+Mujhe product exchange karna hai.,exchange_order
+Kripya mera order exchange kar dijiye.,exchange_order
+Mujhe dusra size chahiye.,exchange_order
+Mujhe dusra color chahiye.,exchange_order
+Order number 12345 exchange karna hai.,exchange_order
+Galat size mila hai.,exchange_order
+Galat color mila hai.,exchange_order
+Product replace karna hai.,exchange_order
+Exchange request raise karo.,exchange_order
+Mujhe doosra product chahiye.,exchange_order
+Exchange pickup arrange karo.,exchange_order
+Mera order replace kar do.,exchange_order
+Product badalna hai.,exchange_order
+Exchange process shuru karo.,exchange_order
+
+Mera order exchange karo.,exchange_order
+Please mera product exchange karo.,exchange_order
+Size change karna hai.,exchange_order
+Color change karna hai.,exchange_order
+Exchange request bhejo.,exchange_order
+Can you exchange mera order?,exchange_order
+Mujhe replacement chahiye.,exchange_order
+Product replace kar do.,exchange_order
+Order exchange process batao.,exchange_order
+Exchange kab hoga?,exchange_order
+Mera parcel replace karo.,exchange_order
+Wrong size aaya hai.,exchange_order
+Wrong colour mila hai.,exchange_order
+Replacement initiate karo.,exchange_order
+Exchange kar do please.,exchange_order
+
+exchange order pls.,exchange_order
+replace product asap.,exchange_order
+need exchange now.,exchange_order
+wrong size replace.,exchange_order
+exchange my purchase.,exchange_order
+
+Reorder my previous purchase.,reorder_product
+I want to reorder this product.,reorder_product
+Please reorder my last order.,reorder_product
+Buy this product again.,reorder_product
+Order the same product again.,reorder_product
+Reorder order number 12345.,reorder_product
+I need another one of this product.,reorder_product
+Can you reorder my previous order?,reorder_product
+Purchase this item again.,reorder_product
+I want the same order again.,reorder_product
+Repeat my last purchase.,reorder_product
+Reorder my recently bought product.,reorder_product
+Can I order this item again?,reorder_product
+Place the same order again.,reorder_product
+I would like to buy this product again.,reorder_product
+
+Mera pichla order dobara kar do.,reorder_product
+Mujhe ye product fir se mangwana hai.,reorder_product
+Mera order dobara place karo.,reorder_product
+Pichla product fir se order karo.,reorder_product
+Order number 12345 fir se order karo.,reorder_product
+Mujhe wahi item dobara chahiye.,reorder_product
+Same product fir se bhejo.,reorder_product
+Pichli purchase repeat karo.,reorder_product
+Ye samaan dobara mangwana hai.,reorder_product
+Mujhe ye order fir se chahiye.,reorder_product
+Dobara purchase karna hai.,reorder_product
+Wahi order repeat karo.,reorder_product
+Mera recent order fir se karo.,reorder_product
+Mujhe wahi product dubara bhejo.,reorder_product
+Previous order repeat karna hai.,reorder_product
+
+Mera order re-order karo.,reorder_product
+Please same product fir se bhejo.,reorder_product
+Ye item dobara order karo.,reorder_product
+Can you reorder mera product?,reorder_product
+Same order repeat kar do.,reorder_product
+Pichla parcel fir se bhejo.,reorder_product
+Mujhe wahi wala product chahiye.,reorder_product
+Order repeat karo please.,reorder_product
+Reorder kar do yaar.,reorder_product
+Mera last order fir se place karo.,reorder_product
+Same purchase dubara karni hai.,reorder_product
+Ye product fir order kar do.,reorder_product
+Previous order ko repeat karo.,reorder_product
+Reorder request bhejo.,reorder_product
+Mujhe same item fir se chahiye.,reorder_product
+
+reorder pls.,reorder_product
+buy again.,reorder_product
+repeat order.,reorder_product
+same product again.,reorder_product
+order this again.,reorder_product
+
+Show my order history.,order_history
+View my previous orders.,order_history
+Display my order history.,order_history
+I want to see my past orders.,order_history
+Show all my orders.,order_history
+Can I view my purchase history?,order_history
+List my previous purchases.,order_history
+Show my recent orders.,order_history
+Display my recent purchases.,order_history
+What products have I ordered before?,order_history
+Show me all my completed orders.,order_history
+View my old orders.,order_history
+I need my order history.,order_history
+Can you show my previous purchases?,order_history
+Display all my purchase records.,order_history
+
+Mera order history dikhao.,order_history
+Mere purane orders dikhao.,order_history
+Meri purchase history dikhao.,order_history
+Maine pehle kya order kiya tha?,order_history
+Mere saare orders dikhao.,order_history
+Mere recent orders batao.,order_history
+Purane order ki list dikhao.,order_history
+Mere order records dikhao.,order_history
+Meri order details dikhao.,order_history
+Mujhe mera purchase history chahiye.,order_history
+Mere completed orders dikhao.,order_history
+Mere old orders dikhao.,order_history
+Pehle ki shopping history dikhao.,order_history
+Mujhe mera order record dekhna hai.,order_history
+Mere saare purchases dikhao.,order_history
+
+Mera order history check karo.,order_history
+Please mere previous orders dikhao.,order_history
+Recent orders dikhao.,order_history
+Mere old purchases dikhao.,order_history
+Can you show mera order history?,order_history
+Maine pehle kya purchase kiya tha?,order_history
+Order history open karo.,order_history
+Previous order list dikhao.,order_history
+Mere shopping records dikhao.,order_history
+Order history dekhni hai.,order_history
+Purchase history check karni hai.,order_history
+Mera order record dikhao.,order_history
+Past orders batao.,order_history
+Mera previous order check karo.,order_history
+Order history please.,order_history
+
+order history.,order_history
+previous orders.,order_history
+show old orders.,order_history
+purchase history.,order_history
+my past orders.,order_history
+
+Has my order been confirmed?,order_confirmation
+Is my order confirmed?,order_confirmation
+Did my order go through?,order_confirmation
+Was my order placed successfully?,order_confirmation
+Can you confirm my order?,order_confirmation
+I want to know if my order is confirmed.,order_confirmation
+Has my purchase been confirmed?,order_confirmation
+Did you receive my order?,order_confirmation
+Is my order successfully placed?,order_confirmation
+Show my order confirmation.,order_confirmation
+Can I get my order confirmation?,order_confirmation
+Was my payment successful and order confirmed?,order_confirmation
+Has my order been accepted?,order_confirmation
+Did my order get approved?,order_confirmation
+I need confirmation for my order.,order_confirmation
+
+Kya mera order confirm ho gaya hai?,order_confirmation
+Mera order confirm hua ya nahi?,order_confirmation
+Kya mera order successfully place hua?,order_confirmation
+Mujhe order confirmation chahiye.,order_confirmation
+Mera order accept hua kya?,order_confirmation
+Kya aapko mera order mil gaya?,order_confirmation
+Order confirmation dikhao.,order_confirmation
+Mera purchase confirm hua kya?,order_confirmation
+Mujhe order ka confirmation batao.,order_confirmation
+Order successfully place hua?,order_confirmation
+Mera order approve hua kya?,order_confirmation
+Order receive hua ya nahi?,order_confirmation
+Kya payment ke baad order confirm hua?,order_confirmation
+Order confirmation message dikhao.,order_confirmation
+Mujhe confirm karo ki order place ho gaya.,order_confirmation
+
+Mera order confirm karo.,order_confirmation
+Order confirm hua kya?,order_confirmation
+Please order confirmation dikhao.,order_confirmation
+Can you confirm mera order?,order_confirmation
+Order successfully ho gaya?,order_confirmation
+Mera purchase confirm hua?,order_confirmation
+Confirmation message dikhao.,order_confirmation
+Order place hua ya nahi?,order_confirmation
+Payment ke baad order confirm hua?,order_confirmation
+Order confirmation check karo.,order_confirmation
+Mujhe order confirm hai ya nahi batao.,order_confirmation
+Order accepted hua kya?,order_confirmation
+Order confirmation chahiye.,order_confirmation
+Confirm my order please.,order_confirmation
+Mera order receive hua?,order_confirmation
+
+order confirmed?,order_confirmation
+confirm order.,order_confirmation
+order success?,order_confirmation
+did order place?,order_confirmation
+confirmation pls.,order_confirmation
+
+My order has not arrived.,order_not_received
+I did not receive my order.,order_not_received
+My package is missing.,order_not_received
+Where is my package? I never received it.,order_not_received
+My order is marked delivered but I didn't get it.,order_not_received
+I haven't received my parcel yet.,order_not_received
+The order never arrived.,order_not_received
+My shipment was not delivered.,order_not_received
+I am still waiting for my order.,order_not_received
+The package is missing.,order_not_received
+My order was not delivered to me.,order_not_received
+I never got my purchase.,order_not_received
+Can you check why my order wasn't delivered?,order_not_received
+The courier says delivered but I didn't receive it.,order_not_received
+My delivery is missing.,order_not_received
+
+Mera order nahi mila.,order_not_received
+Mujhe mera order nahi mila.,order_not_received
+Mera parcel abhi tak nahi aaya.,order_not_received
+Order deliver nahi hua.,order_not_received
+Mera package missing hai.,order_not_received
+Delivery complete dikh rahi hai lekin order nahi mila.,order_not_received
+Mera shipment receive nahi hua.,order_not_received
+Order abhi tak nahi pahucha.,order_not_received
+Mujhe mera parcel receive nahi hua.,order_not_received
+Order kho gaya lagta hai.,order_not_received
+Courier deliver dikhata hai par mujhe nahi mila.,order_not_received
+Mera order missing hai.,order_not_received
+Abhi tak order receive nahi hua.,order_not_received
+Package deliver nahi hua.,order_not_received
+Mera order kahan gaya?,order_not_received
+
+Mera order nahi aaya.,order_not_received
+Parcel receive nahi hua.,order_not_received
+Order missing hai.,order_not_received
+Please mera order check karo.,order_not_received
+Can you check mera parcel?,order_not_received
+Delivery complete dikha raha hai but order nahi mila.,order_not_received
+Mujhe order abhi tak nahi mila.,order_not_received
+Package abhi tak receive nahi hua.,order_not_received
+Courier ne deliver nahi kiya.,order_not_received
+Mera shipment missing hai.,order_not_received
+Order kaha gaya?,order_not_received
+Parcel nahi mila yaar.,order_not_received
+Order receive nahi hua abhi tak.,order_not_received
+Delivery hui hi nahi.,order_not_received
+Order ka pata lagao.,order_not_received
+
+order not received.,order_not_received
+didn't get package.,order_not_received
+parcel missing.,order_not_received
+order missing.,order_not_received
+delivery not received.,order_not_received
