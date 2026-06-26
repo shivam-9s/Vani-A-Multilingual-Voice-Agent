@@ -520,3 +520,539 @@ didn't get package.,order_not_received
 parcel missing.,order_not_received
 order missing.,order_not_received
 delivery not received.,order_not_received
+
+What is my delivery status?,delivery_status
+Check my delivery status.,delivery_status
+Has my package been delivered?,delivery_status
+Is my order out for delivery?,delivery_status
+When will my package be delivered?,delivery_status
+Show my delivery status.,delivery_status
+Can you check my delivery progress?,delivery_status
+Is my shipment out for delivery?,delivery_status
+Tell me my delivery status.,delivery_status
+Has the delivery started?,delivery_status
+Is my delivery on the way?,delivery_status
+Give me the delivery update.,delivery_status
+When can I expect my delivery?,delivery_status
+Has my package reached my city?,delivery_status
+Is my order arriving today?,delivery_status
+
+Meri delivery ka status kya hai?,delivery_status
+Mera parcel deliver hua kya?,delivery_status
+Mera order out for delivery hai kya?,delivery_status
+Delivery kab hogi?,delivery_status
+Meri delivery ki current status batao.,delivery_status
+Package delivery update do.,delivery_status
+Delivery start hui kya?,delivery_status
+Mera order raste mein hai kya?,delivery_status
+Mujhe delivery status bataiye.,delivery_status
+Mera parcel kab deliver hoga?,delivery_status
+Delivery ki latest information do.,delivery_status
+Mera shipment delivery ke liye nikla kya?,delivery_status
+Order aaj deliver hoga kya?,delivery_status
+Delivery ka update chahiye.,delivery_status
+Meri delivery ki details dikhao.,delivery_status
+
+Delivery status batao.,delivery_status
+Mera parcel out for delivery hai?,delivery_status
+Please delivery check karo.,delivery_status
+Delivery update do.,delivery_status
+Can you check meri delivery?,delivery_status
+Mera order kab deliver hoga?,delivery_status
+Package delivery track karo.,delivery_status
+Delivery ka latest status dikhao.,delivery_status
+Aaj delivery hogi kya?,delivery_status
+Mera shipment deliver hone wala hai?,delivery_status
+Order delivery ka update chahiye.,delivery_status
+Delivery progress dikhao.,delivery_status
+Delivery check kar do.,delivery_status
+Mera order delivery pe hai kya?,delivery_status
+Package deliver hua ya nahi?,delivery_status
+
+delivery status.,delivery_status
+delivery update.,delivery_status
+out for delivery?,delivery_status
+package delivered?,delivery_status
+delivery today?,delivery_status
+
+Why is my delivery delayed?,delivery_delay
+My order is delayed.,delivery_delay
+My package hasn't arrived yet.,delivery_delay
+When will my delayed order arrive?,delivery_delay
+Why is my shipment taking so long?,delivery_delay
+The delivery is late.,delivery_delay
+Can you explain the delivery delay?,delivery_delay
+My parcel is running late.,delivery_delay
+My order was supposed to arrive today.,delivery_delay
+When can I expect my delayed package?,delivery_delay
+The estimated delivery date has passed.,delivery_delay
+Why hasn't my package been delivered yet?,delivery_delay
+My shipment is delayed.,delivery_delay
+Please check the delivery delay.,delivery_delay
+Is there any issue with my delivery?,delivery_delay
+
+Meri delivery late ho gayi hai.,delivery_delay
+Mera order abhi tak nahi aaya.,delivery_delay
+Delivery mein itni der kyu ho rahi hai?,delivery_delay
+Mera parcel late hai.,delivery_delay
+Delivery kab hogi?,delivery_delay
+Mera shipment delay ho gaya hai.,delivery_delay
+Mera order expected date par nahi aaya.,delivery_delay
+Package abhi tak deliver nahi hua.,delivery_delay
+Delivery delay ka reason batao.,delivery_delay
+Order itna late kyu hai?,delivery_delay
+Delivery mein problem hai kya?,delivery_delay
+Mera parcel kab tak aayega?,delivery_delay
+Expected delivery date nikal gayi.,delivery_delay
+Delivery update do.,delivery_delay
+Shipment late chal raha hai.,delivery_delay
+
+Delivery late hai.,delivery_delay
+Mera order delay ho gaya.,delivery_delay
+Parcel abhi tak nahi mila.,delivery_delay
+Please delivery jaldi karvao.,delivery_delay
+Can you check delivery delay?,delivery_delay
+Order late kyu hai?,delivery_delay
+Shipment abhi tak nahi aaya.,delivery_delay
+Delivery mein issue hai kya?,delivery_delay
+Package delay ho raha hai.,delivery_delay
+Order expected time pe nahi aaya.,delivery_delay
+Delivery status late dikha raha hai.,delivery_delay
+Mera courier delay hai.,delivery_delay
+Package kab deliver hoga?,delivery_delay
+Delivery ka reason batao.,delivery_delay
+Delay kitna aur hoga?,delivery_delay
+
+delivery delayed.,delivery_delay
+late delivery.,delivery_delay
+package late.,delivery_delay
+order delayed.,delivery_delay
+why delay?,delivery_delay
+
+Reschedule my delivery.,reschedule_delivery
+I want to change my delivery date.,reschedule_delivery
+Can you deliver it tomorrow?,reschedule_delivery
+Please reschedule my delivery.,reschedule_delivery
+I won't be available today.,reschedule_delivery
+Deliver my order on another day.,reschedule_delivery
+Can I postpone my delivery?,reschedule_delivery
+Change my delivery to tomorrow.,reschedule_delivery
+Reschedule order number 12345.,reschedule_delivery
+I need a different delivery date.,reschedule_delivery
+Deliver it next week.,reschedule_delivery
+Move my delivery to another date.,reschedule_delivery
+Can you postpone the shipment?,reschedule_delivery
+I want my package delivered later.,reschedule_delivery
+Please change my delivery schedule.,reschedule_delivery
+
+Meri delivery reschedule karo.,reschedule_delivery
+Mujhe delivery ki date badalni hai.,reschedule_delivery
+Kal delivery kar do.,reschedule_delivery
+Main aaj ghar par nahi hoon.,reschedule_delivery
+Delivery kal kar dena.,reschedule_delivery
+Meri delivery postpone kar do.,reschedule_delivery
+Order number 12345 ki delivery reschedule karo.,reschedule_delivery
+Agle hafte delivery karna.,reschedule_delivery
+Mujhe dusri date chahiye.,reschedule_delivery
+Delivery ki nayi date do.,reschedule_delivery
+Aaj delivery mat karo.,reschedule_delivery
+Delivery ko ek din aage badha do.,reschedule_delivery
+Main available nahi hoon.,reschedule_delivery
+Package baad mein deliver karna.,reschedule_delivery
+Delivery schedule change karo.,reschedule_delivery
+
+Delivery reschedule kar do.,reschedule_delivery
+Kal parcel bhej dena.,reschedule_delivery
+Please meri delivery postpone karo.,reschedule_delivery
+Delivery date change karni hai.,reschedule_delivery
+Can you reschedule meri delivery?,reschedule_delivery
+Mera order kal deliver karna.,reschedule_delivery
+Delivery next week kar do.,reschedule_delivery
+Mujhe aaj delivery nahi chahiye.,reschedule_delivery
+Parcel ki delivery date badal do.,reschedule_delivery
+Order ki delivery postpone karo.,reschedule_delivery
+Tomorrow delivery kar dena.,reschedule_delivery
+Delivery ek din baad karna.,reschedule_delivery
+Package baad mein bhejo.,reschedule_delivery
+Delivery ka schedule update karo.,reschedule_delivery
+Date change kar do delivery ki.,reschedule_delivery
+
+reschedule delivery.,reschedule_delivery
+deliver tomorrow.,reschedule_delivery
+change delivery date.,reschedule_delivery
+postpone delivery.,reschedule_delivery
+delivery later.,reschedule_delivery
+
+Change my delivery slot.,change_delivery_slot
+I want to change my delivery time.,change_delivery_slot
+Can you deliver it in the evening?,change_delivery_slot
+Please change my delivery slot.,change_delivery_slot
+I prefer morning delivery.,change_delivery_slot
+Deliver my package in the afternoon.,change_delivery_slot
+Can I change my delivery window?,change_delivery_slot
+Move my delivery to the evening slot.,change_delivery_slot
+I need a different delivery time.,change_delivery_slot
+Please update my delivery schedule.,change_delivery_slot
+Deliver it after 6 PM.,change_delivery_slot
+Can you change the delivery timing?,change_delivery_slot
+I won't be available in the morning.,change_delivery_slot
+Please deliver it before noon.,change_delivery_slot
+Shift my delivery to the evening.,change_delivery_slot
+
+Meri delivery ka time badal do.,change_delivery_slot
+Mujhe evening mein delivery chahiye.,change_delivery_slot
+Morning delivery kar do.,change_delivery_slot
+Afternoon mein parcel deliver karo.,change_delivery_slot
+Delivery slot change karo.,change_delivery_slot
+Mujhe dusra delivery slot chahiye.,change_delivery_slot
+Shaam mein delivery karna.,change_delivery_slot
+Subah delivery mat karna.,change_delivery_slot
+Dopehar mein parcel bhejna.,change_delivery_slot
+Delivery timing badal do.,change_delivery_slot
+Mujhe 6 baje ke baad delivery chahiye.,change_delivery_slot
+Morning ki jagah evening slot de do.,change_delivery_slot
+Delivery window change karo.,change_delivery_slot
+Mera delivery time update karo.,change_delivery_slot
+Package shaam ko deliver karna.,change_delivery_slot
+
+Delivery slot change kar do.,change_delivery_slot
+Please evening delivery karna.,change_delivery_slot
+Morning slot hata do.,change_delivery_slot
+Afternoon delivery chahiye.,change_delivery_slot
+Can you change meri delivery timing?,change_delivery_slot
+Delivery evening mein kar do.,change_delivery_slot
+Time slot update karo.,change_delivery_slot
+Package subah mat bhejna.,change_delivery_slot
+Delivery after office hours karna.,change_delivery_slot
+Mujhe evening slot hi chahiye.,change_delivery_slot
+Delivery timing change karo please.,change_delivery_slot
+Morning available nahi hoon.,change_delivery_slot
+Delivery 7 PM ke baad karna.,change_delivery_slot
+Delivery ka slot update kar do.,change_delivery_slot
+Time change kar do delivery ka.,change_delivery_slot
+
+change delivery slot.,change_delivery_slot
+change delivery time.,change_delivery_slot
+evening delivery.,change_delivery_slot
+morning delivery.,change_delivery_slot
+delivery after 6 pm.,change_delivery_slot
+
+Update my delivery address.,update_address
+Change my delivery address.,update_address
+I want to update my address.,update_address
+Please change my shipping address.,update_address
+Can you update my address?,update_address
+I entered the wrong address.,update_address
+I need to change my delivery location.,update_address
+Please modify my address before shipping.,update_address
+Deliver my order to a new address.,update_address
+I want my package sent to another address.,update_address
+Update the address for order 12345.,update_address
+Change the delivery location.,update_address
+Please correct my address.,update_address
+I have moved to a new address.,update_address
+My shipping address needs to be updated.,update_address
+
+Mera delivery address badal do.,update_address
+Mujhe apna address update karna hai.,update_address
+Mera shipping address change karo.,update_address
+Galat address dal diya tha.,update_address
+Naye address par delivery karo.,update_address
+Order number 12345 ka address badal do.,update_address
+Delivery location update karo.,update_address
+Mera naya address save karo.,update_address
+Maine ghar change kar liya hai.,update_address
+Package naye address par bhejo.,update_address
+Address mein correction karni hai.,update_address
+Delivery address update kar do.,update_address
+Mera address modify karo.,update_address
+Purana address hata do.,update_address
+Naya address use karo.,update_address
+
+Mera address change kar do.,update_address
+Please delivery address update karo.,update_address
+Address galat hai, change karo.,update_address
+Can you update mera address?,update_address
+Naye ghar pe delivery karna.,update_address
+Address edit kar do.,update_address
+Shipping address badal do.,update_address
+Delivery location change karo.,update_address
+Mera naya address add karo.,update_address
+Address update karna hai.,update_address
+Parcel naye address pe bhejna.,update_address
+Delivery address edit karo.,update_address
+Old address remove karo.,update_address
+Address update please.,update_address
+Package ko naye location par bhejo.,update_address
+
+change address.,update_address
+update address.,update_address
+wrong address.,update_address
+new address.,update_address
+change shipping address.,update_address
+Contact the delivery agent.,delivery_agent_contact
+I want to talk to the delivery agent.,delivery_agent_contact
+Can I get the delivery agent's phone number?,delivery_agent_contact
+Give me the courier's contact number.,delivery_agent_contact
+Please connect me with the delivery executive.,delivery_agent_contact
+I need to call the delivery person.,delivery_agent_contact
+Share the delivery partner's contact details.,delivery_agent_contact
+How can I contact my delivery agent?,delivery_agent_contact
+I want to speak with the courier.,delivery_agent_contact
+Can you provide the delivery person's number?,delivery_agent_contact
+Give me the contact details of the delivery executive.,delivery_agent_contact
+I need to reach the delivery partner.,delivery_agent_contact
+Can I call the courier agent?,delivery_agent_contact
+Please let me contact the delivery boy.,delivery_agent_contact
+Connect me to my delivery partner.,delivery_agent_contact
+
+Mujhe delivery agent se baat karni hai.,delivery_agent_contact
+Delivery agent ka number do.,delivery_agent_contact
+Courier wale ka contact do.,delivery_agent_contact
+Delivery boy ka phone number chahiye.,delivery_agent_contact
+Mujhe delivery executive se connect karo.,delivery_agent_contact
+Delivery partner ka number share karo.,delivery_agent_contact
+Courier se baat karni hai.,delivery_agent_contact
+Delivery wale ko call karna hai.,delivery_agent_contact
+Delivery agent ki details do.,delivery_agent_contact
+Mujhe courier ka contact chahiye.,delivery_agent_contact
+Delivery person ka mobile number batao.,delivery_agent_contact
+Delivery boy se baat karwao.,delivery_agent_contact
+Agent ka phone number do.,delivery_agent_contact
+Courier executive se connect karo.,delivery_agent_contact
+Delivery partner se contact karna hai.,delivery_agent_contact
+
+Delivery agent ka number batao.,delivery_agent_contact
+Please delivery boy se connect karo.,delivery_agent_contact
+Courier ka contact share karo.,delivery_agent_contact
+Can you call delivery agent?,delivery_agent_contact
+Delivery executive ka number chahiye.,delivery_agent_contact
+Delivery wale se baat karni hai.,delivery_agent_contact
+Courier agent ka contact do.,delivery_agent_contact
+Delivery partner ko connect karo.,delivery_agent_contact
+Delivery boy ko phone lagao.,delivery_agent_contact
+Mujhe delivery agent ka mobile do.,delivery_agent_contact
+Courier wale ka number chahiye.,delivery_agent_contact
+Delivery agent se baat karwa do.,delivery_agent_contact
+Delivery contact details do.,delivery_agent_contact
+Agent se connect karo.,delivery_agent_contact
+Delivery person ka contact batao.,delivery_agent_contact
+
+delivery agent number.,delivery_agent_contact
+contact courier.,delivery_agent_contact
+call delivery boy.,delivery_agent_contact
+courier phone number.,delivery_agent_contact
+delivery executive contact.,delivery_agent_contact
+I received an incomplete package.,missing_package
+One item is missing from my order.,missing_package
+My package is missing an item.,missing_package
+The parcel arrived without one product.,missing_package
+I did not receive all the items.,missing_package
+My order is incomplete.,missing_package
+The box was missing one product.,missing_package
+I received fewer items than ordered.,missing_package
+One product was not included.,missing_package
+My parcel is incomplete.,missing_package
+I received only part of my order.,missing_package
+An item is missing from the package.,missing_package
+The package arrived with missing products.,missing_package
+One accessory is missing.,missing_package
+Some items are missing from my parcel.,missing_package
+
+Mere order mein ek item missing hai.,missing_package
+Package mein ek product nahi mila.,missing_package
+Mera parcel incomplete hai.,missing_package
+Ek samaan nahi aaya.,missing_package
+Order mein ek cheez kam hai.,missing_package
+Mujhe saare items nahi mile.,missing_package
+Parcel mein product missing hai.,missing_package
+Ek accessory nahi mili.,missing_package
+Mera order adhoora hai.,missing_package
+Package mein ek item kam hai.,missing_package
+Box ke andar ek product nahi tha.,missing_package
+Mujhe sirf ek item mila.,missing_package
+Order ka ek part missing hai.,missing_package
+Parcel pura nahi hai.,missing_package
+Ek product deliver nahi hua.,missing_package
+
+Mere parcel mein ek item missing hai.,missing_package
+Package incomplete hai.,missing_package
+Order mein ek product kam hai.,missing_package
+Please missing item check karo.,missing_package
+Can you check missing product?,missing_package
+Mujhe pura order nahi mila.,missing_package
+Ek item nahi aaya.,missing_package
+Parcel ke andar product missing hai.,missing_package
+Missing item ka complaint karna hai.,missing_package
+Order incomplete deliver hua.,missing_package
+Box mein item nahi tha.,missing_package
+Package mein saman kam nikla.,missing_package
+Missing product ka kya karna hai?,missing_package
+Order ka ek item deliver nahi hua.,missing_package
+Parcel incomplete deliver hua.,missing_package
+
+item missing.,missing_package
+missing product.,missing_package
+parcel incomplete.,missing_package
+box empty.,missing_package
+one item missing.,missing_package
+My package arrived damaged.,damaged_package
+The product is damaged.,damaged_package
+I received a broken item.,damaged_package
+My parcel was damaged during delivery.,damaged_package
+The box is damaged.,damaged_package
+The item is defective.,damaged_package
+I received a damaged product.,damaged_package
+The package was torn.,damaged_package
+The product is not in good condition.,damaged_package
+The parcel arrived broken.,damaged_package
+The screen of the product is cracked.,damaged_package
+The item was damaged inside the box.,damaged_package
+The product has physical damage.,damaged_package
+The package was crushed during delivery.,damaged_package
+I need a replacement because the item is damaged.,damaged_package
+
+Mera package damage ho gaya hai.,damaged_package
+Mujhe damaged product mila hai.,damaged_package
+Parcel toot gaya hai.,damaged_package
+Product broken hai.,damaged_package
+Box damage hai.,damaged_package
+Delivery ke time package damage ho gaya.,damaged_package
+Item kharab hai.,damaged_package
+Mujhe defective product mila hai.,damaged_package
+Screen toot gayi hai.,damaged_package
+Package phata hua mila.,damaged_package
+Product ki condition kharab hai.,damaged_package
+Item toot kar aaya hai.,damaged_package
+Box daba hua hai.,damaged_package
+Product damage hai.,damaged_package
+Parcel damage deliver hua hai.,damaged_package
+
+Mera parcel damage hai.,damaged_package
+Product broken aaya hai.,damaged_package
+Please damaged item replace karo.,damaged_package
+Package phata hua hai.,damaged_package
+Can you check damaged product?,damaged_package
+Mujhe broken item mila hai.,damaged_package
+Delivery mein product damage ho gaya.,damaged_package
+Box toot gaya hai.,damaged_package
+Product ki screen crack hai.,damaged_package
+Damaged parcel receive hua.,damaged_package
+Item kharab nikla.,damaged_package
+Package ki condition achhi nahi hai.,damaged_package
+Damaged product ka complaint karna hai.,damaged_package
+Parcel damage deliver hua.,damaged_package
+Replacement chahiye product damage hai.,damaged_package
+
+damaged package.,damaged_package
+broken product.,damaged_package
+item damaged.,damaged_package
+parcel broken.,damaged_package
+box damaged.,damaged_package
+
+I received the wrong product.,wrong_delivery
+This is not the item I ordered.,wrong_delivery
+The wrong package was delivered.,wrong_delivery
+I got someone else's order.,wrong_delivery
+The delivered product is incorrect.,wrong_delivery
+I received the wrong item.,wrong_delivery
+This package belongs to someone else.,wrong_delivery
+The product doesn't match my order.,wrong_delivery
+Wrong order delivered to me.,wrong_delivery
+I received a different product.,wrong_delivery
+The item delivered is completely different.,wrong_delivery
+This is not my package.,wrong_delivery
+I got the wrong color and model.,wrong_delivery
+The courier delivered the wrong parcel.,wrong_delivery
+Please replace the wrongly delivered item.,wrong_delivery
+
+Mujhe galat product mila hai.,wrong_delivery
+Ye mera order nahi hai.,wrong_delivery
+Galat parcel deliver hua hai.,wrong_delivery
+Mujhe kisi aur ka order mila hai.,wrong_delivery
+Galat item deliver hua hai.,wrong_delivery
+Product order se match nahi karta.,wrong_delivery
+Mujhe dusra product mila hai.,wrong_delivery
+Ye package mera nahi hai.,wrong_delivery
+Courier ne galat parcel diya.,wrong_delivery
+Mera order kuch aur tha.,wrong_delivery
+Mujhe wrong delivery mili hai.,wrong_delivery
+Ye galat saman hai.,wrong_delivery
+Order ke badle dusra item aaya hai.,wrong_delivery
+Galat color deliver hua hai.,wrong_delivery
+Galat model bhej diya gaya.,wrong_delivery
+
+Mujhe wrong product mila.,wrong_delivery
+Please wrong order replace karo.,wrong_delivery
+Ye mera parcel nahi hai.,wrong_delivery
+Can you check wrong delivery?,wrong_delivery
+Wrong item receive hua hai.,wrong_delivery
+Courier ne galat package diya.,wrong_delivery
+Mera order alag tha.,wrong_delivery
+Product change ho gaya lagta hai.,wrong_delivery
+Galat saman deliver hua hai.,wrong_delivery
+Ye kisi aur ka order hai.,wrong_delivery
+Package galat address se aaya hai.,wrong_delivery
+Wrong delivery ka complaint karna hai.,wrong_delivery
+Order ke badle dusra parcel mila.,wrong_delivery
+Galat parcel receive hua.,wrong_delivery
+Wrong product replace kar do.,wrong_delivery
+
+wrong product.,wrong_delivery
+wrong item received.,wrong_delivery
+wrong parcel.,wrong_delivery
+received wrong order.,wrong_delivery
+this isn't my order.,wrong_delivery
+Leave the package at the front door.,delivery_instructions
+Call me before delivery.,delivery_instructions
+Please don't ring the doorbell.,delivery_instructions
+Deliver it to the security guard.,delivery_instructions
+Leave the parcel with my neighbor.,delivery_instructions
+Place the package at the reception.,delivery_instructions
+Hand it over to my family member.,delivery_instructions
+Leave the package outside the door.,delivery_instructions
+Deliver after calling me.,delivery_instructions
+Do not leave the package unattended.,delivery_instructions
+Please leave it in the mailbox.,delivery_instructions
+Call me when you arrive.,delivery_instructions
+Leave it with the watchman.,delivery_instructions
+Deliver only after confirming with me.,delivery_instructions
+Keep the package in a safe place.,delivery_instructions
+
+Package gate ke bahar rakh dena.,delivery_instructions
+Delivery se pehle mujhe call karna.,delivery_instructions
+Doorbell mat bajana.,delivery_instructions
+Parcel security guard ko de dena.,delivery_instructions
+Package padosi ke paas chhod dena.,delivery_instructions
+Reception par parcel rakh dena.,delivery_instructions
+Mere family member ko de dena.,delivery_instructions
+Parcel darwaze ke bahar rakh dena.,delivery_instructions
+Aane se pehle phone karna.,delivery_instructions
+Package unattended mat chhodna.,delivery_instructions
+Letter box mein parcel rakh dena.,delivery_instructions
+Ghar pahunchne par call karna.,delivery_instructions
+Watchman ko parcel de dena.,delivery_instructions
+Confirm karke hi delivery karna.,delivery_instructions
+Package safe jagah par rakhna.,delivery_instructions
+
+Gate ke bahar parcel rakh dena.,delivery_instructions
+Please delivery se pehle call karna.,delivery_instructions
+Bell mat bajana.,delivery_instructions
+Security ko parcel de dena.,delivery_instructions
+Can you leave package with neighbor?,delivery_instructions
+Reception pe parcel rakh dena.,delivery_instructions
+Call karke delivery karna.,delivery_instructions
+Package bahar mat chhodna.,delivery_instructions
+Watchman ko de dena.,delivery_instructions
+Family member ko handover kar dena.,delivery_instructions
+Safe place pe parcel rakhna.,delivery_instructions
+Package receive karne se pehle phone karna.,delivery_instructions
+Parcel ko front door pe rakh dena.,delivery_instructions
+Delivery instructions follow karna.,delivery_instructions
+Package guard ke paas chhod dena.,delivery_instructions
+
+leave at door.,delivery_instructions
+call before delivery.,delivery_instructions
+don't ring bell.,delivery_instructions
+leave with guard.,delivery_instructions
+leave with neighbor.,delivery_instructions
