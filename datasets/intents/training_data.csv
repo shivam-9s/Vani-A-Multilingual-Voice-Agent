@@ -1056,3 +1056,1441 @@ call before delivery.,delivery_instructions
 don't ring bell.,delivery_instructions
 leave with guard.,delivery_instructions
 leave with neighbor.,delivery_instructions
+What is my payment status?,payment_status
+Check my payment status.,payment_status
+Has my payment been received?,payment_status
+Did my payment go through?,payment_status
+Is my payment successful?,payment_status
+Can you verify my payment?,payment_status
+Show my payment details.,payment_status
+I want to know my payment status.,payment_status
+Has the payment been completed?,payment_status
+Was my payment processed?,payment_status
+Check whether my payment is successful.,payment_status
+Did you receive my payment?,payment_status
+Is my transaction complete?,payment_status
+Show the status of my payment.,payment_status
+Tell me if my payment is confirmed.,payment_status
+
+Mere payment ka status kya hai?,payment_status
+Mera payment successful hua kya?,payment_status
+Kya payment complete ho gaya?,payment_status
+Payment receive hua ya nahi?,payment_status
+Mera transaction successful hua kya?,payment_status
+Payment ka status batao.,payment_status
+Mujhe payment details dikhao.,payment_status
+Payment process hua kya?,payment_status
+Payment confirm hua ya nahi?,payment_status
+Mera payment verify karo.,payment_status
+Transaction complete hua kya?,payment_status
+Payment pending hai kya?,payment_status
+Mera payment check karo.,payment_status
+Payment receive hua kya?,payment_status
+Payment ki latest update do.,payment_status
+
+Payment status batao.,payment_status
+Mera payment check kar do.,payment_status
+Please payment verify karo.,payment_status
+Payment successful hua kya?,payment_status
+Can you check mera payment?,payment_status
+Payment complete hua ya nahi?,payment_status
+Transaction status dikhao.,payment_status
+Payment confirm karo.,payment_status
+Mera transaction check karo.,payment_status
+Payment ka update chahiye.,payment_status
+Payment process ho gaya kya?,payment_status
+Payment details batao.,payment_status
+Transaction verify karo.,payment_status
+Payment status please.,payment_status
+Payment update do.,payment_status
+
+payment status.,payment_status
+payment received?,payment_status
+transaction status.,payment_status
+payment confirmed.,payment_status
+check payment.,payment_status
+My payment failed.,payment_failed
+The payment was unsuccessful.,payment_failed
+My transaction was declined.,payment_failed
+I couldn't complete the payment.,payment_failed
+The payment did not go through.,payment_failed
+My card payment failed.,payment_failed
+The payment gateway showed an error.,payment_failed
+I received a payment failed message.,payment_failed
+The transaction could not be completed.,payment_failed
+My payment was rejected.,payment_failed
+The payment was cancelled automatically.,payment_failed
+My order wasn't placed because the payment failed.,payment_failed
+The payment page showed an error.,payment_failed
+I got a payment failure notification.,payment_failed
+My online payment failed.,payment_failed
+
+Mera payment fail ho gaya.,payment_failed
+Payment successful nahi hua.,payment_failed
+Transaction fail ho gaya.,payment_failed
+Mera payment complete nahi hua.,payment_failed
+Payment reject ho gaya.,payment_failed
+Card se payment nahi hua.,payment_failed
+Payment gateway error aa gaya.,payment_failed
+Mujhe payment failed ka message mila.,payment_failed
+Order place nahi hua payment fail hone ki wajah se.,payment_failed
+Payment process complete nahi hua.,payment_failed
+Transaction cancel ho gaya.,payment_failed
+Payment pending ke baad fail ho gaya.,payment_failed
+Online payment fail ho gaya.,payment_failed
+Payment mein error aa gaya.,payment_failed
+Payment accept nahi hua.,payment_failed
+
+Payment fail ho gaya.,payment_failed
+Transaction unsuccessful hai.,payment_failed
+Please payment check karo.,payment_failed
+Payment error aa raha hai.,payment_failed
+Can you check mera payment?,payment_failed
+Order place nahi hua kyunki payment fail hua.,payment_failed
+Payment reject ho gaya hai.,payment_failed
+Transaction complete nahi hua.,payment_failed
+Payment gateway issue hai.,payment_failed
+Payment process fail ho gaya.,payment_failed
+Card payment unsuccessful hai.,payment_failed
+Payment error fix karo.,payment_failed
+Payment retry karna hai.,payment_failed
+Payment complete nahi ho raha.,payment_failed
+Transaction failed dikha raha hai.,payment_failed
+
+payment failed.,payment_failed
+transaction failed.,payment_failed
+payment error.,payment_failed
+payment declined.,payment_failed
+payment unsuccessful.,payment_failed
+
+Where is my refund?,refund_status
+Check my refund status.,refund_status
+What is the status of my refund?,refund_status
+Has my refund been processed?,refund_status
+When will I receive my refund?,refund_status
+I want to know my refund status.,refund_status
+Has my refund been approved?,refund_status
+Show my refund details.,refund_status
+How long will my refund take?,refund_status
+Is my refund completed?,refund_status
+Has the refund been initiated?,refund_status
+When will the refunded amount be credited?,refund_status
+Can you check my refund?,refund_status
+I haven't received my refund yet.,refund_status
+Give me an update on my refund.,refund_status
+
+Mere refund ka status kya hai?,refund_status
+Mera refund kab milega?,refund_status
+Refund process hua kya?,refund_status
+Mera refund approve hua kya?,refund_status
+Refund ki latest update do.,refund_status
+Mujhe refund status batao.,refund_status
+Refund initiate hua ya nahi?,refund_status
+Refund amount kab aayega?,refund_status
+Mera paisa kab wapas milega?,refund_status
+Refund complete hua kya?,refund_status
+Mera refund check karo.,refund_status
+Refund receive nahi hua abhi tak.,refund_status
+Refund pending hai kya?,refund_status
+Refund details dikhao.,refund_status
+Refund ka update chahiye.,refund_status
+
+Refund status batao.,refund_status
+Please mera refund check karo.,refund_status
+Refund kab aayega?,refund_status
+Can you check mera refund?,refund_status
+Mera refund pending hai.,refund_status
+Refund complete hua ya nahi?,refund_status
+Refund process check karo.,refund_status
+Paisa refund hua kya?,refund_status
+Refund ki information do.,refund_status
+Refund amount receive nahi hua.,refund_status
+Refund update chahiye.,refund_status
+Mera refund verify karo.,refund_status
+Refund status please.,refund_status
+Refund track karo.,refund_status
+Refund ka latest status dikhao.,refund_status
+
+refund status.,refund_status
+where is refund.,refund_status
+refund pending.,refund_status
+refund update.,refund_status
+check refund.,refund_status
+I want a refund.,refund_request
+Please refund my money.,refund_request
+Initiate a refund for my order.,refund_request
+Can I get a refund?,refund_request
+I would like to request a refund.,refund_request
+Refund my payment.,refund_request
+Please process my refund.,refund_request
+I need my money back.,refund_request
+Start the refund process.,refund_request
+I want to return this item and get a refund.,refund_request
+Refund the amount to my account.,refund_request
+Can you issue my refund?,refund_request
+I need a full refund.,refund_request
+Please initiate my refund request.,refund_request
+I want my payment refunded.,refund_request
+
+Mujhe refund chahiye.,refund_request
+Mera paisa wapas karo.,refund_request
+Refund request raise karo.,refund_request
+Mujhe refund ke liye apply karna hai.,refund_request
+Mera payment refund karo.,refund_request
+Refund initiate karo.,refund_request
+Mujhe pura refund chahiye.,refund_request
+Mera refund process shuru karo.,refund_request
+Mera paisa account mein wapas bhejo.,refund_request
+Refund request accept karo.,refund_request
+Order ka refund chahiye.,refund_request
+Refund approve karo.,refund_request
+Mujhe payment wapas chahiye.,refund_request
+Refund ke liye request bhejo.,refund_request
+Refund ka process start karo.,refund_request
+
+Refund kar do.,refund_request
+Please mera refund initiate karo.,refund_request
+Mera paisa refund karo.,refund_request
+Can you refund my payment?,refund_request
+Refund request bhejna hai.,refund_request
+Mujhe refund apply karna hai.,refund_request
+Payment wapas kar do.,refund_request
+Refund process kar do.,refund_request
+Order ka refund chahiye please.,refund_request
+Mera amount wapas bhejo.,refund_request
+Refund request submit karo.,refund_request
+Paisa return kar do.,refund_request
+Refund chahiye yaar.,refund_request
+Payment refund please.,refund_request
+Refund initiate kar do.,refund_request
+
+refund request.,refund_request
+need refund.,refund_request
+refund my money.,refund_request
+initiate refund.,refund_request
+money back.,refund_request
+
+I need my invoice.,invoice_request
+Please send me the invoice.,invoice_request
+Can you generate my invoice?,invoice_request
+I want to download my invoice.,invoice_request
+Email me the invoice.,invoice_request
+Please send my bill.,invoice_request
+I need the receipt for my order.,invoice_request
+Can I get a copy of my invoice?,invoice_request
+Generate a GST invoice.,invoice_request
+I want the invoice for order 12345.,invoice_request
+Please provide my purchase receipt.,invoice_request
+Download my bill.,invoice_request
+I need the tax invoice.,invoice_request
+Share my invoice as a PDF.,invoice_request
+Please resend my invoice.,invoice_request
+
+Mujhe invoice chahiye.,invoice_request
+Mera invoice bhejo.,invoice_request
+Invoice generate karo.,invoice_request
+GST invoice chahiye.,invoice_request
+Order ka bill bhejo.,invoice_request
+Mujhe receipt chahiye.,invoice_request
+Invoice email kar do.,invoice_request
+Mera tax invoice bhejo.,invoice_request
+Order number 12345 ka invoice bhejo.,invoice_request
+Bill download karna hai.,invoice_request
+Invoice ki copy bhejo.,invoice_request
+Purchase receipt chahiye.,invoice_request
+Invoice PDF bhejo.,invoice_request
+Mera bill generate karo.,invoice_request
+Invoice dobara bhejo.,invoice_request
+
+Invoice bhej do.,invoice_request
+Please GST bill bhejo.,invoice_request
+Receipt send karo.,invoice_request
+Can you send mera invoice?,invoice_request
+Order ka invoice chahiye.,invoice_request
+Bill email kar do.,invoice_request
+Invoice PDF chahiye.,invoice_request
+Mera receipt bhejo.,invoice_request
+Invoice download karna hai.,invoice_request
+Purchase bill chahiye.,invoice_request
+Invoice resend karo.,invoice_request
+Bill ki copy bhejo.,invoice_request
+Tax invoice bhejo.,invoice_request
+Invoice please.,invoice_request
+Mujhe order ka bill do.,invoice_request
+
+invoice.,invoice_request
+send invoice.,invoice_request
+need receipt.,invoice_request
+gst invoice.,invoice_request
+download bill.,invoice_request
+Change my payment method.,payment_method_change
+I want to use a different payment method.,payment_method_change
+Please change my payment option.,payment_method_change
+Can I switch my payment method?,payment_method_change
+I want to pay using UPI instead.,payment_method_change
+Change my payment from card to UPI.,payment_method_change
+Switch my payment to credit card.,payment_method_change
+I want to pay using my debit card.,payment_method_change
+Change Cash on Delivery to online payment.,payment_method_change
+Update my payment method.,payment_method_change
+Use another payment option.,payment_method_change
+I selected the wrong payment method.,payment_method_change
+Please update my payment preference.,payment_method_change
+I want to change my payment mode.,payment_method_change
+Can you modify my payment method?,payment_method_change
+
+Mera payment method badal do.,payment_method_change
+Mujhe payment option change karna hai.,payment_method_change
+UPI se payment karna hai.,payment_method_change
+Card ki jagah UPI use karna hai.,payment_method_change
+Cash on Delivery hata do.,payment_method_change
+Online payment karna hai.,payment_method_change
+Payment mode change karo.,payment_method_change
+Credit card se payment karna hai.,payment_method_change
+Debit card use karna hai.,payment_method_change
+Payment preference update karo.,payment_method_change
+Galat payment method select ho gaya.,payment_method_change
+Payment option modify karo.,payment_method_change
+Mera payment mode update karo.,payment_method_change
+Dusra payment method use karna hai.,payment_method_change
+Payment type change karo.,payment_method_change
+
+Payment method change karo.,payment_method_change
+Please UPI se payment karna hai.,payment_method_change
+COD se online payment karna hai.,payment_method_change
+Can you change mera payment method?,payment_method_change
+Payment option update kar do.,payment_method_change
+Card se payment nahi karna.,payment_method_change
+UPI payment enable karo.,payment_method_change
+Mera payment mode badal do.,payment_method_change
+Payment choice change karni hai.,payment_method_change
+Credit card use karna hai.,payment_method_change
+Debit card select kar do.,payment_method_change
+Payment method edit karo.,payment_method_change
+Online payment pe switch karo.,payment_method_change
+Payment option please change.,payment_method_change
+Different payment method chahiye.,payment_method_change
+
+change payment method.,payment_method_change
+switch payment.,payment_method_change
+use UPI.,payment_method_change
+change payment option.,payment_method_change
+update payment mode.,payment_method_change
+I was charged twice.,duplicate_payment
+Money was deducted twice.,duplicate_payment
+Duplicate payment was made.,duplicate_payment
+I paid twice for the same order.,duplicate_payment
+The payment was processed two times.,duplicate_payment
+I have been charged twice.,duplicate_payment
+Double payment has been deducted.,duplicate_payment
+My account was debited twice.,duplicate_payment
+The same transaction happened twice.,duplicate_payment
+I accidentally made two payments.,duplicate_payment
+I made two payments for one order.,duplicate_payment
+My payment got duplicated.,duplicate_payment
+I paid twice by mistake.,duplicate_payment
+Two payments were taken for one purchase.,duplicate_payment
+Please check the duplicate transaction.,duplicate_payment
+
+Mere account se do baar paise kat gaye.,duplicate_payment
+Mera payment do baar ho gaya.,duplicate_payment
+Ek order ke liye do payment ho gaye.,duplicate_payment
+Duplicate payment ho gaya.,duplicate_payment
+Do baar transaction ho gaya.,duplicate_payment
+Mere paise do baar deduct hue.,duplicate_payment
+Same order ka payment do baar hua.,duplicate_payment
+Galti se do payment ho gaye.,duplicate_payment
+Mere account se double amount kata.,duplicate_payment
+Ek hi order ke liye double charge hua.,duplicate_payment
+Payment duplicate ho gaya.,duplicate_payment
+Do transactions dikh rahe hain.,duplicate_payment
+Mujhe do baar charge kiya gaya.,duplicate_payment
+Payment repeat ho gaya.,duplicate_payment
+Double payment issue hai.,duplicate_payment
+
+Payment do baar ho gaya.,duplicate_payment
+Money double deduct ho gaya.,duplicate_payment
+Please duplicate payment check karo.,duplicate_payment
+Can you verify duplicate payment?,duplicate_payment
+Same order ke liye 2 payments ho gaye.,duplicate_payment
+Double charge lag gaya.,duplicate_payment
+Mere account se extra paise kat gaye.,duplicate_payment
+Payment duplicate dikha raha hai.,duplicate_payment
+Transaction do baar hua.,duplicate_payment
+Double payment refund chahiye.,duplicate_payment
+Duplicate transaction check karo.,duplicate_payment
+Payment repeat ho gaya hai.,duplicate_payment
+Order ke liye do baar payment hua.,duplicate_payment
+Double amount deduct hua.,duplicate_payment
+Extra payment ho gaya.,duplicate_payment
+
+charged twice.,duplicate_payment
+double payment.,duplicate_payment
+money deducted twice.,duplicate_payment
+duplicate transaction.,duplicate_payment
+paid twice.,duplicate_payment
+Where is my cashback?,cashback_query
+Check my cashback status.,cashback_query
+I didn't receive my cashback.,cashback_query
+Has my cashback been credited?,cashback_query
+How much cashback did I earn?,cashback_query
+When will I receive my cashback?,cashback_query
+Show my cashback details.,cashback_query
+My cashback is missing.,cashback_query
+Can you check my cashback?,cashback_query
+I want to know my cashback amount.,cashback_query
+Cashback has not been credited.,cashback_query
+Is my cashback approved?,cashback_query
+Why didn't I receive cashback?,cashback_query
+Track my cashback.,cashback_query
+Give me a cashback update.,cashback_query
+
+Mera cashback kahan hai?,cashback_query
+Mujhe cashback nahi mila.,cashback_query
+Cashback kab milega?,cashback_query
+Cashback ka status batao.,cashback_query
+Mera cashback check karo.,cashback_query
+Cashback account mein aaya kya?,cashback_query
+Kitna cashback mila?,cashback_query
+Cashback credit hua kya?,cashback_query
+Mera cashback pending hai.,cashback_query
+Cashback ki details dikhao.,cashback_query
+Cashback approve hua kya?,cashback_query
+Mujhe cashback kyun nahi mila?,cashback_query
+Cashback track karo.,cashback_query
+Cashback ki latest update do.,cashback_query
+Cashback amount batao.,cashback_query
+
+Cashback check karo.,cashback_query
+Please mera cashback verify karo.,cashback_query
+Cashback kab credit hoga?,cashback_query
+Can you check mera cashback?,cashback_query
+Cashback nahi aaya.,cashback_query
+Cashback amount kitna hai?,cashback_query
+Cashback pending dikha raha hai.,cashback_query
+Mera cashback update do.,cashback_query
+Cashback receive nahi hua.,cashback_query
+Cashback ka info chahiye.,cashback_query
+Cashback credit kar do.,cashback_query
+Cashback status please.,cashback_query
+Offer ka cashback kahan gaya?,cashback_query
+Cashback verify karo.,cashback_query
+Cashback update chahiye.,cashback_query
+
+cashback status.,cashback_query
+cashback not received.,cashback_query
+cashback pending.,cashback_query
+check cashback.,cashback_query
+cashback credited?,cashback_query
+My promo code is not working.,promo_code_issue
+The coupon code is invalid.,promo_code_issue
+I can't apply the promo code.,promo_code_issue
+The discount was not applied.,promo_code_issue
+Why is my coupon not working?,promo_code_issue
+My voucher has expired.,promo_code_issue
+The offer code is not valid.,promo_code_issue
+I entered the coupon but got no discount.,promo_code_issue
+Please check my promo code.,promo_code_issue
+The promo code shows an error.,promo_code_issue
+My coupon was rejected.,promo_code_issue
+I am unable to redeem the offer.,promo_code_issue
+Discount coupon is not accepted.,promo_code_issue
+Why can't I use this voucher?,promo_code_issue
+The promotional code failed.,promo_code_issue
+
+Mera promo code kaam nahi kar raha.,promo_code_issue
+Coupon code invalid dikha raha hai.,promo_code_issue
+Promo code apply nahi ho raha.,promo_code_issue
+Discount nahi mila.,promo_code_issue
+Coupon accept nahi ho raha.,promo_code_issue
+Offer code expire ho gaya hai.,promo_code_issue
+Voucher kaam nahi kar raha.,promo_code_issue
+Promo code error aa raha hai.,promo_code_issue
+Discount apply nahi hua.,promo_code_issue
+Coupon reject ho gaya.,promo_code_issue
+Offer redeem nahi ho raha.,promo_code_issue
+Promo code verify karo.,promo_code_issue
+Coupon code check karo.,promo_code_issue
+Mera voucher invalid hai.,promo_code_issue
+Promo code use nahi kar pa raha hoon.,promo_code_issue
+
+Promo code check karo.,promo_code_issue
+Coupon apply kar do.,promo_code_issue
+Discount nahi lag raha.,promo_code_issue
+Can you check mera promo code?,promo_code_issue
+Voucher ka issue hai.,promo_code_issue
+Promo code invalid hai.,promo_code_issue
+Coupon work nahi kar raha.,promo_code_issue
+Offer code apply nahi ho raha.,promo_code_issue
+Discount coupon reject ho gaya.,promo_code_issue
+Promo code error fix karo.,promo_code_issue
+Coupon redeem nahi ho raha.,promo_code_issue
+Offer apply nahi hua.,promo_code_issue
+Promo code please check.,promo_code_issue
+Coupon issue solve karo.,promo_code_issue
+Discount code kaam nahi kar raha.,promo_code_issue
+
+promo code not working.,promo_code_issue
+invalid coupon.,promo_code_issue
+discount not applied.,promo_code_issue
+coupon error.,promo_code_issue
+offer code failed.,promo_code_issue
+
+Check my wallet balance.,wallet_balance
+What is my wallet balance?,wallet_balance
+Show my wallet balance.,wallet_balance
+How much money is in my wallet?,wallet_balance
+I want to check my wallet amount.,wallet_balance
+Display my wallet balance.,wallet_balance
+How much balance do I have in my wallet?,wallet_balance
+Can you show my wallet amount?,wallet_balance
+Is there any money in my wallet?,wallet_balance
+Show my wallet details.,wallet_balance
+What is the available wallet balance?,wallet_balance
+How much wallet credit do I have?,wallet_balance
+Check my wallet funds.,wallet_balance
+I want to know my wallet balance.,wallet_balance
+Display my wallet credits.,wallet_balance
+
+Mere wallet ka balance kya hai?,wallet_balance
+Mera wallet balance batao.,wallet_balance
+Wallet mein kitne paise hain?,wallet_balance
+Wallet balance check karo.,wallet_balance
+Mera wallet amount dikhao.,wallet_balance
+Wallet mein balance kitna hai?,wallet_balance
+Available wallet balance batao.,wallet_balance
+Wallet details dikhao.,wallet_balance
+Wallet mein paisa bacha hai kya?,wallet_balance
+Mujhe wallet balance dekhna hai.,wallet_balance
+Wallet credit kitna hai?,wallet_balance
+Mera wallet check karo.,wallet_balance
+Wallet amount batao.,wallet_balance
+Wallet ka current balance dikhao.,wallet_balance
+Wallet funds kitne hain?,wallet_balance
+
+Wallet balance check kar do.,wallet_balance
+Please mera wallet dikhao.,wallet_balance
+Wallet mein kitna paisa hai?,wallet_balance
+Can you check mera wallet?,wallet_balance
+Wallet amount verify karo.,wallet_balance
+Wallet balance update do.,wallet_balance
+Mera wallet empty hai kya?,wallet_balance
+Wallet credits dikhao.,wallet_balance
+Available balance kitna hai?,wallet_balance
+Wallet ka amount batao.,wallet_balance
+Wallet mein refund aaya kya?,wallet_balance
+Wallet balance please.,wallet_balance
+Wallet info chahiye.,wallet_balance
+Wallet funds check karo.,wallet_balance
+Mera wallet amount check karo.,wallet_balance
+
+wallet balance.,wallet_balance
+check wallet.,wallet_balance
+wallet amount.,wallet_balance
+wallet money.,wallet_balance
+available balance.,wallet_balance
+I can't log into my account.,login_issue
+Unable to log in.,login_issue
+Login is not working.,login_issue
+I am unable to access my account.,login_issue
+My login failed.,login_issue
+I can't sign in.,login_issue
+Login page is showing an error.,login_issue
+My account won't open.,login_issue
+I am having trouble logging in.,login_issue
+Can you help me log in?,login_issue
+I forgot my login credentials.,login_issue
+The login keeps failing.,login_issue
+I'm getting an authentication error.,login_issue
+Why can't I log into my account?,login_issue
+My account is inaccessible.,login_issue
+
+Main login nahi kar pa raha hoon.,login_issue
+Mera login nahi ho raha.,login_issue
+Account open nahi ho raha.,login_issue
+Login error aa raha hai.,login_issue
+Main account access nahi kar pa raha.,login_issue
+Sign in fail ho raha hai.,login_issue
+Mera account login nahi ho raha.,login_issue
+Login page error dikha raha hai.,login_issue
+Account mein enter nahi ho pa raha.,login_issue
+Login problem aa rahi hai.,login_issue
+Mujhe login mein help chahiye.,login_issue
+Credentials accept nahi ho rahe.,login_issue
+Authentication error aa raha hai.,login_issue
+Mera login baar baar fail ho raha hai.,login_issue
+Account access nahi mil raha.,login_issue
+
+Login nahi ho raha.,login_issue
+Please login help karo.,login_issue
+Can you check mera login?,login_issue
+Sign in issue aa raha hai.,login_issue
+Account open nahi ho raha yaar.,login_issue
+Login error fix karo.,login_issue
+Mera account access kara do.,login_issue
+Login page work nahi kar raha.,login_issue
+Credentials sahi hain phir bhi login nahi ho raha.,login_issue
+Login problem solve karo.,login_issue
+Unable to sign in.,login_issue
+Login failed again.,login_issue
+Account login issue hai.,login_issue
+Login check karo please.,login_issue
+Mera login verify karo.,login_issue
+
+login issue.,login_issue
+can't login.,login_issue
+login failed.,login_issue
+sign in problem.,login_issue
+unable to login.,login_issue
+I forgot my password.,reset_password
+Reset my password.,reset_password
+I want to change my password.,reset_password
+Please help me reset my password.,reset_password
+Can you send me a password reset link?,reset_password
+I can't remember my password.,reset_password
+Help me recover my password.,reset_password
+I need to create a new password.,reset_password
+How do I reset my password?,reset_password
+Send me a password reset email.,reset_password
+I want to update my account password.,reset_password
+My password is not working.,reset_password
+I need to recover my account password.,reset_password
+Please generate a password reset link.,reset_password
+I want to set a new password.,reset_password
+
+Main apna password bhool gaya hoon.,reset_password
+Mera password reset karo.,reset_password
+Mujhe password change karna hai.,reset_password
+Password reset link bhejo.,reset_password
+Mujhe naya password banana hai.,reset_password
+Password recover karna hai.,reset_password
+Mera password kaam nahi kar raha.,reset_password
+Account ka password update karna hai.,reset_password
+Password reset email bhejo.,reset_password
+Mujhe password yaad nahi hai.,reset_password
+Password dobara set karna hai.,reset_password
+Reset password ka option do.,reset_password
+Naya password set karna hai.,reset_password
+Password recovery mein help chahiye.,reset_password
+Mera account password badal do.,reset_password
+
+Password reset kar do.,reset_password
+Please password change karo.,reset_password
+Can you reset mera password?,reset_password
+Password yaad nahi hai.,reset_password
+Reset link bhej do.,reset_password
+Mujhe password recover karna hai.,reset_password
+Password update karna hai.,reset_password
+Naya password set kar do.,reset_password
+Password reset email bhejo please.,reset_password
+Password change nahi ho raha.,reset_password
+Forgot password ho gaya.,reset_password
+Account password reset karo.,reset_password
+Reset password please.,reset_password
+Password help chahiye.,reset_password
+Password recover kara do.,reset_password
+
+forgot password.,reset_password
+reset password.,reset_password
+change password.,reset_password
+recover password.,reset_password
+password reset link.,reset_password
+Change my email address.,change_email
+Update my registered email.,change_email
+I want to change my email.,change_email
+Please update my email address.,change_email
+Replace my old email with a new one.,change_email
+Can you change my email?,change_email
+I need to update my email ID.,change_email
+Modify my registered email address.,change_email
+My email address has changed.,change_email
+Please use my new email address.,change_email
+I want to register a different email.,change_email
+Update my account email.,change_email
+Can I use another email address?,change_email
+Please replace my existing email.,change_email
+I need to edit my email information.,change_email
+
+Mera email address badal do.,change_email
+Mujhe apna email update karna hai.,change_email
+Mera registered email change karo.,change_email
+Naya email address add karo.,change_email
+Purana email hata do.,change_email
+Mera email ID update karo.,change_email
+Account ka email badalna hai.,change_email
+Mera email address modify karo.,change_email
+Naya email register karo.,change_email
+Maine naya email banaya hai.,change_email
+Email address replace karo.,change_email
+Mera account email update karo.,change_email
+Dusra email use karna hai.,change_email
+Email details change karo.,change_email
+Mera email edit karo.,change_email
+
+Email change kar do.,change_email
+Please mera email update karo.,change_email
+Can you change mera email?,change_email
+New email add kar do.,change_email
+Old email remove karo.,change_email
+Email ID change karni hai.,change_email
+Account email update kar do.,change_email
+Mera registered email edit karo.,change_email
+Naya email use karna hai.,change_email
+Email replace kar do.,change_email
+Email update please.,change_email
+Mera email verify karke change karo.,change_email
+Email modify karo.,change_email
+Registered email badal do.,change_email
+Email change help chahiye.,change_email
+
+change email.,change_email
+update email.,change_email
+new email.,change_email
+replace email.,change_email
+edit email address.,change_email
+Change my phone number.,change_phone
+Update my mobile number.,change_phone
+I want to change my phone number.,change_phone
+Please update my contact number.,change_phone
+Replace my registered phone number.,change_phone
+Can you change my mobile number?,change_phone
+I have a new phone number.,change_phone
+Update my registered contact number.,change_phone
+Modify my phone number.,change_phone
+Please change my registered mobile number.,change_phone
+I need to update my contact details.,change_phone
+Can I use another phone number?,change_phone
+My mobile number has changed.,change_phone
+Please register my new phone number.,change_phone
+Edit my phone number.,change_phone
+
+Mera phone number badal do.,change_phone
+Mujhe apna mobile number update karna hai.,change_phone
+Mera registered number change karo.,change_phone
+Naya phone number add karo.,change_phone
+Purana mobile number hata do.,change_phone
+Mera contact number update karo.,change_phone
+Account ka phone number badalna hai.,change_phone
+Mera mobile number modify karo.,change_phone
+Naya number register karo.,change_phone
+Maine naya mobile number liya hai.,change_phone
+Phone number replace karo.,change_phone
+Mera account number update karo.,change_phone
+Dusra mobile number use karna hai.,change_phone
+Contact details change karo.,change_phone
+Mera phone number edit karo.,change_phone
+
+Phone number change kar do.,change_phone
+Please mera mobile number update karo.,change_phone
+Can you change mera phone number?,change_phone
+New mobile number add kar do.,change_phone
+Old number remove karo.,change_phone
+Mobile number change karna hai.,change_phone
+Account phone update kar do.,change_phone
+Registered mobile edit karo.,change_phone
+Naya number use karna hai.,change_phone
+Phone number replace kar do.,change_phone
+Contact number update please.,change_phone
+Mera phone verify karke change karo.,change_phone
+Mobile number modify karo.,change_phone
+Registered phone badal do.,change_phone
+Phone number change help chahiye.,change_phone
+
+change phone number.,change_phone
+update mobile number.,change_phone
+new phone number.,change_phone
+replace contact number.,change_phone
+edit mobile number.,change_phone
+
+Verify my account.,account_verification
+I need to verify my account.,account_verification
+Please verify my account.,account_verification
+My account is not verified.,account_verification
+Send me the verification email.,account_verification
+Send me the verification OTP.,account_verification
+I didn't receive the verification code.,account_verification
+Resend the verification email.,account_verification
+Resend the verification OTP.,account_verification
+Verify my email address.,account_verification
+Verify my phone number.,account_verification
+Complete my account verification.,account_verification
+Help me verify my account.,account_verification
+I want to verify my identity.,account_verification
+My verification link has expired.,account_verification
+
+Mera account verify karo.,account_verification
+Mujhe account verify karna hai.,account_verification
+Mera account verify nahi hua.,account_verification
+Verification email bhejo.,account_verification
+Verification OTP bhejo.,account_verification
+Mujhe verification code nahi mila.,account_verification
+Verification email dobara bhejo.,account_verification
+OTP dobara bhejo.,account_verification
+Mera email verify karo.,account_verification
+Mera phone number verify karo.,account_verification
+Account verification complete karo.,account_verification
+Identity verify karni hai.,account_verification
+Verification link expire ho gaya.,account_verification
+Mera account activate karne ke liye verify karo.,account_verification
+Verification mein help chahiye.,account_verification
+
+Account verify kar do.,account_verification
+Please verification OTP bhejo.,account_verification
+Can you verify mera account?,account_verification
+OTP receive nahi hua.,account_verification
+Verification email nahi aaya.,account_verification
+Email verify karna hai.,account_verification
+Phone verify karna hai.,account_verification
+Verification code resend karo.,account_verification
+Account verification pending hai.,account_verification
+Verification process complete karo.,account_verification
+Identity verify kara do.,account_verification
+Verification link bhejo.,account_verification
+Account verify please.,account_verification
+Verification help chahiye.,account_verification
+OTP verify nahi ho raha.,account_verification
+
+verify account.,account_verification
+verification OTP.,account_verification
+verification email.,account_verification
+verify identity.,account_verification
+account verification.,account_verification
+
+Update my profile.,profile_update
+I want to edit my profile.,profile_update
+Please update my profile information.,profile_update
+Change my profile details.,profile_update
+I need to update my personal information.,profile_update
+Edit my account profile.,profile_update
+Update my name.,profile_update
+Change my date of birth.,profile_update
+Update my profile picture.,profile_update
+Modify my profile.,profile_update
+Please change my personal details.,profile_update
+I want to edit my account information.,profile_update
+Update my gender information.,profile_update
+Correct my profile details.,profile_update
+I need to change my personal profile.,profile_update
+
+Mera profile update karo.,profile_update
+Mujhe apna profile edit karna hai.,profile_update
+Meri profile details badal do.,profile_update
+Mera naam change karna hai.,profile_update
+Date of birth update karni hai.,profile_update
+Profile photo change karni hai.,profile_update
+Meri personal information update karo.,profile_update
+Account profile modify karo.,profile_update
+Meri details sahi kar do.,profile_update
+Profile information edit karo.,profile_update
+Gender update karna hai.,profile_update
+Mera profile picture badal do.,profile_update
+Profile mein correction karni hai.,profile_update
+Personal details update karni hain.,profile_update
+Mera account profile update karo.,profile_update
+
+Profile update kar do.,profile_update
+Please mera profile edit karo.,profile_update
+Can you update mera profile?,profile_update
+Name change karna hai.,profile_update
+DOB update karni hai.,profile_update
+Profile photo update karo.,profile_update
+Personal info edit karo.,profile_update
+Profile details modify karo.,profile_update
+Mera account update karo.,profile_update
+Profile information change karni hai.,profile_update
+Details update kar do.,profile_update
+Profile picture replace karo.,profile_update
+Information edit karni hai.,profile_update
+Profile correction chahiye.,profile_update
+Account details update karo.,profile_update
+
+update profile.,profile_update
+edit profile.,profile_update
+change profile details.,profile_update
+update personal information.,profile_update
+modify profile.,profile_update
+
+My account is locked.,account_locked
+Please unlock my account.,account_locked
+I can't access my account because it's locked.,account_locked
+My account has been blocked.,account_locked
+Unlock my account.,account_locked
+My account is temporarily locked.,account_locked
+Why is my account locked?,account_locked
+I have been locked out of my account.,account_locked
+My account has been disabled.,account_locked
+Help me unlock my account.,account_locked
+My account was blocked after multiple login attempts.,account_locked
+I cannot use my account because it is locked.,account_locked
+Please remove the account lock.,account_locked
+My account is restricted.,account_locked
+I need access to my locked account.,account_locked
+
+Mera account lock ho gaya hai.,account_locked
+Mera account unlock karo.,account_locked
+Main account access nahi kar pa raha kyunki account lock hai.,account_locked
+Mera account block ho gaya hai.,account_locked
+Account unlock kar do.,account_locked
+Mera account temporarily lock hai.,account_locked
+Account lock kyu hua hai?,account_locked
+Main account se bahar ho gaya hoon.,account_locked
+Mera account disable ho gaya hai.,account_locked
+Account unlock karne mein help karo.,account_locked
+Multiple login attempts ke baad account lock ho gaya.,account_locked
+Main locked account use nahi kar pa raha.,account_locked
+Account restriction hatao.,account_locked
+Mujhe locked account access chahiye.,account_locked
+Mera account fir se activate karo.,account_locked
+
+Account lock ho gaya.,account_locked
+Please account unlock karo.,account_locked
+Can you unlock mera account?,account_locked
+Mera account blocked hai.,account_locked
+Login karte hi account lock dikha raha hai.,account_locked
+Account access nahi mil raha.,account_locked
+Locked account open karo.,account_locked
+Account restriction remove karo.,account_locked
+Block account ko unlock karo.,account_locked
+Mera account disable dikha raha hai.,account_locked
+Unlock account please.,account_locked
+Account locked issue hai.,account_locked
+Mujhe account unlock karwana hai.,account_locked
+Locked account verify karo.,account_locked
+Account block hata do.,account_locked
+
+account locked.,account_locked
+unlock account.,account_locked
+account blocked.,account_locked
+locked out.,account_locked
+account disabled.,account_locked
+Deactivate my account.,deactivate_account
+I want to deactivate my account.,deactivate_account
+Please deactivate my account.,deactivate_account
+Temporarily disable my account.,deactivate_account
+I don't want to use my account for now.,deactivate_account
+Pause my account.,deactivate_account
+Can you deactivate my account?,deactivate_account
+Disable my account temporarily.,deactivate_account
+I want to take a break from this account.,deactivate_account
+Suspend my account for now.,deactivate_account
+Temporarily close my account.,deactivate_account
+Please disable my profile.,deactivate_account
+I need to deactivate my profile.,deactivate_account
+Stop my account temporarily.,deactivate_account
+Deactivate my profile.,deactivate_account
+
+Mera account deactivate kar do.,deactivate_account
+Mujhe apna account deactivate karna hai.,deactivate_account
+Kripya mera account deactivate kar dijiye.,deactivate_account
+Mera account temporarily band kar do.,deactivate_account
+Main abhi account use nahi karna chahta.,deactivate_account
+Mera profile disable kar do.,deactivate_account
+Account ko kuch time ke liye band kar do.,deactivate_account
+Mera account pause kar do.,deactivate_account
+Temporary account disable karo.,deactivate_account
+Mera account suspend kar do.,deactivate_account
+Mujhe account deactivate karna hai.,deactivate_account
+Profile deactivate kar do.,deactivate_account
+Account ko temporary close karo.,deactivate_account
+Mera account kuch din ke liye disable karo.,deactivate_account
+Temporary account band karna hai.,deactivate_account
+
+Account deactivate kar do.,deactivate_account
+Please mera account disable karo.,deactivate_account
+Can you deactivate mera account?,deactivate_account
+Mera profile deactivate karo.,deactivate_account
+Account pause karna hai.,deactivate_account
+Temporary disable kar do.,deactivate_account
+Mujhe account band karna hai abhi.,deactivate_account
+Account ko hold par daal do.,deactivate_account
+Profile ko temporarily disable karo.,deactivate_account
+Account use nahi karna hai.,deactivate_account
+Deactivate account please.,deactivate_account
+Account ko kuch time ke liye rok do.,deactivate_account
+Mera account inactive kar do.,deactivate_account
+Temporary account deactivate chahiye.,deactivate_account
+Disable account for now.,deactivate_account
+
+deactivate account.,deactivate_account
+disable account.,deactivate_account
+pause account.,deactivate_account
+temporary account disable.,deactivate_account
+account deactivate.,deactivate_account
+Delete my account.,delete_account
+I want to delete my account.,delete_account
+Please delete my account.,delete_account
+Permanently delete my account.,delete_account
+Remove my account permanently.,delete_account
+Close my account forever.,delete_account
+Erase my account.,delete_account
+Delete my profile permanently.,delete_account
+Remove all my account data.,delete_account
+I don't want this account anymore.,delete_account
+Delete my account and personal information.,delete_account
+Please remove my profile permanently.,delete_account
+Erase all my account details.,delete_account
+I want to close my account permanently.,delete_account
+Delete my account immediately.,delete_account
+
+Mera account delete kar do.,delete_account
+Mujhe apna account delete karna hai.,delete_account
+Kripya mera account permanently delete kar dijiye.,delete_account
+Mera account hamesha ke liye hata do.,delete_account
+Mera profile delete karo.,delete_account
+Meri account details delete kar do.,delete_account
+Mera sara data hata do.,delete_account
+Account permanently remove karo.,delete_account
+Mera account band nahi, delete karna hai.,delete_account
+Mujhe ye account nahi chahiye.,delete_account
+Profile permanently remove karo.,delete_account
+Account aur data delete karo.,delete_account
+Mera account erase kar do.,delete_account
+Sabhi account records delete karo.,delete_account
+Account ko hamesha ke liye hata do.,delete_account
+
+Account delete kar do.,delete_account
+Please mera account remove karo.,delete_account
+Can you delete mera account?,delete_account
+Mera profile permanently hata do.,delete_account
+Account aur data remove kar do.,delete_account
+Delete account please.,delete_account
+Mujhe account permanently close karna hai.,delete_account
+Account erase karna hai.,delete_account
+Profile delete kar do.,delete_account
+Sab kuch delete kar do.,delete_account
+Account ko permanently remove karo.,delete_account
+Mera account close forever.,delete_account
+Data bhi delete kar do.,delete_account
+Account delete help chahiye.,delete_account
+Permanent account deletion chahiye.,delete_account
+
+delete account.,delete_account
+remove account.,delete_account
+erase account.,delete_account
+permanently delete.,delete_account
+close account forever.,delete_account
+Reactivate my account.,reactivate_account
+I want to reactivate my account.,reactivate_account
+Please reactivate my account.,reactivate_account
+Restore my account.,reactivate_account
+Enable my account again.,reactivate_account
+I want my account back.,reactivate_account
+Reopen my account.,reactivate_account
+Activate my account again.,reactivate_account
+Can you restore my account?,reactivate_account
+Please enable my account.,reactivate_account
+I want to use my account again.,reactivate_account
+Recover my deactivated account.,reactivate_account
+Please reopen my profile.,reactivate_account
+Reactivate my profile.,reactivate_account
+Bring back my account.,reactivate_account
+
+Mera account reactivate kar do.,reactivate_account
+Mujhe apna account fir se activate karna hai.,reactivate_account
+Mera account wapas chalu karo.,reactivate_account
+Kripya mera account restore kar dijiye.,reactivate_account
+Mera account dobara activate karo.,reactivate_account
+Mujhe mera account wapas chahiye.,reactivate_account
+Deactivate account ko activate karo.,reactivate_account
+Mera profile fir se enable karo.,reactivate_account
+Account ko dobara khol do.,reactivate_account
+Mera account recover karo.,reactivate_account
+Account restore karna hai.,reactivate_account
+Mera account fir se use karna hai.,reactivate_account
+Profile activate kar do.,reactivate_account
+Account enable kar do.,reactivate_account
+Mera account reopen karo.,reactivate_account
+
+Account reactivate kar do.,reactivate_account
+Please mera account restore karo.,reactivate_account
+Can you reactivate mera account?,reactivate_account
+Mera account wapas activate karo.,reactivate_account
+Account dobara chalu kar do.,reactivate_account
+Profile ko fir se activate karo.,reactivate_account
+Mujhe account fir se use karna hai.,reactivate_account
+Restore account please.,reactivate_account
+Account enable karna hai.,reactivate_account
+Reactivate account please.,reactivate_account
+Account recover kar do.,reactivate_account
+Mera account unlock aur activate karo.,reactivate_account
+Account ko dobara open karo.,reactivate_account
+Reopen my profile please.,reactivate_account
+Mera account wapas la do.,reactivate_account
+
+reactivate account.,reactivate_account
+restore account.,reactivate_account
+enable account again.,reactivate_account
+reopen account.,reactivate_account
+recover deactivated account.,reactivate_account
+
+Tell me about this product.,product_information
+I need information about this product.,product_information
+What are the specifications of this product?,product_information
+Show me the product details.,product_information
+Can you explain this product?,product_information
+I want to know more about this item.,product_information
+What features does this product have?,product_information
+Give me the product description.,product_information
+What is this product made of?,product_information
+Is this product waterproof?,product_information
+Does this product have a warranty?,product_information
+What are the dimensions of this product?,product_information
+Tell me the material of this product.,product_information
+Is this product suitable for daily use?,product_information
+Show complete product information.,product_information
+
+Mujhe is product ki jankari chahiye.,product_information
+Is product ke baare mein batao.,product_information
+Product ki details dikhao.,product_information
+Is product ke features kya hain?,product_information
+Product ka description batao.,product_information
+Ye product kis material ka bana hai?,product_information
+Kya ye product waterproof hai?,product_information
+Is product ki specification batao.,product_information
+Product ki size kya hai?,product_information
+Warranty kitni hai?,product_information
+Product ka weight kitna hai?,product_information
+Ye product kis kaam aata hai?,product_information
+Mujhe product ki poori details chahiye.,product_information
+Product ke baare mein aur batao.,product_information
+Ye product daily use ke liye hai kya?,product_information
+
+Product ki information do.,product_information
+Please product details batao.,product_information
+Can you explain ye product?,product_information
+Features dikhao.,product_information
+Specification batao.,product_information
+Product kis material ka hai?,product_information
+Warranty details do.,product_information
+Ye product waterproof hai kya?,product_information
+Product description dikhao.,product_information
+Iske baare mein aur batao.,product_information
+Product details check karo.,product_information
+Mujhe product info chahiye.,product_information
+Complete information dikhao.,product_information
+Product explain karo.,product_information
+Details please.,product_information
+
+product details.,product_information
+product specifications.,product_information
+product information.,product_information
+tell me about product.,product_information
+product description.,product_information
+Is this product available?,product_availability
+Is this item in stock?,product_availability
+Do you have this product?,product_availability
+Is this product currently available?,product_availability
+Can I buy this product now?,product_availability
+When will this product be back in stock?,product_availability
+Is the product out of stock?,product_availability
+Do you have this item in inventory?,product_availability
+Is this size available?,product_availability
+Is the blue color available?,product_availability
+Check product availability.,product_availability
+Can you check if this item is available?,product_availability
+Is this model available?,product_availability
+Do you still sell this product?,product_availability
+Show product availability.,product_availability
+
+Kya ye product available hai?,product_availability
+Kya ye item stock mein hai?,product_availability
+Ye product mil jayega kya?,product_availability
+Kya ye abhi available hai?,product_availability
+Ye product kab available hoga?,product_availability
+Stock mein hai kya?,product_availability
+Ye size available hai kya?,product_availability
+Blue color available hai kya?,product_availability
+Product availability check karo.,product_availability
+Ye model available hai kya?,product_availability
+Inventory mein ye product hai kya?,product_availability
+Out of stock hai kya?,product_availability
+Mujhe ye product chahiye, available hai?,product_availability
+Ye item purchase kar sakta hoon?,product_availability
+Product ki availability batao.,product_availability
+
+Product available hai?,product_availability
+Please stock check karo.,product_availability
+Can you check ye product?,product_availability
+Ye item stock mein hai?,product_availability
+Available color batao.,product_availability
+Available size dikhao.,product_availability
+Ye product kab restock hoga?,product_availability
+Stock update do.,product_availability
+Inventory check karo.,product_availability
+Product mil jayega kya?,product_availability
+Availability check kar do.,product_availability
+Ye variant available hai?,product_availability
+Product stock batao.,product_availability
+Please availability batao.,product_availability
+Ye product out of stock hai kya?,product_availability
+
+product available.,product_availability
+in stock.,product_availability
+out of stock.,product_availability
+availability check.,product_availability
+stock available.,product_availability
+Recommend a product for me.,product_recommendation
+Can you suggest a good product?,product_recommendation
+Recommend the best laptop.,product_recommendation
+Suggest a smartphone under ₹30000.,product_recommendation
+Which laptop should I buy?,product_recommendation
+Recommend a good smartwatch.,product_recommendation
+Suggest a gaming mouse.,product_recommendation
+Recommend headphones with good bass.,product_recommendation
+Suggest a budget smartphone.,product_recommendation
+Show me the best products.,product_recommendation
+Recommend a gift for my friend.,product_recommendation
+Suggest a good washing machine.,product_recommendation
+Recommend a laptop for students.,product_recommendation
+Show the top-rated products.,product_recommendation
+What do you recommend for daily use?,product_recommendation
+
+Mujhe koi accha product suggest karo.,product_recommendation
+Best laptop recommend karo.,product_recommendation
+₹30000 ke andar smartphone suggest karo.,product_recommendation
+Konsa laptop lena chahiye?,product_recommendation
+Accha smartwatch batao.,product_recommendation
+Gaming mouse recommend karo.,product_recommendation
+Best headphones suggest karo.,product_recommendation
+Budget phone recommend karo.,product_recommendation
+Best products dikhao.,product_recommendation
+Gift ke liye product suggest karo.,product_recommendation
+Students ke liye laptop batao.,product_recommendation
+Daily use ke liye product recommend karo.,product_recommendation
+Top-rated products dikhao.,product_recommendation
+Accha TV recommend karo.,product_recommendation
+Best shoes suggest karo.,product_recommendation
+
+Product recommend karo.,product_recommendation
+Please koi accha phone batao.,product_recommendation
+Can you suggest ek laptop?,product_recommendation
+Budget product dikhao.,product_recommendation
+Best option batao.,product_recommendation
+Recommendation do.,product_recommendation
+Top products dikhao.,product_recommendation
+Best smartwatch kaunsa hai?,product_recommendation
+Running shoes suggest karo.,product_recommendation
+Office use ke liye laptop batao.,product_recommendation
+Best earbuds recommend karo.,product_recommendation
+Koi accha gift suggest karo.,product_recommendation
+Phone recommend kar do.,product_recommendation
+Product suggestion chahiye.,product_recommendation
+Best choice batao.,product_recommendation
+
+recommend product.,product_recommendation
+best product.,product_recommendation
+suggest laptop.,product_recommendation
+recommend smartphone.,product_recommendation
+product suggestion.,product_recommendation
+I want to claim my warranty.,warranty_claim
+How do I claim the warranty?,warranty_claim
+Is my product under warranty?,warranty_claim
+Please start a warranty claim.,warranty_claim
+My product stopped working.,warranty_claim
+The product is defective and under warranty.,warranty_claim
+Can you check my warranty status?,warranty_claim
+I need warranty support.,warranty_claim
+Help me with a warranty claim.,warranty_claim
+The product has a manufacturing defect.,warranty_claim
+I want to repair my product under warranty.,warranty_claim
+Is this covered by warranty?,warranty_claim
+My warranty is still valid.,warranty_claim
+Please process my warranty request.,warranty_claim
+I need warranty service.,warranty_claim
+
+Mujhe warranty claim karna hai.,warranty_claim
+Warranty kaise claim karun?,warranty_claim
+Kya mera product warranty mein hai?,warranty_claim
+Warranty claim shuru karo.,warranty_claim
+Mera product kaam nahi kar raha.,warranty_claim
+Product warranty ke andar hai.,warranty_claim
+Warranty status check karo.,warranty_claim
+Mujhe warranty support chahiye.,warranty_claim
+Product mein manufacturing defect hai.,warranty_claim
+Warranty ke under repair karna hai.,warranty_claim
+Kya ye warranty cover mein aata hai?,warranty_claim
+Warranty abhi valid hai.,warranty_claim
+Warranty request process karo.,warranty_claim
+Product repair karwana hai warranty mein.,warranty_claim
+Warranty service chahiye.,warranty_claim
+
+Warranty claim kar do.,warranty_claim
+Please warranty check karo.,warranty_claim
+Can you verify meri warranty?,warranty_claim
+Product warranty mein hai kya?,warranty_claim
+Warranty support do.,warranty_claim
+Warranty request bhejo.,warranty_claim
+Repair under warranty chahiye.,warranty_claim
+Product kharab ho gaya hai.,warranty_claim
+Warranty valid hai kya?,warranty_claim
+Warranty process batao.,warranty_claim
+Claim warranty please.,warranty_claim
+Warranty ka status batao.,warranty_claim
+Warranty repair kar do.,warranty_claim
+Product repair request bhejo.,warranty_claim
+Warranty help chahiye.,warranty_claim
+
+claim warranty.,warranty_claim
+warranty status.,warranty_claim
+product under warranty.,warranty_claim
+warranty support.,warranty_claim
+warranty claim.,warranty_claim
+My product is not working.,technical_support
+I need technical support.,technical_support
+The app keeps crashing.,technical_support
+My device won't turn on.,technical_support
+I'm facing a technical issue.,technical_support
+Please help me troubleshoot the problem.,technical_support
+The application is not responding.,technical_support
+My product is malfunctioning.,technical_support
+The device freezes frequently.,technical_support
+The software is showing an error.,technical_support
+I'm unable to use the product properly.,technical_support
+The product stopped functioning.,technical_support
+Can you help me fix this issue?,technical_support
+The app is stuck on the loading screen.,technical_support
+I need help with my device.,technical_support
+
+Mera product kaam nahi kar raha.,technical_support
+Mujhe technical support chahiye.,technical_support
+App baar baar crash ho rahi hai.,technical_support
+Mera device on nahi ho raha.,technical_support
+Mujhe technical problem aa rahi hai.,technical_support
+Problem solve karne mein help karo.,technical_support
+Application response nahi de rahi.,technical_support
+Product sahi se kaam nahi kar raha.,technical_support
+Device baar baar hang ho raha hai.,technical_support
+Software error dikha raha hai.,technical_support
+Main product use nahi kar pa raha hoon.,technical_support
+Product achanak band ho gaya.,technical_support
+Issue fix karne mein help chahiye.,technical_support
+App loading screen par atak gayi hai.,technical_support
+Device ke liye support chahiye.,technical_support
+
+Product work nahi kar raha.,technical_support
+Please technical support do.,technical_support
+Can you fix mera issue?,technical_support
+App open nahi ho rahi.,technical_support
+Device hang ho raha hai.,technical_support
+Software problem aa rahi hai.,technical_support
+Product error dikha raha hai.,technical_support
+Technical issue solve karo.,technical_support
+App crash ho rahi hai.,technical_support
+Device restart nahi ho raha.,technical_support
+Support team se connect karo.,technical_support
+Troubleshooting help chahiye.,technical_support
+Product malfunction kar raha hai.,technical_support
+Issue resolve kar do.,technical_support
+Technical help please.,technical_support
+
+technical support.,technical_support
+product not working.,technical_support
+app crashing.,technical_support
+device issue.,technical_support
+technical problem.,technical_support
+I want to file a complaint.,raise_complaint
+Register my complaint.,raise_complaint
+I need to raise a complaint.,raise_complaint
+Please register my complaint.,raise_complaint
+I want to report an issue.,raise_complaint
+I am unhappy with your service.,raise_complaint
+I have a complaint about my order.,raise_complaint
+I want to submit a complaint.,raise_complaint
+Can you lodge a complaint for me?,raise_complaint
+I need to report a problem.,raise_complaint
+I want to complain about this product.,raise_complaint
+Please create a complaint ticket.,raise_complaint
+I have an issue that needs to be reported.,raise_complaint
+I would like to register a service complaint.,raise_complaint
+Help me raise a complaint.,raise_complaint
+
+Mujhe complaint register karni hai.,raise_complaint
+Mujhe complaint karni hai.,raise_complaint
+Meri complaint register karo.,raise_complaint
+Main ek issue report karna chahta hoon.,raise_complaint
+Mujhe service ki complaint karni hai.,raise_complaint
+Mera order lekar complaint karni hai.,raise_complaint
+Product ki complaint register karo.,raise_complaint
+Complaint ticket banao.,raise_complaint
+Meri problem report karo.,raise_complaint
+Main complaint submit karna chahta hoon.,raise_complaint
+Mujhe complaint raise karni hai.,raise_complaint
+Service se khush nahi hoon.,raise_complaint
+Issue report karna hai.,raise_complaint
+Complaint lodge karo.,raise_complaint
+Complaint create karo.,raise_complaint
+
+Complaint raise karo.,raise_complaint
+Please meri complaint register karo.,raise_complaint
+Can you file meri complaint?,raise_complaint
+Complaint submit kar do.,raise_complaint
+Issue report kar do.,raise_complaint
+Complaint ticket generate karo.,raise_complaint
+Mujhe complaint karni hai please.,raise_complaint
+Service complaint likho.,raise_complaint
+Problem report karni hai.,raise_complaint
+Complaint create kar do.,raise_complaint
+Meri problem note karo.,raise_complaint
+Complaint register please.,raise_complaint
+Support complaint bhejo.,raise_complaint
+Issue raise karna hai.,raise_complaint
+Complaint file kar do.,raise_complaint
+
+raise complaint.,raise_complaint
+file complaint.,raise_complaint
+register complaint.,raise_complaint
+report issue.,raise_complaint
+lodge complaint.,raise_complaint
+What is the status of my complaint?,complaint_status
+Check my complaint status.,complaint_status
+Has my complaint been resolved?,complaint_status
+Track my complaint.,complaint_status
+Give me an update on my complaint.,complaint_status
+Can you check my complaint?,complaint_status
+I want to know my complaint status.,complaint_status
+Show my complaint details.,complaint_status
+Is my complaint still open?,complaint_status
+Has my complaint been closed?,complaint_status
+What's the progress of my complaint?,complaint_status
+Complaint number 12345 status.,complaint_status
+When will my complaint be resolved?,complaint_status
+Please provide my complaint update.,complaint_status
+Check the status of my support ticket.,complaint_status
+
+Meri complaint ka status kya hai?,complaint_status
+Meri complaint check karo.,complaint_status
+Complaint resolve hui kya?,complaint_status
+Complaint ka update batao.,complaint_status
+Meri complaint track karo.,complaint_status
+Complaint ki current status batao.,complaint_status
+Complaint abhi open hai kya?,complaint_status
+Complaint close hui kya?,complaint_status
+Meri complaint kab solve hogi?,complaint_status
+Complaint details dikhao.,complaint_status
+Support ticket ka status batao.,complaint_status
+Complaint number 12345 ka status batao.,complaint_status
+Complaint pending hai kya?,complaint_status
+Complaint progress dikhao.,complaint_status
+Meri complaint ki latest update do.,complaint_status
+
+Complaint status batao.,complaint_status
+Please meri complaint check karo.,complaint_status
+Can you track meri complaint?,complaint_status
+Complaint update do.,complaint_status
+Complaint resolve hui ya nahi?,complaint_status
+Support ticket check karo.,complaint_status
+Complaint pending dikha raha hai.,complaint_status
+Complaint ka latest status dikhao.,complaint_status
+Meri complaint verify karo.,complaint_status
+Complaint ka result batao.,complaint_status
+Issue resolve hua kya?,complaint_status
+Complaint status please.,complaint_status
+Support request ka update do.,complaint_status
+Complaint tracking karo.,complaint_status
+Complaint follow-up chahiye.,complaint_status
+
+complaint status.,complaint_status
+track complaint.,complaint_status
+complaint update.,complaint_status
+check complaint.,complaint_status
+support ticket status.,complaint_status
