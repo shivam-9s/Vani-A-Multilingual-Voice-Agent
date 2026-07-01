@@ -1,76 +1,125 @@
+import os
 import pandas as pd
 
-# ---------------------------------------
-# Dataset Path
-# ---------------------------------------
+# ==========================================================
+# Configuration
+# ==========================================================
 
-DATASET_PATH = "datasets/intents/training_data.csv"
+INPUT_DATASET = "datasets/cleaned/training_data_clean.csv"
 
-# ---------------------------------------
-# Load Dataset
-# ---------------------------------------
+REPORT_FILE = "datasets/reports/dataset_conflicts.csv"
 
-df = pd.read_csv(DATASET_PATH)
+TEXT_COLUMNS = [
+    "text",
+    "sentence",
+    "query",
+    "utterance"
+]
 
-print("=" * 70)
-print("VANI DATASET REPAIR TOOL")
-print("=" * 70)
+INTENT_COLUMN = "intent"
 
-# ---------------------------------------
-# Find conflicting labels
-# ---------------------------------------
 
-conflicts = []
+# ==========================================================
+# Detect Text Column
+# ==========================================================
 
-grouped = df.groupby("text")
+def detect_text_column(df):
 
-for sentence, group in grouped:
+    for col in TEXT_COLUMNS:
+        if col in df.columns:
+            return col
 
-    intents = group["intent"].unique()
+    return None
 
-    if len(intents) > 1:
 
-        conflicts.append({
-            "text": sentence,
-            "intents": ", ".join(intents),
-            "count": len(group)
-        })
+# ==========================================================
+# Main
+# ==========================================================
 
-# ---------------------------------------
-# Display Results
-# ---------------------------------------
+def main():
 
-if len(conflicts) == 0:
+    print("=" * 70)
+    print("VANI DATASET REPAIR")
+    print("=" * 70)
 
-    print("\n✅ No conflicting labels found.")
+    df = pd.read_csv(INPUT_DATASET)
 
-else:
+    text_column = detect_text_column(df)
 
-    print(f"\n⚠ Conflicting Sentences : {len(conflicts)}\n")
+    if text_column is None:
+        print("❌ No valid text column found.")
+        return
 
-    for i, row in enumerate(conflicts, start=1):
+    print(f"\nDataset Loaded : {INPUT_DATASET}")
+    print(f"Samples : {len(df)}")
 
-        print("-" * 70)
-        print(f"{i}. Sentence")
-        print(row["text"])
+    # ------------------------------------------------------
+    # Detect Conflicts
+    # ------------------------------------------------------
 
-        print("\nAssigned Intents")
+    grouped = (
+        df.groupby(text_column)[INTENT_COLUMN]
+        .agg(list)
+        .reset_index()
+    )
 
-        for intent in row["intents"].split(", "):
+    conflicts = []
 
-            print(f"   • {intent}")
+    for _, row in grouped.iterrows():
 
-# ---------------------------------------
-# Export CSV
-# ---------------------------------------
+        intents = list(sorted(set(row[INTENT_COLUMN])))
 
-report = pd.DataFrame(conflicts)
+        if len(intents) > 1:
 
-report.to_csv(
-    "dataset_conflicts.csv",
-    index=False
-)
+            conflicts.append({
 
-print("\n" + "=" * 70)
-print("Conflict report saved as dataset_conflicts.csv")
-print("=" * 70)
+                "text": row[text_column],
+
+                "intent_count": len(intents),
+
+                "intents": ", ".join(intents)
+
+            })
+
+    conflict_df = pd.DataFrame(conflicts)
+
+    os.makedirs("datasets/reports", exist_ok=True)
+
+    conflict_df.to_csv(
+
+        REPORT_FILE,
+
+        index=False
+
+    )
+
+    print("\nConflict Report Generated")
+
+    print(REPORT_FILE)
+
+    print(f"\nTotal Conflicting Text : {len(conflict_df)}")
+
+    # ------------------------------------------------------
+    # Preview
+    # ------------------------------------------------------
+
+    if len(conflict_df):
+
+        print("\nFirst 10 Conflicts\n")
+
+        print(conflict_df.head(10).to_string(index=False))
+
+    else:
+
+        print("\nNo conflicting samples found.")
+
+    print("\nRepair Report Generated Successfully.")
+
+
+# ==========================================================
+# Main
+# ==========================================================
+
+if __name__ == "__main__":
+
+    main()

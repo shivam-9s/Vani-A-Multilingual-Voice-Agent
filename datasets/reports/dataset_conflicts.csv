@@ -1,14 +1,13 @@
-text,intents,count
-Account access nahi mil raha.,"login_issue, account_locked",2
-Agent se connect karo.,"delivery_agent_contact, speak_to_agent",2
-Can you check mera parcel?,"order_status, order_not_received",2
-Can you check mera payment?,"payment_status, payment_failed",2
-Color change karna hai.,"modify_order, exchange_order",2
-Delivery kab hogi?,"delivery_status, delivery_delay",2
-Delivery update do.,"delivery_status, delivery_delay",2
-I want to track my package.,"order_status, track_shipment",2
-Is my order out for delivery?,"order_status, delivery_status",2
-Mera package locate karo.,"order_status, track_shipment",2
-Mera product kaam nahi kar raha.,"warranty_claim, technical_support",2
-Mera shipment track karo.,"order_status, track_shipment",2
-Size change karna hai.,"modify_order, exchange_order",2
+text,intent_count,intents
+Agent se connect karo.,2,"delivery_agent_contact, speak_to_agent"
+Can you check mera parcel?,2,"order_not_received, order_status"
+Can you check mera payment?,2,"payment_failed, payment_status"
+Color change karna hai.,2,"exchange_order, modify_order"
+Delivery update do.,2,"delivery_status, reschedule_delivery"
+Has my order been confirmed?,2,"order_confirmation, order_status"
+Is my order out for delivery?,2,"delivery_status, order_status"
+Kya mera order confirm ho gaya hai?,2,"order_confirmation, order_status"
+Mera parcel abhi tak nahi aaya.,2,"delivery_delay, order_not_received"
+Mera product kaam nahi kar raha.,2,"technical_support, warranty_claim"
+Mera shipment kahan hai?,2,"order_status, track_shipment"
+Size change karna hai.,2,"exchange_order, modify_order"
