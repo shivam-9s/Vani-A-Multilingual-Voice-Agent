@@ -6,12 +6,61 @@ Track my order.,order_status
 Can you check my order status?,order_status
 What is the status of my order?,order_status
 Has my order been shipped?,order_status
-I want to track my package.,order_status
+
 Can you tell me where my parcel is?,order_status
 Please track order number 12345.,order_status
 Show my order status.,order_status
 Is my order out for delivery?,order_status
-
+Has my order been confirmed?,order_status
+Is my order being processed?,order_status
+Can you tell me my current order status?,order_status
+Has my order been packed yet?,order_status
+Is my order ready for shipping?,order_status
+What stage is my order in?,order_status
+Can I get an update on my order?,order_status
+Has my purchase been processed?,order_status
+Please check my order progress.,order_status
+Has my order moved to the next stage?,order_status
+Is my order still under processing?,order_status
+Has my order been approved?,order_status
+Can you update me about my order?,order_status
+What is happening with my order?,order_status
+Is my order waiting for dispatch?,order_status
+Has my order entered shipping stage?,order_status
+Can you verify my order status?,order_status
+Has the seller processed my order?,order_status
+What is the latest update on my order?,order_status
+Is everything fine with my order?,order_status
+Mere order ki current sthiti kya hai?,order_status
+Kya mera order confirm ho gaya hai?,order_status
+Mera order process ho raha hai kya?,order_status
+Mera order ab kis stage mein hai?,order_status
+Mere order ka latest status bataiye.,order_status
+Kya mera order pack ho gaya hai?,order_status
+Mera order dispatch ke liye ready hai kya?,order_status
+Order ki processing complete hui kya?,order_status
+Mera order approve hua ya nahi?,order_status
+Order ke baare mein update dijiye.,order_status
+Kya mera order abhi pending hai?,order_status
+Order ki vartaman sthiti kya hai?,order_status
+Mera order complete hua ya nahi?,order_status
+Mera order kis phase mein chal raha hai?,order_status
+Order ki progress bataiye.,order_status
+Mera order abhi kis stage pe hai?,order_status
+Order ka latest status check karo.,order_status
+Mera order process hua kya?,order_status
+Order confirm hua ya nahi?,order_status
+Mere order ki progress batao.,order_status
+Order ka current update chahiye.,order_status
+Please mera order status verify karo.,order_status
+Order ka processing status bata do.,order_status
+Mera order pending hai kya?,order_status
+Order dispatch hone wala hai kya?,order_status
+Order ka recent update do.,order_status
+Mera order ready hua kya?,order_status
+Order complete hua ya abhi process mein hai?,order_status
+Can you check mera order status?,order_status
+Mujhe order ka current status batao.,order_status
 Mera order kahan hai?,order_status
 Mere order ka status batao.,order_status
 Mera parcel track karo.,order_status
@@ -34,7 +83,29 @@ Order ka latest status batao.,order_status
 Parcel ka update do.,order_status
 
 
-Mera package locate karo.,order_status
+
+Where is my order now?,order_status
+Track my latest order.,order_status
+Please check where my package is.,order_status
+Has my order reached the delivery center?,order_status
+Can you locate my shipment?,order_status
+Order tracking update please.,order_status
+Where can I see my order status?,order_status
+Is my parcel on the way?,order_status
+Show me my latest order update.,order_status
+I need the latest tracking information.,order_status
+
+Mera order abhi kahan hai?,order_status
+Order ka current status dikhao.,order_status
+Parcel ki latest location batao.,order_status
+
+Order delivery update chahiye.,order_status
+
+Order ka live status batao.,order_status
+Can you check mera parcel?,order_status
+Mujhe order tracking chahiye.,order_status
+Order locate karo.,order_status
+Package tracking update do.,order_status
 Track my shipment.,track_shipment
 Where is my shipment?,track_shipment
 Can you track my shipment?,track_shipment
@@ -50,6 +121,56 @@ Locate my package.,track_shipment
 Provide shipment tracking information.,track_shipment
 Track my delivery package.,track_shipment
 Give me shipment updates.,track_shipment
+Track my shipment.,track_shipment
+Where is my shipment right now?,track_shipment
+Locate my package.,track_shipment
+Track my parcel live.,track_shipment
+Show my shipment location.,track_shipment
+Where is my courier currently?,track_shipment
+Can you locate my package?,track_shipment
+I want live tracking for my parcel.,track_shipment
+Please track my courier.,track_shipment
+Track my delivery vehicle.,track_shipment
+Can I see my shipment location?,track_shipment
+Show me the current location of my package.,track_shipment
+Find my parcel.,track_shipment
+Track my courier in real time.,track_shipment
+Where is my package now?,track_shipment
+Check my shipment location.,track_shipment
+Locate my courier immediately.,track_shipment
+Track this package for me.,track_shipment
+Show the latest location of my shipment.,track_shipment
+Where is the delivery vehicle?,track_shipment
+Mera shipment kahan hai?,track_shipment
+Mera parcel abhi kahan hai?,track_shipment
+Meri courier ki location bataiye.,track_shipment
+Mera package locate kijiye.,track_shipment
+Shipment ki current location bataiye.,track_shipment
+Parcel track kijiye.,track_shipment
+Courier ki live location dikhaiye.,track_shipment
+Mera package kis jagah hai?,track_shipment
+Shipment ka live tracking dikhaiye.,track_shipment
+Courier ki movement bataiye.,track_shipment
+Mera parcel kis city mein hai?,track_shipment
+Package ki location check kijiye.,track_shipment
+Courier abhi kahan pahucha hai?,track_shipment
+Shipment ki location update dijiye.,track_shipment
+Mera courier locate kijiye.,track_shipment
+Mera shipment track karo.,track_shipment
+Mera parcel locate karo.,track_shipment
+Courier ki live location batao.,track_shipment
+Package kahan hai check karo.,track_shipment
+Shipment ka live update do.,track_shipment
+Please mera parcel track karo.,track_shipment
+Courier track kar do.,track_shipment
+Mera package kidhar hai?,track_shipment
+Shipment ki location check karo.,track_shipment
+Mera courier abhi kahan hai?,track_shipment
+Track my parcel please.,track_shipment
+Package ka live location dikhao.,track_shipment
+Can you locate mera shipment?,track_shipment
+Shipment tracking chalu karo.,track_shipment
+Courier ki current location batao.,track_shipment
 
 Mera shipment track karo.,track_shipment
 Mera parcel kahan hai?,track_shipment
@@ -205,7 +326,7 @@ I need to return the item.,return_order
 I want to initiate a return.,return_order
 How can I return my order?,return_order
 Start the return process.,return_order
-The product is not suitable, I want to return it.,return_order
+The product is not suitable I want to return it.,return_order
 I want to send this product back.,return_order
 Return order number 12345.,return_order
 I received the wrong product and want to return it.,return_order
@@ -220,7 +341,7 @@ Main is product ko wapas karna chahta hoon.,return_order
 Return process shuru karo.,return_order
 Order number 12345 return karna hai.,return_order
 Product pasand nahi aaya.,return_order
-Galat product mila hai, return karna hai.,return_order
+Galat product mila hai return karna hai.,return_order
 Return pickup arrange karo.,return_order
 Mujhe refund ke liye return karna hai.,return_order
 Is item ko wapas lena hai.,return_order
@@ -237,7 +358,7 @@ Mujhe return karna hai.,return_order
 Can you return mera order?,return_order
 Order return process batao.,return_order
 Return pickup kab hoga?,return_order
-Product exchange nahi, return chahiye.,return_order
+Product exchange nahi return chahiye.,return_order
 Mera parcel return kar do.,return_order
 Ye item pasand nahi aaya.,return_order
 Order ko return ke liye register karo.,return_order
@@ -262,7 +383,7 @@ Exchange order number 12345.,exchange_order
 Can you arrange an exchange?,exchange_order
 Replace my product with another one.,exchange_order
 I received the wrong size.,exchange_order
-The color is incorrect, I need an exchange.,exchange_order
+The color is incorrect I need an exchange.,exchange_order
 I want another variant of this product.,exchange_order
 Please process my exchange request.,exchange_order
 Help me exchange my purchase.,exchange_order
@@ -540,9 +661,9 @@ Is my order arriving today?,delivery_status
 Meri delivery ka status kya hai?,delivery_status
 Mera parcel deliver hua kya?,delivery_status
 Mera order out for delivery hai kya?,delivery_status
-Delivery kab hogi?,delivery_status
+
 Meri delivery ki current status batao.,delivery_status
-Package delivery update do.,delivery_status
+
 Delivery start hui kya?,delivery_status
 Mera order raste mein hai kya?,delivery_status
 Mujhe delivery status bataiye.,delivery_status
@@ -595,7 +716,7 @@ Meri delivery late ho gayi hai.,delivery_delay
 Mera order abhi tak nahi aaya.,delivery_delay
 Delivery mein itni der kyu ho rahi hai?,delivery_delay
 Mera parcel late hai.,delivery_delay
-Delivery kab hogi?,delivery_delay
+
 Mera shipment delay ho gaya hai.,delivery_delay
 Mera order expected date par nahi aaya.,delivery_delay
 Package abhi tak deliver nahi hua.,delivery_delay
@@ -604,7 +725,7 @@ Order itna late kyu hai?,delivery_delay
 Delivery mein problem hai kya?,delivery_delay
 Mera parcel kab tak aayega?,delivery_delay
 Expected delivery date nikal gayi.,delivery_delay
-Delivery update do.,delivery_delay
+
 Shipment late chal raha hai.,delivery_delay
 
 Delivery late hai.,delivery_delay
@@ -771,7 +892,7 @@ Naya address use karo.,update_address
 
 Mera address change kar do.,update_address
 Please delivery address update karo.,update_address
-Address galat hai, change karo.,update_address
+Address galat hai change karo.,update_address
 Can you update mera address?,update_address
 Naye ghar pe delivery karna.,update_address
 Address edit kar do.,update_address
@@ -1619,7 +1740,6 @@ Mujhe login mein help chahiye.,login_issue
 Credentials accept nahi ho rahe.,login_issue
 Authentication error aa raha hai.,login_issue
 Mera login baar baar fail ho raha hai.,login_issue
-Account access nahi mil raha.,login_issue
 
 Login nahi ho raha.,login_issue
 Please login help karo.,login_issue
@@ -1947,7 +2067,7 @@ Please account unlock karo.,account_locked
 Can you unlock mera account?,account_locked
 Mera account blocked hai.,account_locked
 Login karte hi account lock dikha raha hai.,account_locked
-Account access nahi mil raha.,account_locked
+
 Locked account open karo.,account_locked
 Account restriction remove karo.,account_locked
 Block account ko unlock karo.,account_locked
@@ -1956,6 +2076,8 @@ Unlock account please.,account_locked
 Account locked issue hai.,account_locked
 Mujhe account unlock karwana hai.,account_locked
 Locked account verify karo.,account_locked
+Mera account lock ho gaya hai.,account_locked
+System account blocked dikha raha hai.,account_locked
 Account block hata do.,account_locked
 
 account locked.,account_locked
@@ -2040,7 +2162,7 @@ Mera profile delete karo.,delete_account
 Meri account details delete kar do.,delete_account
 Mera sara data hata do.,delete_account
 Account permanently remove karo.,delete_account
-Mera account band nahi, delete karna hai.,delete_account
+Mera account band nahi delete karna hai.,delete_account
 Mujhe ye account nahi chahiye.,delete_account
 Profile permanently remove karo.,delete_account
 Account aur data delete karo.,delete_account
@@ -2204,7 +2326,7 @@ Product availability check karo.,product_availability
 Ye model available hai kya?,product_availability
 Inventory mein ye product hai kya?,product_availability
 Out of stock hai kya?,product_availability
-Mujhe ye product chahiye, available hai?,product_availability
+Mujhe ye product chahiye available hai?,product_availability
 Ye item purchase kar sakta hoon?,product_availability
 Product ki availability batao.,product_availability
 
@@ -2472,7 +2594,6 @@ Complaint number 12345 ka status batao.,complaint_status
 Complaint pending hai kya?,complaint_status
 Complaint progress dikhao.,complaint_status
 Meri complaint ki latest update do.,complaint_status
-
 Complaint status batao.,complaint_status
 Please meri complaint check karo.,complaint_status
 Can you track meri complaint?,complaint_status
@@ -2488,9 +2609,646 @@ Complaint status please.,complaint_status
 Support request ka update do.,complaint_status
 Complaint tracking karo.,complaint_status
 Complaint follow-up chahiye.,complaint_status
-
 complaint status.,complaint_status
 track complaint.,complaint_status
 complaint update.,complaint_status
 check complaint.,complaint_status
 support ticket status.,complaint_status
+I want to speak to a human.,speak_to_agent
+Connect me to a customer support agent.,speak_to_agent
+Transfer me to a live agent.,speak_to_agent
+I need to talk to a representative.,speak_to_agent
+Can I speak with a human?,speak_to_agent
+Please connect me to customer care.,speak_to_agent
+I want to talk to customer support.,speak_to_agent
+Let me speak to an agent.,speak_to_agent
+I don't want to talk to a bot.,speak_to_agent
+Connect me to a support executive.,speak_to_agent
+I need human assistance.,speak_to_agent
+Transfer my chat to a live representative.,speak_to_agent
+Can I speak to your support team?,speak_to_agent
+Please connect me with a real person.,speak_to_agent
+I need to speak with customer service.,speak_to_agent
+Mujhe customer care se baat karni hai.,speak_to_agent
+Mujhe kisi agent se connect karo.,speak_to_agent
+Mujhe human se baat karni hai.,speak_to_agent
+Live agent se connect karo.,speak_to_agent
+Customer support se baat karni hai.,speak_to_agent
+Mujhe representative se baat karni hai.,speak_to_agent
+Bot se baat nahi karni.,speak_to_agent
+Real person se connect karo.,speak_to_agent
+Support executive se baat karwao.,speak_to_agent
+Customer care ka representative chahiye.,speak_to_agent
+Mujhe support team se connect karo.,speak_to_agent
+Agent se call karwao.,speak_to_agent
+Live support chahiye.,speak_to_agent
+Human support do.,speak_to_agent
+Mujhe kisi insaan se baat karni hai.,speak_to_agent
+Agent se connect karo.,speak_to_agent
+Please customer care se connect karo.,speak_to_agent
+Can you connect me to a human?,speak_to_agent
+Support team se baat karni hai.,speak_to_agent
+Live chat agent chahiye.,speak_to_agent
+Representative se connect karo.,speak_to_agent
+Real agent chahiye.,speak_to_agent
+Customer support please.,speak_to_agent
+Human assistance chahiye.,speak_to_agent
+Agent se baat karni hai.,speak_to_agent
+Support executive se connect karo.,speak_to_agent
+Bot se transfer karo.,speak_to_agent
+Customer care number do.,speak_to_agent
+Live representative chahiye.,speak_to_agent
+Support agent se connect kar do.,speak_to_agent
+talk to agent.,speak_to_agent
+human support.,speak_to_agent
+live agent.,speak_to_agent
+customer care.,speak_to_agent
+connect to representative.,speak_to_agent
+Where is your nearest store?,store_location
+Find a store near me.,store_location
+Show me the nearest store.,store_location
+Where is your showroom?,store_location
+Give me the store address.,store_location
+Where is the nearest service center?,store_location
+Locate the nearest branch.,store_location
+What are your store timings?,store_location
+Is there a store in my city?,store_location
+Find the closest outlet.,store_location
+Where can I buy your products offline?,store_location
+Show nearby stores.,store_location
+Where is your retail store?,store_location
+Find your nearest shop.,store_location
+Give me directions to your store.,store_location
+
+Mere paas ka nearest store kahan hai?,store_location
+Mujhe nearest store dikhao.,store_location
+Store ka address batao.,store_location
+Nearest showroom kahan hai?,store_location
+Service center kahan hai?,store_location
+Nearest branch batao.,store_location
+Store ki location batao.,store_location
+Store kitne baje khulta hai?,store_location
+Mere city mein store hai kya?,store_location
+Sabse paas wala outlet batao.,store_location
+Offline store kahan hai?,store_location
+Nearby stores dikhao.,store_location
+Retail store ka address do.,store_location
+Nearest shop batao.,store_location
+Store tak ka rasta batao.,store_location
+
+Nearest store batao.,store_location
+Please nearest showroom dikhao.,store_location
+Can you find a store near me?,store_location
+Store location check karo.,store_location
+Service center locate karo.,store_location
+Store ka timing batao.,store_location
+Nearby outlet dikhao.,store_location
+Store address please.,store_location
+Mere aas paas store hai?,store_location
+Nearest branch locate karo.,store_location
+Showroom ka address chahiye.,store_location
+Retail outlet batao.,store_location
+Store ka map dikhao.,store_location
+Nearest service center please.,store_location
+Store location chahiye.,store_location
+
+nearest store.,store_location
+store near me.,store_location
+store address.,store_location
+service center.,store_location
+showroom location.,store_location
+Hello.,general_query
+Hi.,general_query
+Hey.,general_query
+Good morning.,general_query
+Good afternoon.,general_query
+Good evening.,general_query
+How are you?,general_query
+What can you do?,general_query
+Can you help me?,general_query
+I need some help.,general_query
+Thank you.,general_query
+Thanks a lot.,general_query
+Bye.,general_query
+See you later.,general_query
+Have a nice day.,general_query
+
+Namaste.,general_query
+Hello ji.,general_query
+Hi Vani.,general_query
+Good morning Vani.,general_query
+Kaise ho?,general_query
+Tum kya kar sakte ho?,general_query
+Mujhe help chahiye.,general_query
+Meri madad karo.,general_query
+Dhanyavaad.,general_query
+Shukriya.,general_query
+Bahut bahut dhanyavaad.,general_query
+Bye bye.,general_query
+Phir milenge.,general_query
+Achha din ho.,general_query
+Namaskar.,general_query
+
+Hi yaar.,general_query
+Hello Vani.,general_query
+Please help karo.,general_query
+Can you help me please?,general_query
+Thanks yaar.,general_query
+Thank you so much.,general_query
+Bye Vani.,general_query
+Good night.,general_query
+Good evening Vani.,general_query
+How's it going?,general_query
+Help please.,general_query
+Nice to meet you.,general_query
+You are awesome.,general_query
+Thanks for your help.,general_query
+See you.,general_query
+
+hello.,general_query
+help.,general_query
+thanks.,general_query
+bye.,general_query
+good morning.,general_query
+Is my package out for delivery?,delivery_status
+Has the delivery started?,delivery_status
+What is my delivery status?,delivery_status
+Can you check today's delivery status?,delivery_status
+Will my package arrive today?,delivery_status
+Is the courier out for delivery?,delivery_status
+Has my parcel reached my city?,delivery_status
+When is my package arriving today?,delivery_status
+Show my delivery progress.,delivery_status
+Has my order reached the delivery stage?,delivery_status
+Can I know today's delivery update?,delivery_status
+Is my parcel scheduled for delivery today?,delivery_status
+Has the delivery vehicle left?,delivery_status
+Is the courier on the way?,delivery_status
+Please tell me my delivery progress.,delivery_status
+Can you check today's delivery update?,delivery_status
+Has my package left the local hub?,delivery_status
+What time will my package arrive today?,delivery_status
+Is today's delivery running on schedule?,delivery_status
+Can you update today's delivery status?,delivery_status
+Meri delivery ki sthiti kya hai?,delivery_status
+Kya delivery shuru ho gayi hai?,delivery_status
+Mera parcel aaj deliver hoga kya?,delivery_status
+Delivery ka current update bataiye.,delivery_status
+Kya courier delivery ke liye nikal gaya?,delivery_status
+Mera package aaj pahunch jayega?,delivery_status
+Delivery ki progress bataiye.,delivery_status
+Mera order delivery stage mein hai kya?,delivery_status
+Aaj delivery hogi kya?,delivery_status
+Package delivery ke liye nikla kya?,delivery_status
+Delivery ki latest jankari dijiye.,delivery_status
+Courier raste mein hai kya?,delivery_status
+Meri delivery kab tak hogi aaj?,delivery_status
+Delivery vehicle nikal chuka hai kya?,delivery_status
+Delivery ka update dijiye.,delivery_status
+Is my package out for delivery?,delivery_status
+Has the delivery started?,delivery_status
+What is my delivery status?,delivery_status
+Can you check today's delivery status?,delivery_status
+Will my package arrive today?,delivery_status
+Is the courier out for delivery?,delivery_status
+Has my parcel reached my city?,delivery_status
+When is my package arriving today?,delivery_status
+Show my delivery progress.,delivery_status
+Has my order reached the delivery stage?,delivery_status
+Can I know today's delivery update?,delivery_status
+Is my parcel scheduled for delivery today?,delivery_status
+Has the delivery vehicle left?,delivery_status
+Is the courier on the way?,delivery_status
+Please tell me my delivery progress.,delivery_status
+Can you check today's delivery update?,delivery_status
+Has my package left the local hub?,delivery_status
+What time will my package arrive today?,delivery_status
+Is today's delivery running on schedule?,delivery_status
+Can you update today's delivery status?,delivery_status
+Why is my delivery delayed?,delivery_delay
+My package is running late.,delivery_delay
+My parcel has not arrived on time.,delivery_delay
+Why hasn't my package been delivered yet?,delivery_delay
+The expected delivery date has passed.,delivery_delay
+My delivery is overdue.,delivery_delay
+There is a delay in my delivery.,delivery_delay
+Why is the courier taking so long?,delivery_delay
+My package should have arrived already.,delivery_delay
+The delivery is much later than expected.,delivery_delay
+Can you explain the delivery delay?,delivery_delay
+Why is my order still delayed?,delivery_delay
+My parcel is arriving very late.,delivery_delay
+Delivery has been postponed without notice.,delivery_delay
+The courier missed the promised delivery date.,delivery_delay
+Why hasn't the delivery happened yet?,delivery_delay
+The package is stuck and delayed.,delivery_delay
+My shipment is delayed again.,delivery_delay
+The delivery timeline has been exceeded.,delivery_delay
+My order is delayed beyond the estimated date.,delivery_delay
+Meri delivery late ho gayi hai.,delivery_delay
+Mera parcel abhi tak nahi aaya.,delivery_delay
+Delivery mein itni deri kyun ho rahi hai?,delivery_delay
+Mera package expected date ke baad bhi nahi aaya.,delivery_delay
+Delivery bahut late chal rahi hai.,delivery_delay
+Mera order samay par nahi pahucha.,delivery_delay
+Delivery mein deri ka karan kya hai?,delivery_delay
+Courier abhi tak kyun nahi pahucha?,delivery_delay
+Package abhi bhi deliver nahi hua.,delivery_delay
+Meri delivery kaafi delay ho gayi hai.,delivery_delay
+Expected delivery date nikal gayi hai.,delivery_delay
+Order ki delivery ruk gayi hai kya?,delivery_delay
+Delivery itni slow kyun hai?,delivery_delay
+Parcel bahut der se pending hai.,delivery_delay
+Delivery expected time se bahar chali gayi hai.,delivery_delay
+Meri delivery late hai.,delivery_delay
+Package abhi tak deliver nahi hua.,delivery_delay
+Delivery itni delay kyun ho rahi hai?,delivery_delay
+Mera parcel expected date ke baad bhi nahi aaya.,delivery_delay
+Courier bahut late chal raha hai.,delivery_delay
+Package delay ho gaya hai.,delivery_delay
+Order abhi tak deliver nahi hua.,delivery_delay
+Delivery bahut slow hai.,delivery_delay
+Expected delivery miss ho gayi.,delivery_delay
+Delivery delay ka reason batao.,delivery_delay
+Courier abhi tak nahi pahucha.,delivery_delay
+Mera package overdue ho gaya hai.,delivery_delay
+Order ki delivery late ho gayi hai.,delivery_delay
+Delivery kaafi delay chal rahi hai.,delivery_delay
+Why is my delivery so late?,delivery_delay
+Can I reschedule my delivery?,reschedule_delivery
+I want to change my delivery date.,reschedule_delivery
+Please deliver my order tomorrow.,reschedule_delivery
+Can you postpone my delivery?,reschedule_delivery
+I need a different delivery date.,reschedule_delivery
+Deliver my package next week.,reschedule_delivery
+Can I choose another delivery day?,reschedule_delivery
+Please change my delivery schedule.,reschedule_delivery
+Move my delivery to tomorrow.,reschedule_delivery
+Reschedule my package delivery.,reschedule_delivery
+Can you deliver it later?,reschedule_delivery
+Deliver it in the evening instead.,reschedule_delivery
+Please shift my delivery date.,reschedule_delivery
+Can you change my delivery slot?,reschedule_delivery
+Reschedule my courier delivery.,reschedule_delivery
+Deliver it on Monday.,reschedule_delivery
+Please postpone today's delivery.,reschedule_delivery
+Can I select another delivery time?,reschedule_delivery
+Change my delivery appointment.,reschedule_delivery
+Meri delivery kal kar dijiye.,reschedule_delivery
+Delivery ki date badal dijiye.,reschedule_delivery
+Mujhe doosri delivery date chahiye.,reschedule_delivery
+Delivery agle hafte kar dijiye.,reschedule_delivery
+Delivery ka samay badal dijiye.,reschedule_delivery
+Aaj ki jagah kal delivery kijiye.,reschedule_delivery
+Meri delivery postpone kar dijiye.,reschedule_delivery
+Delivery slot badalna hai.,reschedule_delivery
+Package kal deliver kar dijiye.,reschedule_delivery
+Delivery Monday ko kar dijiye.,reschedule_delivery
+Delivery shaam mein kar dijiye.,reschedule_delivery
+Meri delivery reschedule kar dijiye.,reschedule_delivery
+Delivery ki timing change kijiye.,reschedule_delivery
+Meri delivery agle din bhejiye.,reschedule_delivery
+Delivery kal kar do.,reschedule_delivery
+Mera delivery slot change karo.,reschedule_delivery
+Please delivery reschedule kar do.,reschedule_delivery
+Kal delivery kar dena.,reschedule_delivery
+Delivery next week shift karo.,reschedule_delivery
+Delivery timing change karni hai.,reschedule_delivery
+Courier kal bhej do.,reschedule_delivery
+Evening mein delivery kar do.,reschedule_delivery
+Delivery postpone kar do.,reschedule_delivery
+Can you change my delivery slot?,reschedule_delivery
+Mujhe new delivery date chahiye.,reschedule_delivery
+Package Monday ko deliver karna.,reschedule_delivery
+Delivery date update kar do.,reschedule_delivery
+Delivery ko next day move kar do.,reschedule_delivery
+Delivery update do.,reschedule_delivery
+Main apne account mein login nahi kar pa raha hoon.,login_issue
+Mera login kaam nahi kar raha.,login_issue
+Password galat bata raha hai.,login_issue
+Main sign in nahi kar paa raha hoon.,login_issue
+Login error aa raha hai.,login_issue
+OTP nahi mil raha login ke liye.,login_issue
+Username accept nahi ho raha.,login_issue
+Login page error dikha raha hai.,login_issue
+Main password bhool gaya hoon.,login_issue
+Login complete nahi ho raha.,login_issue
+Credentials accept nahi ho rahe.,login_issue
+Mera login fail ho raha hai.,login_issue
+Main account access nahi kar pa raha login ke through.,login_issue
+Login verification fail ho rahi hai.,login_issue
+Please mera login issue solve kijiye.,login_issue
+Login nahi ho raha.,login_issue
+Mera account login nahi kar raha.,login_issue
+Password incorrect aa raha hai.,login_issue
+OTP nahi aa raha login ke liye.,login_issue
+Login error fix karo.,login_issue
+Please login help chahiye.,login_issue
+Mera sign in fail ho raha hai.,login_issue
+Login credentials accept nahi ho rahe.,login_issue
+Main login nahi kar paa raha.,login_issue
+Login process complete nahi ho raha.,login_issue
+Can you fix my login issue?,login_issue
+Mera password work nahi kar raha.,login_issue
+Login button respond nahi kar raha.,login_issue
+Please login verify kar do.,login_issue
+Login problem solve karo.,login_issue
+My account has been locked.,account_locked
+Why is my account locked?,account_locked
+My account is blocked.,account_locked
+I have been locked out of my account.,account_locked
+My account has been temporarily locked.,account_locked
+The system says my account is locked.,account_locked
+My account was locked after several login attempts.,account_locked
+My profile has been blocked.,account_locked
+I cannot access my account because it is locked.,account_locked
+My account has been disabled due to security reasons.,account_locked
+My account is frozen.,account_locked
+I received a message saying my account is locked.,account_locked
+Security has locked my account.,account_locked
+My account is restricted.,account_locked
+My account has been suspended.,account_locked
+The app says my account is blocked.,account_locked
+My account was locked automatically.,account_locked
+My account is inaccessible because it is locked.,account_locked
+The system has blocked my account.,account_locked
+Please unlock my account.,account_locked
+Mera account lock ho gaya hai.,account_locked
+Mera account block ho gaya hai.,account_locked
+System mera account locked dikha raha hai.,account_locked
+Security ki wajah se account lock ho gaya.,account_locked
+Mera profile suspend ho gaya hai.,account_locked
+Mera account temporary lock ho gaya hai.,account_locked
+Main account open nahi kar paa raha kyunki lock hai.,account_locked
+Bahut login attempts ke baad account lock ho gaya.,account_locked
+Account access security ke kaaran band ho gaya.,account_locked
+Mera account disable kar diya gaya hai.,account_locked
+Mera account freeze ho gaya hai.,account_locked
+App account blocked dikha raha hai.,account_locked
+Account restriction lag gayi hai.,account_locked
+Account unlock kar dijiye.,account_locked
+Mera account security lock mein hai.,account_locked
+Mera account locked hai.,account_locked
+Account block ho gaya hai.,account_locked
+Please account unlock karo.,account_locked
+Security ki wajah se account lock hua hai.,account_locked
+Mera profile block ho gaya.,account_locked
+Account temporary disable ho gaya.,account_locked
+Too many attempts ki wajah se account lock ho gaya.,account_locked
+Account access blocked hai.,account_locked
+Mera account freeze ho gaya hai.,account_locked
+System account locked dikha raha hai.,account_locked
+Please mera account unlock kar do.,account_locked
+Account suspend ho gaya hai.,account_locked
+Can you unlock my account?,account_locked
+Mera account security reasons se block hua hai.,account_locked
+Account restricted ho gaya hai.,account_locked
+Please reactivate my account.,reactivate_account
+I want to reactivate my account.,reactivate_account
+Can you restore my account?,reactivate_account
+Enable my account again.,reactivate_account
+I need my account to be active again.,reactivate_account
+Please reopen my account.,reactivate_account
+Reactivate my profile.,reactivate_account
+I want my old account back.,reactivate_account
+Restore my deactivated account.,reactivate_account
+Can I activate my account again?,reactivate_account
+Please enable my profile again.,reactivate_account
+Reactivate my membership account.,reactivate_account
+Bring my account back.,reactivate_account
+I accidentally deactivated my account.,reactivate_account
+Help me reactivate my account.,reactivate_account
+I need access to my old account again.,reactivate_account
+Turn my account back on.,reactivate_account
+Please recover my deactivated profile.,reactivate_account
+Reactivate my customer account.,reactivate_account
+I want to use my account again.,reactivate_account
+Mera account dobara activate kar dijiye.,reactivate_account
+Mera account phir se chalu kar dijiye.,reactivate_account
+Mera deactivate account restore kar dijiye.,reactivate_account
+Account ko dobara enable kijiye.,reactivate_account
+Mujhe mera account wapas chahiye.,reactivate_account
+Mera account fir se active kar dijiye.,reactivate_account
+Deactivate account ko activate karna hai.,reactivate_account
+Mera account reopen kar dijiye.,reactivate_account
+Account restore karna hai.,reactivate_account
+Mera purana account wapas chahiye.,reactivate_account
+Please account reactivate kar dijiye.,reactivate_account
+Mera profile dobara activate kijiye.,reactivate_account
+Account ko phir se chalu karna hai.,reactivate_account
+Mera account recover kar dijiye.,reactivate_account
+Mujhe mera account fir se use karna hai.,reactivate_account
+Mera account reactivate karo.,reactivate_account
+Account dobara activate kar do.,reactivate_account
+Please account restore kar do.,reactivate_account
+Mera profile fir se active karo.,reactivate_account
+Account ko enable kar do.,reactivate_account
+Can you reactivate my account?,reactivate_account
+Mujhe mera account wapas chahiye.,reactivate_account
+Old account restore kar do.,reactivate_account
+Please account reopen karo.,reactivate_account
+Deactivate account ko activate karo.,reactivate_account
+Account phir se start kar do.,reactivate_account
+Profile ko dobara active karo.,reactivate_account
+Mera account recover kar do.,reactivate_account
+Account ko fir se use karna hai.,reactivate_account
+Please mera account enable kar do.,reactivate_account
+I want a refund.,refund_request
+Please process my refund request.,refund_request
+I need to request a refund.,refund_request
+Can I get my money back?,refund_request
+I'd like to return this item and get a refund.,refund_request
+Start my refund process.,refund_request
+Please initiate my refund.,refund_request
+How can I request a refund?,refund_request
+I want to apply for a refund.,refund_request
+Refund this order.,refund_request
+Can you create a refund request?,refund_request
+I want my payment refunded.,refund_request
+Please submit a refund request.,refund_request
+Help me request a refund.,refund_request
+Can I cancel this purchase and get a refund?,refund_request
+Refund my purchase.,refund_request
+I need my money back.,refund_request
+Please refund this payment.,refund_request
+I want to raise a refund request.,refund_request
+Mujhe refund chahiye.,refund_request
+Mera refund request submit kijiye.,refund_request
+Mujhe paise wapas chahiye.,refund_request
+Refund ke liye apply karna hai.,refund_request
+Mera refund process shuru kijiye.,refund_request
+Order ka refund chahiye.,refund_request
+Payment refund kar dijiye.,refund_request
+Mera paisa wapas dijiye.,refund_request
+Refund request banana hai.,refund_request
+Mujhe refund lena hai.,refund_request
+Refund initiate kijiye.,refund_request
+Product return karke refund chahiye.,refund_request
+Mera refund request accept kijiye.,refund_request
+Please refund shuru kijiye.,refund_request
+Order cancel karke refund dijiye.,refund_request
+Refund request create karo.,refund_request
+Mera refund start karo.,refund_request
+Please refund initiate karo.,refund_request
+Mujhe refund chahiye please.,refund_request
+Order refund kar do.,refund_request
+Payment refund kar do.,refund_request
+Refund ke liye apply karna hai.,refund_request
+Can you refund my order?,refund_request
+Mujhe paise wapas chahiye.,refund_request
+Refund request submit karo.,refund_request
+Refund process start karo.,refund_request
+Please mera refund request accept karo.,refund_request
+Mera payment refund kar do.,refund_request
+Order cancel karke refund do.,refund_request
+Refund raise karna hai.,refund_request
+What is the status of my refund?,refund_status
+Has my refund been processed?,refund_status
+When will I receive my refund?,refund_status
+Can you check my refund status?,refund_status
+Is my refund approved?,refund_status
+Has my refund been issued?,refund_status
+Where is my refund?,refund_status
+How long will my refund take?,refund_status
+Has the refund been completed?,refund_status
+Is my refund still pending?,refund_status
+Please update me on my refund.,refund_status
+Can I know the refund progress?,refund_status
+Has my money been refunded?,refund_status
+What is the latest refund update?,refund_status
+Is the refund under processing?,refund_status
+Can you verify my refund status?,refund_status
+Has the refund reached my bank?,refund_status
+When will the refunded amount reflect?,refund_status
+Is my refund successful?,refund_status
+Check my refund progress.,refund_status
+Mera refund kab milega?,refund_status
+Mere refund ka status bataiye.,refund_status
+Refund process complete hua kya?,refund_status
+Refund approve hua ya nahi?,refund_status
+Mera paisa kab wapas milega?,refund_status
+Refund abhi pending hai kya?,refund_status
+Refund ki latest update dijiye.,refund_status
+Refund process kis stage mein hai?,refund_status
+Refund complete hua kya?,refund_status
+Mera refund bank mein aaya kya?,refund_status
+Refund kitne din mein milega?,refund_status
+Refund ki progress bataiye.,refund_status
+Mera refund verify hua kya?,refund_status
+Refund request accept hui kya?,refund_status
+Refund ki current sthiti bataiye.,refund_status
+Refund status check karo.,refund_status
+Mera refund update batao.,refund_status
+Refund kab aayega?,refund_status
+Please refund status verify karo.,refund_status
+Refund pending hai kya?,refund_status
+Refund process complete hua?,refund_status
+Mera paisa refund hua kya?,refund_status
+Refund ka latest update do.,refund_status
+Can you check my refund status?,refund_status
+Refund progress batao.,refund_status
+Refund approve hua kya?,refund_status
+Refund amount kab credit hoga?,refund_status
+Refund abhi tak receive nahi hua.,refund_status
+Please refund tracking batao.,refund_status
+Refund ki current position kya hai?,refund_status
+Tell me about this product.,product_information
+What are the specifications of this phone?,product_information
+Does this laptop have a backlit keyboard?,product_information
+What features does this product have?,product_information
+How much RAM does this laptop have?,product_information
+What is the battery capacity of this phone?,product_information
+Is this television a smart TV?,product_information
+What is the screen size of this monitor?,product_information
+Does this product support fast charging?,product_information
+What material is this chair made of?,product_information
+How much storage does this phone offer?,product_information
+What are the dimensions of this refrigerator?,product_information
+Is this washing machine fully automatic?,product_information
+What is the warranty period for this product?,product_information
+Can you explain this product's features?,product_information
+Does this speaker support Bluetooth?,product_information
+Is this laptop suitable for gaming?,product_information
+What operating system comes with this device?,product_information
+Tell me the specifications of this smartwatch.,product_information
+Is this product available in different colors?,product_information
+Is product ke features kya hain?,product_information
+Is phone ki battery kitni hai?,product_information
+Is laptop mein kitni RAM hai?,product_information
+Is product ki warranty kitni hai?,product_information
+Is TV ka screen size kya hai?,product_information
+Is washing machine ke features bataiye.,product_information
+Is phone ka storage kitna hai?,product_information
+Is product ka material kya hai?,product_information
+Laptop ka processor kaunsa hai?,product_information
+Is speaker mein Bluetooth hai kya?,product_information
+Is product ka weight kitna hai?,product_information
+Is refrigerator ki capacity kya hai?,product_information
+Is smartwatch ke features bataiye.,product_information
+Is device ka operating system kya hai?,product_information
+Is product ki specification bataiye.,product_information
+Is product ke details batao.,product_information
+Phone ki specifications batao.,product_information
+Laptop ka processor kya hai?,product_information
+Is TV ke features batao.,product_information
+Product ki warranty kitni hai?,product_information
+Phone ki battery capacity batao.,product_information
+Laptop mein kitna RAM hai?,product_information
+Is product ka storage kitna hai?,product_information
+Please product information do.,product_information
+Smartwatch ke features batao.,product_information
+Bluetooth support karta hai kya?,product_information
+Product ki dimensions batao.,product_information
+Can you explain this product?,product_information
+Is product ka material kya hai?,product_information
+Device ke specifications check karo.,product_information
+Can you recommend a good laptop?,product_recommendation
+Suggest a smartphone under ₹30000.,product_recommendation
+Which laptop is best for programming?,product_recommendation
+Recommend a gaming laptop.,product_recommendation
+I need a good Bluetooth speaker.,product_recommendation
+Suggest the best washing machine.,product_recommendation
+Which TV should I buy?,product_recommendation
+Recommend a budget smartphone.,product_recommendation
+Suggest a laptop for students.,product_recommendation
+Which headphones have the best sound quality?,product_recommendation
+Recommend a smartwatch for fitness.,product_recommendation
+I want the best DSLR camera.,product_recommendation
+Suggest a refrigerator for a family of four.,product_recommendation
+Recommend a lightweight laptop.,product_recommendation
+Which air conditioner is energy efficient?,product_recommendation
+Suggest a good office chair.,product_recommendation
+Recommend a tablet for online classes.,product_recommendation
+Which printer is best for home use?,product_recommendation
+Suggest a monitor for gaming.,product_recommendation
+Can you help me choose a mobile phone?,product_recommendation
+Mere liye ek achha laptop suggest kijiye.,product_recommendation
+₹30000 ke andar achha phone bataiye.,product_recommendation
+Kaunsa TV kharidna chahiye?,product_recommendation
+Gaming ke liye laptop recommend kijiye.,product_recommendation
+Achha Bluetooth speaker bataiye.,product_recommendation
+Best washing machine suggest kijiye.,product_recommendation
+Student ke liye laptop recommend kijiye.,product_recommendation
+Fitness ke liye smartwatch bataiye.,product_recommendation
+Achha refrigerator suggest kijiye.,product_recommendation
+Office ke liye chair recommend kijiye.,product_recommendation
+Kaunsa AC lena chahiye?,product_recommendation
+Budget mobile recommend kijiye.,product_recommendation
+Achha tablet bataiye.,product_recommendation
+Best printer recommend kijiye.,product_recommendation
+Achha monitor suggest kijiye.,product_recommendation
+Ek achha laptop recommend karo.,product_recommendation
+Budget phone suggest karo.,product_recommendation
+Gaming laptop recommend karo.,product_recommendation
+Best smartwatch batao.,product_recommendation
+Please ek TV suggest karo.,product_recommendation
+Office chair recommend karo.,product_recommendation
+Student ke liye laptop batao.,product_recommendation
+Can you suggest a mobile?,product_recommendation
+Mere budget mein best phone batao.,product_recommendation
+Best headphones recommend karo.,product_recommendation
+Good washing machine suggest karo.,product_recommendation
+Laptop choose karne mein help karo.,product_recommendation
+Gaming monitor recommend karo.,product_recommendation
+Best Bluetooth speaker batao.,product_recommendation
+Please product recommend karo.,product_recommendation

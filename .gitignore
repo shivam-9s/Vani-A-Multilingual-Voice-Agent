@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# HuggingFace checkpoints
+checkpoint-*/
+
+# Trainer state
+optimizer.pt
+scheduler.pt
+rng_state.pth
+trainer_state.json
+training_args.bin
+
+# Cache
+.cache/
+
+# Notebook
+.ipynb_checkpoints/

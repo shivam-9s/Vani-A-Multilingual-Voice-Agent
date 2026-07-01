@@ -1,0 +1,2392 @@
+text,intent
+Order delivery update chahiye.,order_status
+The box was missing one product.,missing_package
+I don't want this order anymore.,cancel_order
+Track my courier.,track_shipment
+Mera login verify karo.,login_issue
+My account has been suspended.,account_locked
+cashback status.,cashback_query
+Security ki wajah se account lock ho gaya.,account_locked
+Product mein manufacturing defect hai.,warranty_claim
+Account dobara activate kar do.,reactivate_account
+morning delivery.,change_delivery_slot
+Can you help me please?,general_query
+I didn't receive the verification code.,account_verification
+I need confirmation for my order.,order_confirmation
+Expected delivery date nikal gayi hai.,delivery_delay
+Help me exchange my purchase.,exchange_order
+Agent se connect karo.,delivery_agent_contact
+Delivery reschedule kar do.,reschedule_delivery
+Can you help me?,general_query
+Galat address dal diya tha.,update_address
+Mera order samay par nahi pahucha.,delivery_delay
+Delivery agent se baat karwa do.,delivery_agent_contact
+Card se payment nahi hua.,payment_failed
+What can you do?,general_query
+received wrong order.,wrong_delivery
+Mera package kis jagah hai?,track_shipment
+Credit card use karna hai.,payment_method_change
+Delete my account and personal information.,delete_account
+Ye galat saman hai.,wrong_delivery
+Profile ko dobara active karo.,reactivate_account
+My order wasn't placed because the payment failed.,payment_failed
+Mere recent orders batao.,order_history
+Verification link expire ho gaya.,account_verification
+Delivery ki latest information do.,delivery_status
+Mera order return karna hai.,return_order
+Naya email register karo.,change_email
+Ek item nahi aaya.,missing_package
+Order return ka process batao.,return_order
+Is TV ke features batao.,product_information
+Identity verify karni hai.,account_verification
+Invoice PDF chahiye.,invoice_request
+change payment method.,payment_method_change
+Office ke liye chair recommend kijiye.,product_recommendation
+Meri delivery postpone kar dijiye.,reschedule_delivery
+I don't want this account anymore.,delete_account
+Mera order missing hai.,order_not_received
+Check my refund status.,refund_status
+wrong item received.,wrong_delivery
+update email.,change_email
+Suggest a good office chair.,product_recommendation
+Show complete product information.,product_information
+Galat color mila hai.,exchange_order
+Product ki size kya hai?,product_information
+My account was debited twice.,duplicate_payment
+List my previous purchases.,order_history
+Password reset kar do.,reset_password
+Refund details dikhao.,refund_status
+Reorder my previous purchase.,reorder_product
+App loading screen par atak gayi hai.,technical_support
+Track my shipment.,track_shipment
+package late.,delivery_delay
+Mujhe locked account access chahiye.,account_locked
+Shipment se pehle order change karo.,modify_order
+Account lock kyu hua hai?,account_locked
+Mera order kal deliver karna.,reschedule_delivery
+Mera account wapas chalu karo.,reactivate_account
+double payment.,duplicate_payment
+refund status.,refund_status
+pause account.,deactivate_account
+Suspend my account for now.,deactivate_account
+Order details edit karo.,modify_order
+Please modify my order.,modify_order
+Place the package at the reception.,delivery_instructions
+Return my order.,return_order
+Can you suggest a good product?,product_recommendation
+Password recovery mein help chahiye.,reset_password
+Login error fix karo.,login_issue
+Delivery ka update chahiye.,delivery_status
+Please leave it in the mailbox.,delivery_instructions
+Delivery hui hi nahi.,order_not_received
+Meri complaint check karo.,complaint_status
+Discount nahi lag raha.,promo_code_issue
+Wrong item receive hua hai.,wrong_delivery
+Deliver only after confirming with me.,delivery_instructions
+Account ko fir se use karna hai.,reactivate_account
+product not working.,technical_support
+How much RAM does this laptop have?,product_information
+Expected delivery date nikal gayi.,delivery_delay
+Missing product ka kya karna hai?,missing_package
+Reactivate my account.,reactivate_account
+Email me the invoice.,invoice_request
+Account ko temporary close karo.,deactivate_account
+I have been locked out of my account.,account_locked
+Main account access nahi kar pa raha kyunki account lock hai.,account_locked
+Delete my account immediately.,delete_account
+Size change kar do.,modify_order
+Refund kitne din mein milega?,refund_status
+Mera order kahan gaya?,order_not_received
+Package ko naye location par bhejo.,update_address
+Can you reorder mera product?,reorder_product
+Delivery has been postponed without notice.,delivery_delay
+Previous order ko repeat karo.,reorder_product
+Can you check why my order wasn't delivered?,order_not_received
+Profile details modify karo.,profile_update
+Mera mobile number modify karo.,change_phone
+change shipping address.,update_address
+Aaj ki jagah kal delivery kijiye.,reschedule_delivery
+I selected the wrong product,modify_order
+Delivery ki progress bataiye.,delivery_status
+Invoice email kar do.,invoice_request
+Mujhe mera purchase history chahiye.,order_history
+Show my shipment location.,track_shipment
+Mera order confirm karo.,order_confirmation
+Galat parcel receive hua.,wrong_delivery
+coupon error.,promo_code_issue
+I need my account to be active again.,reactivate_account
+I want to change my email.,change_email
+Can I get the delivery agent's phone number?,delivery_agent_contact
+Can you reactivate mera account?,reactivate_account
+Mujhe ye order fir se chahiye.,reorder_product
+Mera email ID update karo.,change_email
+Meri delivery ka status kya hai?,delivery_status
+Double charge lag gaya.,duplicate_payment
+Best smartwatch batao.,product_recommendation
+Order status check karo.,order_status
+Mera order modify karo.,modify_order
+Can you deactivate mera account?,deactivate_account
+recommend product.,product_recommendation
+Mujhe account unlock karwana hai.,account_locked
+Send me the verification email.,account_verification
+I need to edit my email information.,change_email
+Please mera email update karo.,change_email
+Delivery ka update dijiye.,delivery_status
+Mera order kab deliver hoga?,delivery_status
+cancel order pls.,cancel_order
+Please stop processing my order.,cancel_order
+Order ko customize karna hai.,modify_order
+Please account reopen karo.,reactivate_account
+Mera order abhi kis stage pe hai?,order_status
+Display all my purchase records.,order_history
+Activate my account again.,reactivate_account
+Delivery next week shift karo.,reschedule_delivery
+Application response nahi de rahi.,technical_support
+I want to track my package.,track_shipment
+I received a payment failed message.,payment_failed
+Parcel kaha hai abhi?,track_shipment
+Password incorrect aa raha hai.,login_issue
+Mera account disable dikha raha hai.,account_locked
+Meri problem note karo.,raise_complaint
+What is the battery capacity of this phone?,product_information
+Meri complaint kab solve hogi?,complaint_status
+Account enable kar do.,reactivate_account
+Has my complaint been resolved?,complaint_status
+Warranty request process karo.,warranty_claim
+Good morning.,general_query
+Account ko permanently remove karo.,delete_account
+Cashback ka status batao.,cashback_query
+Is device ka operating system kya hai?,product_information
+Please help karo.,general_query
+Office chair recommend karo.,product_recommendation
+Mera order adhoora hai.,missing_package
+Parcel security guard ko de dena.,delivery_instructions
+Recommend a gift for my friend.,product_recommendation
+Offer ka cashback kahan gaya?,cashback_query
+Cashback ki latest update do.,cashback_query
+Mujhe payment option change karna hai.,payment_method_change
+Erase my account.,delete_account
+Promo code error aa raha hai.,promo_code_issue
+Refund initiate hua ya nahi?,refund_status
+Mera package kidhar hai?,track_shipment
+Invoice resend karo.,invoice_request
+I want to cancel my order.,cancel_order
+Mera profile block ho gaya.,account_locked
+Account locked issue hai.,account_locked
+deliver tomorrow.,reschedule_delivery
+Give me shipment updates.,track_shipment
+Show my order status.,order_status
+Delivery expected time se bahar chali gayi hai.,delivery_delay
+Is my order waiting for dispatch?,order_status
+Different payment method chahiye.,payment_method_change
+Parcel nahi mila yaar.,order_not_received
+Mujhe ye account nahi chahiye.,delete_account
+Main account access nahi kar pa raha login ke through.,login_issue
+account deactivate.,deactivate_account
+The app keeps crashing.,technical_support
+modify order pls.,modify_order
+Ek accessory nahi mili.,missing_package
+Show me the nearest store.,store_location
+Mujhe delivery agent ka mobile do.,delivery_agent_contact
+Was my payment processed?,payment_status
+Suggest a budget smartphone.,product_recommendation
+Refund kar do.,refund_request
+order success?,order_confirmation
+Please stock check karo.,product_availability
+Please send my bill.,invoice_request
+cashback credited?,cashback_query
+I would like to buy this product again.,reorder_product
+Please mera product return karo.,return_order
+Technical issue solve karo.,technical_support
+I got someone else's order.,wrong_delivery
+Courier raste mein hai kya?,delivery_status
+I want to delete my account.,delete_account
+Reorder request bhejo.,reorder_product
+Profile photo update karo.,profile_update
+Order ki delivery postpone karo.,reschedule_delivery
+I have been charged twice.,duplicate_payment
+Tell me my delivery status.,delivery_status
+Can I make changes to my order?,modify_order
+What is my wallet balance?,wallet_balance
+Security has locked my account.,account_locked
+Display my recent purchases.,order_history
+Ye product mil jayega kya?,product_availability
+Show all my orders.,order_history
+Box ke andar ek product nahi tha.,missing_package
+Mujhe order ka confirmation batao.,order_confirmation
+Payment error fix karo.,payment_failed
+What is the status of my complaint?,complaint_status
+Invoice generate karo.,invoice_request
+Account ka phone number badalna hai.,change_phone
+Mera payment refund karo.,refund_request
+Change Cash on Delivery to online payment.,payment_method_change
+leave with neighbor.,delivery_instructions
+Order ke badle dusra item aaya hai.,wrong_delivery
+Is my product under warranty?,warranty_claim
+Wrong delivery ka complaint karna hai.,wrong_delivery
+Mera order process hua kya?,order_status
+Please mera profile edit karo.,profile_update
+Iske baare mein aur batao.,product_information
+Order ka current update chahiye.,order_status
+What material is this chair made of?,product_information
+Debit card use karna hai.,payment_method_change
+Service se khush nahi hoon.,raise_complaint
+I need human assistance.,speak_to_agent
+Restore account please.,reactivate_account
+How long will my refund take?,refund_status
+Please let me contact the delivery boy.,delivery_agent_contact
+Reset link bhej do.,reset_password
+OTP verify nahi ho raha.,account_verification
+Delivery date update kar do.,reschedule_delivery
+Update my gender information.,profile_update
+Mujhe ye order nahi chahiye.,cancel_order
+check wallet.,wallet_balance
+Can I get my money back?,refund_request
+cashback pending.,cashback_query
+Verification help chahiye.,account_verification
+I paid twice for the same order.,duplicate_payment
+Order tracking update please.,order_status
+Help me raise a complaint.,raise_complaint
+Personal details update karni hain.,profile_update
+need receipt.,invoice_request
+Payment mein error aa gaya.,payment_failed
+Mera parcel abhi tak nahi aaya.,order_not_received
+Thanks yaar.,general_query
+What are your store timings?,store_location
+Coupon work nahi kar raha.,promo_code_issue
+Can you show my wallet amount?,wallet_balance
+Security ki wajah se account lock hua hai.,account_locked
+Please help me reset my password.,reset_password
+Verification email nahi aaya.,account_verification
+Send me a password reset email.,reset_password
+Reset password ka option do.,reset_password
+Wallet funds kitne hain?,wallet_balance
+Please deactivate my account.,deactivate_account
+wrong address.,update_address
+Password dobara set karna hai.,reset_password
+Maine ghar change kar liya hai.,update_address
+Device ke specifications check karo.,product_information
+I received a damaged product.,damaged_package
+Payment confirm hua ya nahi?,payment_status
+Can you check my refund status?,refund_status
+Why hasn't my package been delivered yet?,delivery_delay
+Order ka bill bhejo.,invoice_request
+Which printer is best for home use?,product_recommendation
+Which TV should I buy?,product_recommendation
+Mera account wapas la do.,reactivate_account
+Show my cashback details.,cashback_query
+Recommend a tablet for online classes.,product_recommendation
+Galti se order place ho gaya.,cancel_order
+Can you send me a password reset link?,reset_password
+Promo code please check.,promo_code_issue
+I want to update my account password.,reset_password
+Please cancel this order immediately.,cancel_order
+Phone number change help chahiye.,change_phone
+Shukriya.,general_query
+Ye model available hai kya?,product_availability
+I want to change my order.,modify_order
+Mujhe refund ke liye apply karna hai.,refund_request
+Wrong colour mila hai.,exchange_order
+Can you check delivery delay?,delivery_delay
+Payment repeat ho gaya hai.,duplicate_payment
+Address mein correction karni hai.,update_address
+Can you suggest ek laptop?,product_recommendation
+Mera payment check karo.,payment_status
+Account suspend ho gaya hai.,account_locked
+Mera payment mode badal do.,payment_method_change
+Order accepted hua kya?,order_confirmation
+Can I activate my account again?,reactivate_account
+Where is my order now?,order_status
+Mera order raste mein hai kya?,delivery_status
+Complaint pending dikha raha hai.,complaint_status
+Why can't I use this voucher?,promo_code_issue
+Mere account se do baar paise kat gaye.,duplicate_payment
+Can you fix mera issue?,technical_support
+Mera transaction successful hua kya?,payment_status
+Mera account reactivate karo.,reactivate_account
+I want my payment refunded.,refund_request
+Delivery date change karni hai.,reschedule_delivery
+Delivery wale ko call karna hai.,delivery_agent_contact
+Change the quantity in my order.,modify_order
+Sab kuch delete kar do.,delete_account
+Please reopen my account.,reactivate_account
+Mera pichla order dobara kar do.,reorder_product
+I want to know if my order is confirmed.,order_confirmation
+Mera order receive hua?,order_confirmation
+Can you check meri delivery?,delivery_status
+Can you verify duplicate payment?,duplicate_payment
+Refund process hua kya?,refund_status
+Change my payment from card to UPI.,payment_method_change
+Good washing machine suggest karo.,product_recommendation
+Refund raise karna hai.,refund_request
+I have a new phone number.,change_phone
+Where is my courier currently?,track_shipment
+Mera email edit karo.,change_email
+Wahi order repeat karo.,reorder_product
+Confirm my order please.,order_confirmation
+Kal parcel bhej dena.,reschedule_delivery
+Warranty service chahiye.,warranty_claim
+Mera bill generate karo.,invoice_request
+I need to reach the delivery partner.,delivery_agent_contact
+Ye product kab restock hoga?,product_availability
+I need access to my old account again.,reactivate_account
+Recent orders dikhao.,order_history
+Mujhe technical support chahiye.,technical_support
+I want to exchange my product.,exchange_order
+Mera password work nahi kar raha.,login_issue
+My password is not working.,reset_password
+Call karke delivery karna.,delivery_instructions
+Package subah mat bhejna.,change_delivery_slot
+Payment ka status batao.,payment_status
+Damaged product ka complaint karna hai.,damaged_package
+Please disable my profile.,deactivate_account
+Return request accept karo.,return_order
+Order delivery ka update chahiye.,delivery_status
+Mera latest order cancel karo.,cancel_order
+update payment mode.,payment_method_change
+This is not my package.,wrong_delivery
+Reschedule my courier delivery.,reschedule_delivery
+Return pickup kab hoga?,return_order
+Payment repeat ho gaya.,duplicate_payment
+new address.,update_address
+Profile picture replace karo.,profile_update
+Gaming ke liye laptop recommend kijiye.,product_recommendation
+Wallet balance check karo.,wallet_balance
+wallet money.,wallet_balance
+Box mein item nahi tha.,missing_package
+Can you check if this item is available?,product_availability
+Mera package abhi kahan hai?,track_shipment
+Please delivery boy se connect karo.,delivery_agent_contact
+I want to check my wallet amount.,wallet_balance
+Complaint number 12345 status.,complaint_status
+Mera payment successful hua kya?,payment_status
+Is my refund completed?,refund_status
+Delivery 7 PM ke baad karna.,change_delivery_slot
+Parcel ke andar product missing hai.,missing_package
+Leave the package at the front door.,delivery_instructions
+Nearest showroom kahan hai?,store_location
+evening delivery.,change_delivery_slot
+I want to know my complaint status.,complaint_status
+Did you receive my order?,order_confirmation
+Delivery kal kar do.,reschedule_delivery
+Can I cancel this purchase and get a refund?,refund_request
+change order asap.,modify_order
+Meri delivery ki current status batao.,delivery_status
+Mera shipment track karo.,track_shipment
+Account email update kar do.,change_email
+Mera account recover karo.,reactivate_account
+Can I get my order confirmation?,order_confirmation
+Mera order thoda change karna hai.,modify_order
+App baar baar crash ho rahi hai.,technical_support
+Extra payment ho gaya.,duplicate_payment
+Is this size available?,product_availability
+Mujhe replacement chahiye.,exchange_order
+I need to replace this product.,exchange_order
+stock available.,product_availability
+Where can I buy your products offline?,store_location
+Product work nahi kar raha.,technical_support
+I would like to register a service complaint.,raise_complaint
+Please UPI se payment karna hai.,payment_method_change
+Please submit a refund request.,refund_request
+close account forever.,delete_account
+Payment choice change karni hai.,payment_method_change
+Product kharab ho gaya hai.,warranty_claim
+Account permanently remove karo.,delete_account
+Ye product fir order kar do.,reorder_product
+View my old orders.,order_history
+Please account reactivate kar dijiye.,reactivate_account
+Pehle ki shopping history dikhao.,order_history
+Send me the verification OTP.,account_verification
+I forgot my password.,reset_password
+Account ko kuch time ke liye rok do.,deactivate_account
+best product.,product_recommendation
+Delivery window change karo.,change_delivery_slot
+change address.,update_address
+Name change karna hai.,profile_update
+Account verification pending hai.,account_verification
+Laptop mein kitna RAM hai?,product_information
+Profile photo change karni hai.,profile_update
+confirm order.,order_confirmation
+Please payment verify karo.,payment_status
+cancel my purchase now.,cancel_order
+Please mera refund check karo.,refund_status
+Complaint ka result batao.,complaint_status
+Delivery mein itni deri kyun ho rahi hai?,delivery_delay
+Aane se pehle phone karna.,delivery_instructions
+I need my money back.,refund_request
+Please use my new email address.,change_email
+Can you modify my payment method?,payment_method_change
+Order missing hai.,order_not_received
+Show nearby stores.,store_location
+Product warranty mein hai kya?,warranty_claim
+Mera device on nahi ho raha.,technical_support
+Best earbuds recommend karo.,product_recommendation
+Invoice download karna hai.,invoice_request
+Size change karna hai.,exchange_order
+Can you restore my account?,reactivate_account
+Cancel karo mera order.,cancel_order
+Modify my profile.,profile_update
+Mujhe broken item mila hai.,damaged_package
+Please initiate my refund request.,refund_request
+Complaint details dikhao.,complaint_status
+I want to return my order.,return_order
+Meri delivery kab tak hogi aaj?,delivery_status
+Please refund shuru kijiye.,refund_request
+Courier se baat karni hai.,delivery_agent_contact
+My account was locked automatically.,account_locked
+Is laptop mein kitni RAM hai?,product_information
+Invoice please.,invoice_request
+Resend the verification OTP.,account_verification
+My account is blocked.,account_locked
+Is phone ki battery kitni hai?,product_information
+Package delay ho gaya hai.,delivery_delay
+Same order repeat kar do.,reorder_product
+Order successfully ho gaya?,order_confirmation
+account blocked.,account_locked
+Mujhe kisi aur ka order mila hai.,wrong_delivery
+Forgot password ho gaya.,reset_password
+Mera account fir se activate karo.,account_locked
+Package abhi tak receive nahi hua.,order_not_received
+discount not applied.,promo_code_issue
+An item is missing from the package.,missing_package
+Meri order details dikhao.,order_history
+Please account restore kar do.,reactivate_account
+Verification mein help chahiye.,account_verification
+Promo code apply nahi ho raha.,promo_code_issue
+Mere aas paas store hai?,store_location
+Product recommend karo.,product_recommendation
+Namaskar.,general_query
+Can I use another email address?,change_email
+Package ki tracking dikhao.,track_shipment
+Block account ko unlock karo.,account_locked
+Delivery mein itni der kyu ho rahi hai?,delivery_delay
+Change my delivery address.,update_address
+The color is incorrect I need an exchange.,exchange_order
+What are the specifications of this product?,product_information
+Ye item stock mein hai?,product_availability
+The software is showing an error.,technical_support
+Mera account phir se chalu kar dijiye.,reactivate_account
+Mera account fir se use karna hai.,reactivate_account
+Package phata hua mila.,damaged_package
+Show my wallet details.,wallet_balance
+Refund approve hua kya?,refund_status
+talk to agent.,speak_to_agent
+Can you check my order status?,order_status
+Achha din ho.,general_query
+Kya payment complete ho gaya?,payment_status
+unlock account.,account_locked
+Mera shipment kidhar pahucha hai?,track_shipment
+Kya ye item stock mein hai?,product_availability
+Some items are missing from my parcel.,missing_package
+Product ka weight kitna hai?,product_information
+Order ki progress bataiye.,order_status
+My order has not arrived.,order_not_received
+Good morning Vani.,general_query
+Meri complaint ki latest update do.,complaint_status
+Please change my registered mobile number.,change_phone
+Parcel track kijiye.,track_shipment
+Naya password set karna hai.,reset_password
+one item missing.,missing_package
+Please nearest showroom dikhao.,store_location
+I want to speak with the courier.,delivery_agent_contact
+Please mera mobile number update karo.,change_phone
+Delivery slot change kar do.,change_delivery_slot
+help.,general_query
+parcel incomplete.,missing_package
+Show the status of my payment.,payment_status
+Mujhe saare items nahi mile.,missing_package
+invalid coupon.,promo_code_issue
+Please verify my account.,account_verification
+Mera parcel abhi tak nahi aaya.,delivery_delay
+Missing item ka complaint karna hai.,missing_package
+refund request.,refund_request
+Wallet details dikhao.,wallet_balance
+Galat parcel deliver hua hai.,wrong_delivery
+Mera payment complete nahi hua.,payment_failed
+OTP nahi aa raha login ke liye.,login_issue
+warranty status.,warranty_claim
+update mobile number.,change_phone
+I entered the wrong address.,update_address
+Locate my courier immediately.,track_shipment
+Mera account temporarily band kar do.,deactivate_account
+Good afternoon.,general_query
+The discount was not applied.,promo_code_issue
+paid twice.,duplicate_payment
+My warranty is still valid.,warranty_claim
+UPI se payment karna hai.,payment_method_change
+I have an issue that needs to be reported.,raise_complaint
+I accidentally made two payments.,duplicate_payment
+Update the address for order 12345.,update_address
+Please login help chahiye.,login_issue
+Kya mera order pack ho gaya hai?,order_status
+Kya ye abhi available hai?,product_availability
+Account aur data remove kar do.,delete_account
+Mujhe delivery status bataiye.,delivery_status
+Expected delivery miss ho gayi.,delivery_delay
+My account has been temporarily locked.,account_locked
+Is smartwatch ke features bataiye.,product_information
+Is order ko cancel kar do.,cancel_order
+Please delete my account.,delete_account
+My account is inaccessible because it is locked.,account_locked
+Mujhe verification code nahi mila.,account_verification
+Help me verify my account.,account_verification
+Where is my refund?,refund_status
+Is my package out for delivery?,delivery_status
+Main sign in nahi kar paa raha hoon.,login_issue
+Can you check today's delivery status?,delivery_status
+Product replace kar do.,exchange_order
+How much balance do I have in my wallet?,wallet_balance
+Mere shopping records dikhao.,order_history
+Hi.,general_query
+Mera refund process shuru kijiye.,refund_request
+Order aaj deliver hoga kya?,delivery_status
+Please track order number 12345.,order_status
+Product available hai?,product_availability
+I want the same order again.,reorder_product
+Human support do.,speak_to_agent
+Refund initiate kar do.,refund_request
+I don't want to use my account for now.,deactivate_account
+return product asap.,return_order
+Mera package locate karo.,track_shipment
+Hello ji.,general_query
+Mera refund request accept kijiye.,refund_request
+Parcel ki delivery date badal do.,reschedule_delivery
+Please don't ring the doorbell.,delivery_instructions
+The payment page showed an error.,payment_failed
+Can I postpone my delivery?,reschedule_delivery
+Hi yaar.,general_query
+Store kitne baje khulta hai?,store_location
+item missing.,missing_package
+Account verification complete karo.,account_verification
+Online payment pe switch karo.,payment_method_change
+Has my cashback been credited?,cashback_query
+Show my payment details.,payment_status
+Replace my registered phone number.,change_phone
+My account is temporarily locked.,account_locked
+Mera account band nahi delete karna hai.,delete_account
+Meri problem report karo.,raise_complaint
+Can you verify my order status?,order_status
+Package abhi bhi deliver nahi hua.,delivery_delay
+UPI payment enable karo.,payment_method_change
+Ye product kis kaam aata hai?,product_information
+Why didn't I receive cashback?,cashback_query
+postpone delivery.,reschedule_delivery
+Mera payment check kar do.,payment_status
+Main aaj ghar par nahi hoon.,reschedule_delivery
+Payment successful nahi hua.,payment_failed
+Parcel ki live location dikhao.,track_shipment
+Is product ke baare mein batao.,product_information
+Product variant change karo.,modify_order
+Share my invoice as a PDF.,invoice_request
+Change the delivery location.,update_address
+Give me the product description.,product_information
+Can you check wrong delivery?,wrong_delivery
+I don't want this product anymore.,return_order
+Bye bye.,general_query
+Kaise ho?,general_query
+Delivery se pehle order cancel karo.,cancel_order
+Courier ne galat parcel diya.,wrong_delivery
+Please ek TV suggest karo.,product_recommendation
+Courier abhi tak kyun nahi pahucha?,delivery_delay
+Package Monday ko deliver karna.,reschedule_delivery
+replace product asap.,exchange_order
+Mera payment do baar ho gaya.,duplicate_payment
+refund pending.,refund_status
+file complaint.,raise_complaint
+Mera naya address add karo.,update_address
+Is product ka storage kitna hai?,product_information
+Is the product out of stock?,product_availability
+Mera account deactivate kar do.,deactivate_account
+Payment mode change karo.,payment_method_change
+Service center locate karo.,store_location
+Wallet amount batao.,wallet_balance
+Registered mobile edit karo.,change_phone
+My shipment was not delivered.,order_not_received
+Please process my refund.,refund_request
+Please refund this payment.,refund_request
+Update my registered email.,change_email
+Meri delivery ki sthiti kya hai?,delivery_status
+Complaint update do.,complaint_status
+Deliver it on Monday.,reschedule_delivery
+bye.,general_query
+Mera account hamesha ke liye hata do.,delete_account
+Mera order update karo.,modify_order
+Can you modify mera order?,modify_order
+Mujhe account verify karna hai.,account_verification
+Gaming mouse recommend karo.,product_recommendation
+Mera registered number change karo.,change_phone
+Mera account blocked hai.,account_locked
+Is there any issue with my delivery?,delivery_delay
+Cashback ki details dikhao.,cashback_query
+Mere saare orders dikhao.,order_history
+Mera refund verify hua kya?,refund_status
+Reset my password.,reset_password
+I accidentally deactivated my account.,reactivate_account
+Wallet ka current balance dikhao.,wallet_balance
+Mujhe kisi insaan se baat karni hai.,speak_to_agent
+Wallet balance please.,wallet_balance
+Can you show my previous purchases?,order_history
+broken product.,damaged_package
+Locked account open karo.,account_locked
+Dopehar mein parcel bhejna.,change_delivery_slot
+Please mera order cancel karo.,cancel_order
+Mera order approve hua ya nahi?,order_status
+Package guard ke paas chhod dena.,delivery_instructions
+Date of birth update karni hai.,profile_update
+I want the best DSLR camera.,product_recommendation
+My account is frozen.,account_locked
+The payment was unsuccessful.,payment_failed
+This package belongs to someone else.,wrong_delivery
+Please damaged item replace karo.,damaged_package
+Login nahi ho raha.,login_issue
+Can you check my cashback?,cashback_query
+Can you change meri delivery timing?,change_delivery_slot
+store near me.,store_location
+Complaint follow-up chahiye.,complaint_status
+Payment details batao.,payment_status
+The parcel arrived broken.,damaged_package
+wrong parcel.,wrong_delivery
+Paisa return kar do.,refund_request
+Track karo mera order.,order_status
+Mujhe refund chahiye please.,refund_request
+The product is not in good condition.,damaged_package
+Mera product kaam nahi kar raha.,warranty_claim
+Refund abhi pending hai kya?,refund_status
+The package arrived with missing products.,missing_package
+Please deliver it before noon.,change_delivery_slot
+Order confirmation chahiye.,order_confirmation
+Ye product kab available hoga?,product_availability
+Payment method edit karo.,payment_method_change
+Can you check my warranty status?,warranty_claim
+Mera order exchange karo.,exchange_order
+Order confirmation check karo.,order_confirmation
+Courier ki live location batao.,track_shipment
+Order number 12345 exchange karna hai.,exchange_order
+Product broken hai.,damaged_package
+deactivate account.,deactivate_account
+Cashback ka info chahiye.,cashback_query
+Delivery boy se baat karwao.,delivery_agent_contact
+Is refrigerator ki capacity kya hai?,product_information
+Meri madad karo.,general_query
+Please connect me with a real person.,speak_to_agent
+reschedule delivery.,reschedule_delivery
+I want to change my password.,reset_password
+Wallet ka amount batao.,wallet_balance
+Evening mein delivery kar do.,reschedule_delivery
+Mujhe damaged product mila hai.,damaged_package
+Naya email use karna hai.,change_email
+Customer care number do.,speak_to_agent
+Exchange pickup arrange karo.,exchange_order
+Tell me if my payment is confirmed.,payment_status
+Does this product have a warranty?,product_information
+Delivery bahut late chal rahi hai.,delivery_delay
+Payment complete hua ya nahi?,payment_status
+Laptop choose karne mein help karo.,product_recommendation
+Generate a GST invoice.,invoice_request
+Mera shipment locate karo.,track_shipment
+Show my delivery progress.,delivery_status
+Mujhe dusra size chahiye.,exchange_order
+Account delete help chahiye.,delete_account
+Refund the amount to my account.,refund_request
+Please mera refund request accept karo.,refund_request
+I want to speak to a human.,speak_to_agent
+Mera profile disable kar do.,deactivate_account
+Mera sign in fail ho raha hai.,login_issue
+Can you verify meri warranty?,warranty_claim
+change delivery time.,change_delivery_slot
+Shipping address badal do.,update_address
+Order number 12345 modify karo.,modify_order
+My package is running late.,delivery_delay
+Order late kyu hai?,delivery_delay
+Bye.,general_query
+Account lock ho gaya.,account_locked
+Afternoon delivery chahiye.,change_delivery_slot
+Available size dikhao.,product_availability
+Mera parcel damage hai.,damaged_package
+Delivery ka samay badal dijiye.,reschedule_delivery
+Mujhe do baar charge kiya gaya.,duplicate_payment
+repeat order.,reorder_product
+Can I edit my order?,modify_order
+Package ki condition achhi nahi hai.,damaged_package
+Transfer me to a live agent.,speak_to_agent
+Old email remove karo.,change_email
+Refund amount kab credit hoga?,refund_status
+I no longer need my order.,cancel_order
+Discount coupon reject ho gaya.,promo_code_issue
+Mera account temporarily lock hai.,account_locked
+Order receive hua ya nahi?,order_confirmation
+Recover my deactivated account.,reactivate_account
+Shipment check karo.,track_shipment
+Ye item pasand nahi aaya.,return_order
+Delivery update do.,delivery_status
+support ticket status.,complaint_status
+Payment gateway issue hai.,payment_failed
+My voucher has expired.,promo_code_issue
+My account has been locked.,account_locked
+Show me the product details.,product_information
+Please change my personal details.,profile_update
+Verification link bhejo.,account_verification
+Problem solve karne mein help karo.,technical_support
+Delivery agent ki details do.,delivery_agent_contact
+Bot se transfer karo.,speak_to_agent
+Delivery mein deri ka karan kya hai?,delivery_delay
+refund my money.,refund_request
+Start the return process.,return_order
+View my previous orders.,order_history
+Is item ko wapas lena hai.,return_order
+Refund my payment.,refund_request
+Mujhe order ka bill do.,invoice_request
+Has my order been confirmed?,order_confirmation
+Where has my shipment reached?,track_shipment
+Show my complaint details.,complaint_status
+Mujhe ye product chahiye available hai?,product_availability
+delivery today?,delivery_status
+Refund kab aayega?,refund_status
+Why is my order still delayed?,delivery_delay
+See you later.,general_query
+Mujhe human se baat karni hai.,speak_to_agent
+Please product recommend karo.,product_recommendation
+Deliver my package next week.,reschedule_delivery
+What are the dimensions of this product?,product_information
+I want to submit a complaint.,raise_complaint
+Is this washing machine fully automatic?,product_information
+Payment duplicate dikha raha hai.,duplicate_payment
+The courier delivered the wrong parcel.,wrong_delivery
+Phone number replace karo.,change_phone
+Achha Bluetooth speaker bataiye.,product_recommendation
+Payment ka update chahiye.,payment_status
+Has the refund reached my bank?,refund_status
+Is everything fine with my order?,order_status
+My delivery is overdue.,delivery_delay
+Refund approve hua ya nahi?,refund_status
+Which laptop is best for programming?,product_recommendation
+Courier ki current location batao.,track_shipment
+Order mein ek item replace karo.,modify_order
+Mera transaction check karo.,payment_status
+Can I track my parcel?,track_shipment
+Mera order out for delivery hai kya?,delivery_status
+Morning slot hata do.,change_delivery_slot
+Reorder order number 12345.,reorder_product
+Refund ki latest update do.,refund_status
+Tell me about this product.,product_information
+Mujhe mera account fir se use karna hai.,reactivate_account
+Mujhe apna account deactivate karna hai.,deactivate_account
+Mujhe product info chahiye.,product_information
+Please mera courier track karo.,track_shipment
+I need to raise a complaint.,raise_complaint
+Laptop ka processor kya hai?,product_information
+Is this item in stock?,product_availability
+Mera shipment receive nahi hua.,order_not_received
+Sign in fail ho raha hai.,login_issue
+Replacement chahiye product damage hai.,damaged_package
+Purchase bill chahiye.,invoice_request
+Mera package kab aayega?,order_status
+Give me an update on my complaint.,complaint_status
+Mere liye ek achha laptop suggest kijiye.,product_recommendation
+I selected the wrong payment method.,payment_method_change
+Mera account login nahi ho raha.,login_issue
+Account ko dobara enable kijiye.,reactivate_account
+Check product availability.,product_availability
+recover deactivated account.,reactivate_account
+Buy this product again.,reorder_product
+Order ko stop kar do.,cancel_order
+Damaged parcel receive hua.,damaged_package
+Main login nahi kar pa raha hoon.,login_issue
+Ye product kis material ka bana hai?,product_information
+Shipment number 12345 track karo.,track_shipment
+Order ship hone se pehle modify karo.,modify_order
+Please mera wallet dikhao.,wallet_balance
+Mujhe doosra product chahiye.,exchange_order
+Mera email verify karke change karo.,change_email
+Payment ki latest update do.,payment_status
+Warranty details do.,product_information
+Order ki delivery late ho gayi hai.,delivery_delay
+Store location chahiye.,store_location
+Please update my payment preference.,payment_method_change
+Product suggestion chahiye.,product_recommendation
+Verification OTP bhejo.,account_verification
+purchase history.,order_history
+Please track my courier.,track_shipment
+Change my date of birth.,profile_update
+Order ko return ke liye register karo.,return_order
+Please koi accha phone batao.,product_recommendation
+Date change kar do delivery ki.,reschedule_delivery
+Mujhe galat product mila hai.,wrong_delivery
+My account has been blocked.,account_locked
+Payment complete nahi ho raha.,payment_failed
+Ye item purchase kar sakta hoon?,product_availability
+Warranty status check karo.,warranty_claim
+order confirmed?,order_confirmation
+Complaint status please.,complaint_status
+Discount code kaam nahi kar raha.,promo_code_issue
+Details please.,product_information
+Students ke liye laptop batao.,product_recommendation
+Mera order update kar do.,modify_order
+Do you have this item in inventory?,product_availability
+product specifications.,product_information
+Mera profile fir se enable karo.,reactivate_account
+My shipping address needs to be updated.,update_address
+Is product ka weight kitna hai?,product_information
+Ye variant available hai?,product_availability
+Account ko hamesha ke liye hata do.,delete_account
+Ye samaan dobara mangwana hai.,reorder_product
+complaint update.,complaint_status
+Promo code verify karo.,promo_code_issue
+Is my order out for delivery?,order_status
+Delivery complete dikha raha hai but order nahi mila.,order_not_received
+Mere parcel ki live location batao.,track_shipment
+Please mera refund initiate karo.,refund_request
+Why can't I log into my account?,login_issue
+I couldn't complete the payment.,payment_failed
+forgot password.,reset_password
+Issue fix karne mein help chahiye.,technical_support
+Is the courier on the way?,delivery_status
+I want to reactivate my account.,reactivate_account
+I need a replacement because the item is damaged.,damaged_package
+Can you update me about my order?,order_status
+same product again.,reorder_product
+Mujhe apna order cancel karna hai.,cancel_order
+I did not receive my order.,order_not_received
+Retail outlet batao.,store_location
+Account mein enter nahi ho pa raha.,login_issue
+Mujhe nearest store dikhao.,store_location
+I received the wrong item.,wrong_delivery
+Account block ho gaya hai.,account_locked
+DOB update karni hai.,profile_update
+Mujhe dusra delivery slot chahiye.,change_delivery_slot
+Double payment has been deducted.,duplicate_payment
+Mera payment fail ho gaya.,payment_failed
+Mera order rok do.,cancel_order
+When is my package arriving today?,delivery_status
+Has my package reached my city?,delivery_status
+Mujhe wrong product mila.,wrong_delivery
+Account ko hold par daal do.,deactivate_account
+Main ek issue report karna chahta hoon.,raise_complaint
+Galat product mila hai return karna hai.,return_order
+Achha monitor suggest kijiye.,product_recommendation
+Mera login fail ho raha hai.,login_issue
+Order locate karo.,order_status
+Mera parcel replace karo.,exchange_order
+Package baad mein bhejo.,reschedule_delivery
+leave with guard.,delivery_instructions
+Please remove the account lock.,account_locked
+Is speaker mein Bluetooth hai kya?,product_information
+Return process shuru karo.,return_order
+Bot se baat nahi karni.,speak_to_agent
+product details.,product_information
+Letter box mein parcel rakh dena.,delivery_instructions
+track parcel asap.,track_shipment
+Wrong order delivered to me.,wrong_delivery
+Mera account recover kar do.,reactivate_account
+Mera package locate kijiye.,track_shipment
+Reactivate my profile.,reactivate_account
+Courier kal bhej do.,reschedule_delivery
+The screen of the product is cracked.,damaged_package
+Refund ke liye request bhejo.,refund_request
+Is today's delivery running on schedule?,delivery_status
+Please delivery check karo.,delivery_status
+Bell mat bajana.,delivery_instructions
+Can you check today's delivery update?,delivery_status
+Dusra email use karna hai.,change_email
+edit mobile number.,change_phone
+Mera account update karo.,profile_update
+wallet balance.,wallet_balance
+What is my payment status?,payment_status
+The package is missing.,order_not_received
+Mujhe payment details dikhao.,payment_status
+verification email.,account_verification
+Voucher ka issue hai.,promo_code_issue
+verify account.,account_verification
+Temporary account band karna hai.,deactivate_account
+change email.,change_email
+Can you update today's delivery status?,delivery_status
+Has my order entered shipping stage?,order_status
+Help me with a warranty claim.,warranty_claim
+Can you show mera order history?,order_history
+Has the refund been initiated?,refund_status
+I have moved to a new address.,update_address
+Account restriction hatao.,account_locked
+Tell me the material of this product.,product_information
+I want to download my invoice.,invoice_request
+Turn my account back on.,reactivate_account
+Courier ne deliver nahi kiya.,order_not_received
+Complete my account verification.,account_verification
+Kaunsa TV kharidna chahiye?,product_recommendation
+Good evening.,general_query
+Please update my contact number.,change_phone
+Give me an update on my refund.,refund_status
+Reopen my account.,reactivate_account
+Hand it over to my family member.,delivery_instructions
+Mera shipment delay ho gaya hai.,delivery_delay
+Product broken aaya hai.,damaged_package
+Mera paisa account mein wapas bhejo.,refund_request
+Order abhi tak deliver nahi hua.,delivery_delay
+Refund approve karo.,refund_request
+Tax invoice bhejo.,invoice_request
+Recommend a lightweight laptop.,product_recommendation
+exchange my purchase.,exchange_order
+Can I reschedule my delivery?,reschedule_delivery
+Package ki location check kijiye.,track_shipment
+I cannot access my account because it is locked.,account_locked
+My account won't open.,login_issue
+Complaint register please.,raise_complaint
+Kripya mera order return kar dijiye.,return_order
+Recommend a laptop for students.,product_recommendation
+Package kal deliver kar dijiye.,reschedule_delivery
+Parcel abhi tak nahi mila.,delivery_delay
+Exchange process shuru karo.,exchange_order
+Naya number register karo.,change_phone
+Has my purchase been processed?,order_status
+Delete my account.,delete_account
+Mere order ki delivery kab hogi?,order_status
+Delivery after office hours karna.,change_delivery_slot
+Color change karna hai.,modify_order
+Meri delivery reschedule karo.,reschedule_delivery
+Good night.,general_query
+Order deliver nahi hua.,order_not_received
+Package deliver nahi hua.,order_not_received
+new phone number.,change_phone
+I want to complain about this product.,raise_complaint
+Sabhi account records delete karo.,delete_account
+Mera registered email change karo.,change_email
+My account is locked.,account_locked
+Support agent se connect kar do.,speak_to_agent
+Mera order ready hua kya?,order_status
+Delivery progress dikhao.,delivery_status
+Can you file meri complaint?,raise_complaint
+Naya password set kar do.,reset_password
+locked out.,account_locked
+Offer code apply nahi ho raha.,promo_code_issue
+item damaged.,damaged_package
+Mera order hata do.,cancel_order
+in stock.,product_availability
+Address update please.,update_address
+Recommend headphones with good bass.,product_recommendation
+Mujhe receipt chahiye.,invoice_request
+Is product ke details batao.,product_information
+Please evening delivery karna.,change_delivery_slot
+Is the blue color available?,product_availability
+OTP receive nahi hua.,account_verification
+Complaint create kar do.,raise_complaint
+Login is not working.,login_issue
+Order expected time pe nahi aaya.,delivery_delay
+Mera latest order hata do.,cancel_order
+Account ka email badalna hai.,change_email
+Change my delivery slot.,change_delivery_slot
+Delivery ki timing change kijiye.,reschedule_delivery
+Morning delivery kar do.,change_delivery_slot
+Is my cashback approved?,cashback_query
+I received a different product.,wrong_delivery
+Mujhe password recover karna hai.,reset_password
+Contact the delivery agent.,delivery_agent_contact
+Mujhe mera order nahi mila.,order_not_received
+Mera account security reasons se block hua hai.,account_locked
+Please password change karo.,reset_password
+Mera parcel kab tak aayega?,delivery_delay
+Identity verify kara do.,account_verification
+Has my complaint been closed?,complaint_status
+Payment ke baad order confirm hua?,order_confirmation
+Ye kisi aur ka order hai.,wrong_delivery
+Modify my registered email address.,change_email
+Confirm karke hi delivery karna.,delivery_instructions
+Payment receive hua ya nahi?,payment_status
+Is my payment successful?,payment_status
+Exchange order number 12345.,exchange_order
+Has my refund been issued?,refund_status
+Order cancel please.,cancel_order
+Real agent chahiye.,speak_to_agent
+Please delivery jaldi karvao.,delivery_delay
+Remove my account permanently.,delete_account
+Galat size mila hai.,exchange_order
+Unable to sign in.,login_issue
+I need to talk to a representative.,speak_to_agent
+My order was supposed to arrive today.,delivery_delay
+Show me the current location of my package.,track_shipment
+Account ko dobara open karo.,reactivate_account
+Courier abhi tak nahi pahucha.,delivery_delay
+Double payment refund chahiye.,duplicate_payment
+Mera login kaam nahi kar raha.,login_issue
+good morning.,general_query
+Mujhe order edit karna hai.,modify_order
+Which headphones have the best sound quality?,product_recommendation
+Mera refund pending hai.,refund_status
+Login check karo please.,login_issue
+Can you connect me to a human?,speak_to_agent
+Has my order been approved?,order_status
+Payment retry karna hai.,payment_failed
+Can you update my address?,update_address
+Galti se do payment ho gaye.,duplicate_payment
+Delivery boy ka phone number chahiye.,delivery_agent_contact
+Old address remove karo.,update_address
+Kripya mera account restore kar dijiye.,reactivate_account
+Mera profile update karo.,profile_update
+Color change karna hai.,exchange_order
+Keep the package in a safe place.,delivery_instructions
+Can you locate my shipment?,order_status
+Mera parcel track karo.,order_status
+Can you help me return my purchase?,return_order
+Show my wallet balance.,wallet_balance
+Mujhe representative se baat karni hai.,speak_to_agent
+Card ki jagah UPI use karna hai.,payment_method_change
+Parcel ko front door pe rakh dena.,delivery_instructions
+Complaint resolve hui ya nahi?,complaint_status
+My mobile number has changed.,change_phone
+Mera parcel deliver hua kya?,delivery_status
+service center.,store_location
+Coupon reject ho gaya.,promo_code_issue
+payment failed.,payment_failed
+Best smartwatch kaunsa hai?,product_recommendation
+Mera account freeze ho gaya hai.,account_locked
+Subah delivery mat karna.,change_delivery_slot
+Can you change my mobile number?,change_phone
+Refund my purchase.,refund_request
+Where is my courier now?,track_shipment
+Registered phone badal do.,change_phone
+Account unlock kar do.,account_locked
+Can you reset mera password?,reset_password
+Account reactivate kar do.,reactivate_account
+order cancel asap.,cancel_order
+Product badalna hai.,exchange_order
+The payment did not go through.,payment_failed
+Can you unlock my account?,account_locked
+product description.,product_information
+Is product ki specification batao.,product_information
+Product ki screen crack hai.,damaged_package
+Payment process complete nahi hua.,payment_failed
+Login page work nahi kar raha.,login_issue
+I did not receive all the items.,missing_package
+Where is my package? I never received it.,order_not_received
+Box daba hua hai.,damaged_package
+Correct my profile details.,profile_update
+Payment process fail ho gaya.,payment_failed
+Has my parcel reached my city?,delivery_status
+Mera account unlock aur activate karo.,reactivate_account
+Box toot gaya hai.,damaged_package
+Invoice dobara bhejo.,invoice_request
+Meri delivery agle din bhejiye.,reschedule_delivery
+Cashback approve hua kya?,cashback_query
+Transaction complete nahi hua.,payment_failed
+I received an incomplete package.,missing_package
+leave at door.,delivery_instructions
+My account has been disabled due to security reasons.,account_locked
+Has my refund been processed?,refund_status
+Transfer my chat to a live representative.,speak_to_agent
+Maine pehle kya purchase kiya tha?,order_history
+Update my mobile number.,change_phone
+I need to return the item.,return_order
+Naya phone number add karo.,change_phone
+Is my refund approved?,refund_status
+What is the latest refund update?,refund_status
+Information edit karni hai.,profile_update
+Refund process start karo.,refund_request
+Store address please.,store_location
+Mujhe pura refund chahiye.,refund_request
+Mera package missing hai.,order_not_received
+My product stopped working.,warranty_claim
+Wallet balance update do.,wallet_balance
+want to return.,return_order
+Maine naya email banaya hai.,change_email
+change payment option.,payment_method_change
+Profile ko temporarily disable karo.,deactivate_account
+I want to register a different email.,change_email
+change delivery date.,reschedule_delivery
+Delivery Monday ko kar dijiye.,reschedule_delivery
+Account verify please.,account_verification
+I am unable to redeem the offer.,promo_code_issue
+Best choice batao.,product_recommendation
+Delivery person ka contact batao.,delivery_agent_contact
+Order place nahi hua kyunki payment fail hua.,payment_failed
+Mere parcel mein ek item missing hai.,missing_package
+Mere refund ka status kya hai?,refund_status
+Parcel toot gaya hai.,damaged_package
+Wallet balance check kar do.,wallet_balance
+Available color batao.,product_availability
+Can you cancel mera order?,cancel_order
+Parcel pura nahi hai.,missing_package
+Track package number 12345.,track_shipment
+I need access to my locked account.,account_locked
+Promo code check karo.,promo_code_issue
+Has my order reached the delivery stage?,delivery_status
+Time slot update karo.,change_delivery_slot
+Can you check ye product?,product_availability
+order this again.,reorder_product
+Mujhe cashback nahi mila.,cashback_query
+When can I expect my delayed package?,delivery_delay
+Mujhe evening slot hi chahiye.,change_delivery_slot
+Verify my account.,account_verification
+Thank you so much.,general_query
+Coupon accept nahi ho raha.,promo_code_issue
+Mera order approve hua kya?,order_confirmation
+Deactivate account please.,deactivate_account
+My product is malfunctioning.,technical_support
+Mera naam change karna hai.,profile_update
+When will my delayed order arrive?,delivery_delay
+Track my courier in real time.,track_shipment
+Product exchange nahi return chahiye.,return_order
+Software error dikha raha hai.,technical_support
+Mera account reactivate kar do.,reactivate_account
+Please replace the wrongly delivered item.,wrong_delivery
+product suggestion.,product_recommendation
+Where is the delivery vehicle?,track_shipment
+Please send me the invoice.,invoice_request
+Warranty kaise claim karun?,warranty_claim
+Mera order record dikhao.,order_history
+I want to return this item and get a refund.,refund_request
+Exchange my order.,exchange_order
+Ye wala order cancel karna hai.,cancel_order
+Device restart nahi ho raha.,technical_support
+Can I change my delivery window?,change_delivery_slot
+I want to know my payment status.,payment_status
+Troubleshooting help chahiye.,technical_support
+Warranty help chahiye.,warranty_claim
+Order dispatch hone wala hai kya?,order_status
+Best shoes suggest karo.,product_recommendation
+Deliver my package in the afternoon.,change_delivery_slot
+Use another payment option.,payment_method_change
+Mujhe wahi item dobara chahiye.,reorder_product
+Mujhe support team se connect karo.,speak_to_agent
+Show my recent orders.,order_history
+Please change my shipping address.,update_address
+I forgot my login credentials.,login_issue
+register complaint.,raise_complaint
+Product return karna hai yaar.,return_order
+Mujhe invoice chahiye.,invoice_request
+Meri delivery kaafi delay ho gayi hai.,delivery_delay
+Order number 12345 ki delivery reschedule karo.,reschedule_delivery
+I need the latest tracking information.,order_status
+Ye mera order nahi hai.,wrong_delivery
+Cancel my recent order.,cancel_order
+Complaint ticket banao.,raise_complaint
+Where can I see my order status?,order_status
+Warranty claim kar do.,warranty_claim
+Can you verify my refund status?,refund_status
+Profile information edit karo.,profile_update
+Delete account please.,delete_account
+Mujhe delivery executive se connect karo.,delivery_agent_contact
+Gate ke bahar parcel rakh dena.,delivery_instructions
+Confirmation message dikhao.,order_confirmation
+Mera sara data hata do.,delete_account
+How do I reset my password?,reset_password
+Discount nahi mila.,promo_code_issue
+Please help me troubleshoot the problem.,technical_support
+Payment accept nahi hua.,payment_failed
+Is product ki warranty kitni hai?,product_information
+Switch my payment to credit card.,payment_method_change
+Retail store ka address do.,store_location
+Profile permanently remove karo.,delete_account
+Order number 12345 ka status kya hai?,order_status
+Can you check mera parcel?,order_status
+I'm getting an authentication error.,login_issue
+Do transactions dikh rahe hain.,duplicate_payment
+What is the available wallet balance?,wallet_balance
+Delivery status late dikha raha hai.,delivery_delay
+Has my purchase been confirmed?,order_confirmation
+Refund process kar do.,refund_request
+Can you locate mera shipment?,track_shipment
+cashback not received.,cashback_query
+check complaint.,complaint_status
+Is my order confirmed?,order_confirmation
+Find your nearest shop.,store_location
+Login complete nahi ho raha.,login_issue
+Order incomplete deliver hua.,missing_package
+package tracking.,track_shipment
+Replace my product with another one.,exchange_order
+Courier ki movement bataiye.,track_shipment
+Product wapas bhejna hai.,return_order
+Receipt send karo.,invoice_request
+verification OTP.,account_verification
+I have a complaint about my order.,raise_complaint
+Account unlock karne mein help karo.,account_locked
+GST invoice chahiye.,invoice_request
+Device baar baar hang ho raha hai.,technical_support
+Refund ki current position kya hai?,refund_status
+Delivery ki date badal dijiye.,reschedule_delivery
+Mujhe service ki complaint karni hai.,raise_complaint
+Mere order mein changes karne hain.,modify_order
+Bahut login attempts ke baad account lock ho gaya.,account_locked
+Mujhe cashback kyun nahi mila?,cashback_query
+Refund request bhejna hai.,refund_request
+I want to send this product back.,return_order
+I want to know my refund status.,refund_status
+delivery not received.,order_not_received
+Delivery mein issue hai kya?,delivery_delay
+Voucher kaam nahi kar raha.,promo_code_issue
+Is there a store in my city?,store_location
+Deliver it in the evening instead.,reschedule_delivery
+Mujhe naya password banana hai.,reset_password
+Mera account disable kar diya gaya hai.,account_locked
+call delivery boy.,delivery_agent_contact
+Check my payment status.,payment_status
+need exchange now.,exchange_order
+Can I use another phone number?,change_phone
+Mere wallet ka balance kya hai?,wallet_balance
+I didn't receive my cashback.,cashback_query
+Mera wallet balance batao.,wallet_balance
+Mere budget mein best phone batao.,product_recommendation
+Show my order confirmation.,order_confirmation
+My payment was rejected.,payment_failed
+Product return karke refund chahiye.,refund_request
+Promo code invalid hai.,promo_code_issue
+Payment reject ho gaya hai.,payment_failed
+Start the refund process.,refund_request
+Can you check mera login?,login_issue
+Mera courier track karo.,track_shipment
+Nearest store batao.,store_location
+App crash ho rahi hai.,technical_support
+The transaction could not be completed.,payment_failed
+Please process my refund request.,refund_request
+Suggest a refrigerator for a family of four.,product_recommendation
+Payment confirm karo.,payment_status
+Parcel mein product missing hai.,missing_package
+dont want this order.,cancel_order
+password reset link.,reset_password
+Data bhi delete kar do.,delete_account
+How are you?,general_query
+Track my parcel please.,track_shipment
+Refund request submit karo.,refund_request
+Budget product dikhao.,product_recommendation
+delivery later.,reschedule_delivery
+My parcel is arriving very late.,delivery_delay
+Check whether my payment is successful.,payment_status
+Please process my exchange request.,exchange_order
+Order ka refund chahiye please.,refund_request
+Can I order this item again?,reorder_product
+System account locked dikha raha hai.,account_locked
+My payment failed.,payment_failed
+Mere order mein ek item missing hai.,missing_package
+Please postpone today's delivery.,reschedule_delivery
+Exchange kar do please.,exchange_order
+Galat saman deliver hua hai.,wrong_delivery
+Mobile number modify karo.,change_phone
+I need a different delivery time.,change_delivery_slot
+Mera order dobara place karo.,reorder_product
+I need to call the delivery person.,delivery_agent_contact
+Mujhe warranty support chahiye.,warranty_claim
+Delivery person ka mobile number batao.,delivery_agent_contact
+Order place nahi hua payment fail hone ki wajah se.,payment_failed
+I prefer morning delivery.,change_delivery_slot
+Show me my latest order update.,order_status
+There is a delay in my delivery.,delivery_delay
+Login button respond nahi kar raha.,login_issue
+Mere paise do baar deduct hue.,duplicate_payment
+Phone number change kar do.,change_phone
+I got a payment failure notification.,payment_failed
+Kripya mera order exchange kar dijiye.,exchange_order
+I need technical support.,technical_support
+Meri purchase history dikhao.,order_history
+Bill email kar do.,invoice_request
+Meri complaint verify karo.,complaint_status
+Delivery ke time package damage ho gaya.,damaged_package
+Afternoon mein parcel deliver karo.,change_delivery_slot
+The courier says delivered but I didn't receive it.,order_not_received
+damaged package.,damaged_package
+Kya delivery shuru ho gayi hai?,delivery_status
+My package should have arrived already.,delivery_delay
+Do you have this product?,product_availability
+Can you generate my invoice?,invoice_request
+Will my package arrive today?,delivery_status
+Cashback receive nahi hua.,cashback_query
+My email address has changed.,change_email
+Can you recommend a good laptop?,product_recommendation
+The delivery timeline has been exceeded.,delivery_delay
+Account open nahi ho raha.,login_issue
+Modify my phone number.,change_phone
+Daily use ke liye product recommend karo.,product_recommendation
+Did my payment go through?,payment_status
+Please payment check karo.,payment_failed
+Mera parcel kis city mein hai?,track_shipment
+Mujhe account band karna hai abhi.,deactivate_account
+Naya number use karna hai.,change_phone
+Has my order been accepted?,order_confirmation
+Shipment abhi tak nahi aaya.,delivery_delay
+Did my order go through?,order_confirmation
+Transaction cancel ho gaya.,payment_failed
+My cashback is missing.,cashback_query
+Login karte hi account lock dikha raha hai.,account_locked
+Mujhe password yaad nahi hai.,reset_password
+Transaction do baar hua.,duplicate_payment
+Warranty valid hai kya?,warranty_claim
+I need to update my email ID.,change_email
+I need to recover my account password.,reset_password
+Delivery agent ka number batao.,delivery_agent_contact
+The item delivered is completely different.,wrong_delivery
+don't ring bell.,delivery_instructions
+verify identity.,account_verification
+Kya mera order abhi pending hai?,order_status
+Package track karo.,track_shipment
+Mujhe evening mein delivery chahiye.,change_delivery_slot
+Can I buy this product now?,product_availability
+Do not leave the package unattended.,delivery_instructions
+Display my wallet balance.,wallet_balance
+Verify my email address.,account_verification
+Login credentials accept nahi ho rahe.,login_issue
+Thank you.,general_query
+Mera courier kaha tak pahucha?,track_shipment
+Permanent account deletion chahiye.,delete_account
+Profile deactivate kar do.,deactivate_account
+Order ki delivery ruk gayi hai kya?,delivery_delay
+Phone ki battery capacity batao.,product_information
+I want to know more about this item.,product_information
+Account ko enable kar do.,reactivate_account
+delivery after 6 pm.,change_delivery_slot
+My payment got duplicated.,duplicate_payment
+I can't remember my password.,reset_password
+Temporary account disable karo.,deactivate_account
+Maine naya mobile number liya hai.,change_phone
+Mera order alag tha.,wrong_delivery
+My account is not verified.,account_verification
+Please warranty check karo.,warranty_claim
+Please arrange a return pickup.,return_order
+Can I get a copy of my invoice?,invoice_request
+Is my shipment out for delivery?,delivery_status
+Payment receive hua kya?,payment_status
+Duplicate transaction check karo.,duplicate_payment
+Order ka refund chahiye.,refund_request
+Mera purchase confirm hua kya?,order_confirmation
+Payment refund kar dijiye.,refund_request
+human support.,speak_to_agent
+Transaction unsuccessful hai.,payment_failed
+Product sahi se kaam nahi kar raha.,technical_support
+Can you find a store near me?,store_location
+track complaint.,complaint_status
+app crashing.,technical_support
+Top-rated products dikhao.,product_recommendation
+didn't get package.,order_not_received
+Resend the verification email.,account_verification
+wrong product selected.,modify_order
+Please provide my complaint update.,complaint_status
+Mera order nahi mila.,order_not_received
+Please process my warranty request.,warranty_claim
+money deducted twice.,duplicate_payment
+Password galat bata raha hai.,login_issue
+Delivery ki nayi date do.,reschedule_delivery
+Please tell me my delivery progress.,delivery_status
+Mera parcel abhi kahan hai?,track_shipment
+Show me all my completed orders.,order_history
+Money double deduct ho gaya.,duplicate_payment
+Find the closest outlet.,store_location
+I want live tracking for my parcel.,track_shipment
+Mujhe apna profile edit karna hai.,profile_update
+Complaint close hui kya?,complaint_status
+Delivery instructions follow karna.,delivery_instructions
+Package receive karne se pehle phone karna.,delivery_instructions
+Order process mat karo.,cancel_order
+Why is my delivery so late?,delivery_delay
+Meri delivery ki details dikhao.,delivery_status
+I need information about this product.,product_information
+Refund request accept hui kya?,refund_status
+Shipment ki location check karo.,track_shipment
+Mera account block ho gaya hai.,account_locked
+Complaint raise karo.,raise_complaint
+Complaint pending hai kya?,complaint_status
+Please mera account enable kar do.,reactivate_account
+Can I speak to your support team?,speak_to_agent
+Agle hafte delivery karna.,reschedule_delivery
+How's it going?,general_query
+Mujhe sirf ek item mila.,missing_package
+Can I get a refund?,refund_request
+Please reschedule my delivery.,reschedule_delivery
+Main password bhool gaya hoon.,login_issue
+Order return process batao.,return_order
+Where is the nearest service center?,store_location
+Warranty process batao.,warranty_claim
+Promo code error fix karo.,promo_code_issue
+Mera account locked hai.,account_locked
+Deactivate my account.,deactivate_account
+Mujhe warranty claim karna hai.,warranty_claim
+Payment refund please.,refund_request
+Email verify karna hai.,account_verification
+Mera account verify karo.,account_verification
+Please mera product exchange karo.,exchange_order
+Cashback update chahiye.,cashback_query
+Family member ko handover kar dena.,delivery_instructions
+Mera previous order check karo.,order_history
+Support team se baat karni hai.,speak_to_agent
+Delivery agent ka number do.,delivery_agent_contact
+What are the dimensions of this refrigerator?,product_information
+Agent ka phone number do.,delivery_agent_contact
+Account restricted ho gaya hai.,account_locked
+Recommend a smartwatch for fitness.,product_recommendation
+Order ka live status batao.,order_status
+Wallet mein kitna paisa hai?,wallet_balance
+Payment status batao.,payment_status
+Mujhe customer care se baat karni hai.,speak_to_agent
+Mera refund bank mein aaya kya?,refund_status
+Please resend my invoice.,invoice_request
+How do I claim the warranty?,warranty_claim
+Ghar pahunchne par call karna.,delivery_instructions
+Has the payment been completed?,payment_status
+return order pls.,return_order
+Mera order return karo.,return_order
+How can I return my order?,return_order
+Delivery kal kar dena.,reschedule_delivery
+Achha tablet bataiye.,product_recommendation
+Refund status please.,refund_status
+I want my package sent to another address.,update_address
+Mera wallet check karo.,wallet_balance
+can't login.,login_issue
+Please login help karo.,login_issue
+Account phone update kar do.,change_phone
+Show my order history.,order_history
+Complaint file kar do.,raise_complaint
+Box damage hai.,damaged_package
+Has the seller processed my order?,order_status
+Warranty kitni hai?,product_information
+Order confirmation dikhao.,order_confirmation
+customer care.,speak_to_agent
+Achha refrigerator suggest kijiye.,product_recommendation
+Package baad mein deliver karna.,reschedule_delivery
+Mera parcel expected date ke baad bhi nahi aaya.,delivery_delay
+reset password.,reset_password
+My parcel has not arrived on time.,delivery_delay
+Email details change karo.,change_email
+Recommend a good smartwatch.,product_recommendation
+My profile has been blocked.,account_locked
+Can you track meri complaint?,complaint_status
+Meri profile details badal do.,profile_update
+Mere order ka status batao.,order_status
+Mujhe aaj delivery nahi chahiye.,reschedule_delivery
+Change my payment method.,payment_method_change
+delivery executive contact.,delivery_agent_contact
+The product has a manufacturing defect.,warranty_claim
+Mere order ka latest status bataiye.,order_status
+Device hang ho raha hai.,technical_support
+Account access blocked hai.,account_locked
+Mera payment method badal do.,payment_method_change
+Mera phone number edit karo.,change_phone
+Do baar transaction ho gaya.,duplicate_payment
+Mera account fir se active kar dijiye.,reactivate_account
+remove account.,delete_account
+Doorbell mat bajana.,delivery_instructions
+Ye size available hai kya?,product_availability
+What features does this product have?,product_information
+Can you delete mera account?,delete_account
+Repeat my last purchase.,reorder_product
+Has my order been shipped?,order_status
+Exchange request bhejo.,exchange_order
+account locked.,account_locked
+Kripya mera account deactivate kar dijiye.,deactivate_account
+I received only part of my order.,missing_package
+New email add kar do.,change_email
+Mera account close forever.,delete_account
+The product is damaged.,damaged_package
+Account access security ke kaaran band ho gaya.,account_locked
+Has the refund been completed?,refund_status
+Cash on Delivery hata do.,payment_method_change
+Mera order delivery stage mein hai kya?,delivery_status
+Mujhe product return karna hai.,return_order
+Where is my cashback?,cashback_query
+Why hasn't the delivery happened yet?,delivery_delay
+Is this covered by warranty?,warranty_claim
+Deliver it after 6 PM.,change_delivery_slot
+Update my delivery address.,update_address
+My order is delayed beyond the estimated date.,delivery_delay
+My order was not delivered to me.,order_not_received
+Can I call the courier agent?,delivery_agent_contact
+recommend smartphone.,product_recommendation
+Login failed again.,login_issue
+Can you confirm mera order?,order_confirmation
+My delivery is missing.,order_not_received
+Does this laptop have a backlit keyboard?,product_information
+The device freezes frequently.,technical_support
+I want to close my account permanently.,delete_account
+Can you deliver it later?,reschedule_delivery
+Tell me the specifications of this smartwatch.,product_information
+Out of stock hai kya?,product_availability
+contact courier.,delivery_agent_contact
+Is product ki specification bataiye.,product_information
+order history.,order_history
+Account block hata do.,account_locked
+Mera paisa wapas karo.,refund_request
+mera shipment??,track_shipment
+Card payment unsuccessful hai.,payment_failed
+Is my order being processed?,order_status
+Mera delivery time update karo.,change_delivery_slot
+Old number remove karo.,change_phone
+Delivery next week kar do.,reschedule_delivery
+Can you track mera order?,order_status
+Does this product support fast charging?,product_information
+Mujhe account deactivate karna hai.,deactivate_account
+Mera wallet empty hai kya?,wallet_balance
+Package bahar mat chhodna.,delivery_instructions
+Mera shipment delivery ke liye nikla kya?,delivery_status
+wallet amount.,wallet_balance
+Store ki location batao.,store_location
+Why is my shipment taking so long?,delivery_delay
+Kya ye warranty cover mein aata hai?,warranty_claim
+restore account.,reactivate_account
+Please check my order progress.,order_status
+The order never arrived.,order_not_received
+Refund request raise karo.,refund_request
+Please refund initiate karo.,refund_request
+Please wrong order replace karo.,wrong_delivery
+Reception pe parcel rakh dena.,delivery_instructions
+I want to know my cashback amount.,cashback_query
+I want to talk to the delivery agent.,delivery_agent_contact
+Time change kar do delivery ka.,change_delivery_slot
+Parcel darwaze ke bahar rakh dena.,delivery_instructions
+Delivery start hui kya?,delivery_status
+I need a full refund.,refund_request
+Support executive se connect karo.,speak_to_agent
+show old orders.,order_history
+Start my refund process.,refund_request
+Profile information change karni hai.,profile_update
+Please duplicate payment check karo.,duplicate_payment
+Mujhe apna order change karna hai.,modify_order
+Meri delivery ka time badal do.,change_delivery_slot
+Mujhe complaint karni hai.,raise_complaint
+Complaint resolve hui kya?,complaint_status
+Can you create a refund request?,refund_request
+Please mera account remove karo.,delete_account
+I need to update my contact details.,change_phone
+Leave it with the watchman.,delivery_instructions
+Change my delivery to tomorrow.,reschedule_delivery
+Order edit karna hai.,modify_order
+Courier ka contact share karo.,delivery_agent_contact
+The box is damaged.,damaged_package
+Package ka live location dikhao.,track_shipment
+Reschedule order number 12345.,reschedule_delivery
+Main account open nahi kar paa raha kyunki lock hai.,account_locked
+I want to exchange for another color.,exchange_order
+Courier bahut late chal raha hai.,delivery_delay
+Can you unlock mera account?,account_locked
+Please account unlock karo.,account_locked
+Mera parcel kab deliver hoga?,delivery_status
+edit profile.,profile_update
+Product kis material ka hai?,product_information
+Kya mera order confirm ho gaya hai?,order_status
+Mera purana account wapas chahiye.,reactivate_account
+exchange order pls.,exchange_order
+Delivery timing change karni hai.,reschedule_delivery
+Shipment ka live tracking dikhaiye.,track_shipment
+Double payment issue hai.,duplicate_payment
+Password help chahiye.,reset_password
+Mera profile delete karo.,delete_account
+hello.,general_query
+Nearest shop batao.,store_location
+Mera purchase cancel karo.,cancel_order
+Shaam mein delivery karna.,change_delivery_slot
+Credentials sahi hain phir bhi login nahi ho raha.,login_issue
+Refund ka update chahiye.,refund_status
+How much storage does this phone offer?,product_information
+Exchange kab hoga?,exchange_order
+I need to deactivate my profile.,deactivate_account
+Cashback amount kitna hai?,cashback_query
+Delivery kaafi delay chal rahi hai.,delivery_delay
+Account restore karna hai.,reactivate_account
+Please login verify kar do.,login_issue
+payment declined.,payment_failed
+My account has been disabled.,account_locked
+Deliver it to the security guard.,delivery_instructions
+Refund ka latest update do.,refund_status
+Service center kahan hai?,store_location
+Kya courier delivery ke liye nikal gaya?,delivery_status
+Order ka processing status bata do.,order_status
+I want to update my address.,update_address
+login failed.,login_issue
+Please meri delivery postpone karo.,reschedule_delivery
+Complaint lodge karo.,raise_complaint
+Delivery ek din baad karna.,reschedule_delivery
+Can you track my shipment?,track_shipment
+Purane order ki list dikhao.,order_history
+Parcel bahut der se pending hai.,delivery_delay
+The system says my account is locked.,account_locked
+Order cancel karna hai boss.,cancel_order
+Where is your retail store?,store_location
+I want a refund.,refund_request
+The promo code shows an error.,promo_code_issue
+Offline store kahan hai?,store_location
+Main apna password bhool gaya hoon.,reset_password
+payment status.,payment_status
+Payment wapas kar do.,refund_request
+Can you check damaged product?,damaged_package
+Mujhe delivery ki date badalni hai.,reschedule_delivery
+Where is your showroom?,store_location
+Invoice PDF bhejo.,invoice_request
+Please connect me with the delivery executive.,delivery_agent_contact
+Deactivate account ko activate karna hai.,reactivate_account
+Mera order pending hai kya?,order_status
+Restore my account.,reactivate_account
+Complaint ki current status batao.,complaint_status
+Please mere previous orders dikhao.,order_history
+Order place hua ya nahi?,order_confirmation
+Please replace my existing email.,change_email
+Mera payment verify karo.,payment_status
+I want to apply for a refund.,refund_request
+Mera refund kab milega?,refund_status
+My card payment failed.,payment_failed
+Leave the package outside the door.,delivery_instructions
+Mera account dobara activate karo.,reactivate_account
+Wrong item choose ho gaya.,modify_order
+Suggest a smartphone under ₹30000.,product_recommendation
+Transaction fail ho gaya.,payment_failed
+Complaint ka latest status dikhao.,complaint_status
+out for delivery?,delivery_status
+Has my refund been approved?,refund_status
+Main account access nahi kar pa raha.,login_issue
+Mujhe paise wapas chahiye.,refund_request
+Mere order ki progress batao.,order_status
+Shipment ka latest update do.,track_shipment
+Can you arrange an exchange?,exchange_order
+Issue resolve kar do.,technical_support
+Wallet mein balance kitna hai?,wallet_balance
+Track my parcel live.,track_shipment
+Locate my package.,track_shipment
+Please update me on my refund.,refund_status
+Credit card se payment karna hai.,payment_method_change
+I got the wrong color and model.,wrong_delivery
+Meri personal information update karo.,profile_update
+Customer care ka representative chahiye.,speak_to_agent
+Show the live location of my shipment.,track_shipment
+Offer redeem nahi ho raha.,promo_code_issue
+Kya aapko mera order mil gaya?,order_confirmation
+The courier missed the promised delivery date.,delivery_delay
+Account open nahi ho raha yaar.,login_issue
+Can you deliver it tomorrow?,reschedule_delivery
+Please update my profile information.,profile_update
+reopen account.,reactivate_account
+I want to raise a refund request.,refund_request
+Hi Vani.,general_query
+Stock mein hai kya?,product_availability
+Update my order before shipping.,modify_order
+Wallet info chahiye.,wallet_balance
+Mera profile dobara activate kijiye.,reactivate_account
+Dhanyavaad.,general_query
+Can I return this product?,return_order
+Nearest branch locate karo.,store_location
+Delivery itni delay kyun ho rahi hai?,delivery_delay
+Coupon apply kar do.,promo_code_issue
+Bring back my account.,reactivate_account
+What stage is my order in?,order_status
+Delivery slot badalna hai.,reschedule_delivery
+Email modify karo.,change_email
+Mera account lock ho gaya hai.,account_locked
+Cashback has not been credited.,cashback_query
+Same product fir se bhejo.,reorder_product
+I want to change the color of my product.,modify_order
+Mera paisa wapas dijiye.,refund_request
+Order mein ek cheez kam hai.,missing_package
+Can you change the delivery timing?,change_delivery_slot
+Mujhe account permanently close karna hai.,delete_account
+I want to take a break from this account.,deactivate_account
+Budget phone recommend karo.,product_recommendation
+Can I know today's delivery update?,delivery_status
+I don't want to talk to a bot.,speak_to_agent
+Watchman ko de dena.,delivery_instructions
+I want to change my delivery time.,change_delivery_slot
+Check my cashback status.,cashback_query
+Order abhi tak nahi pahucha.,order_not_received
+Refund process complete hua kya?,refund_status
+Order ka invoice chahiye.,invoice_request
+Mera refund approve hua kya?,refund_status
+Package padosi ke paas chhod dena.,delivery_instructions
+Suggest a monitor for gaming.,product_recommendation
+Stop my account temporarily.,deactivate_account
+Please cancel my order.,cancel_order
+Meri delivery kal kar dijiye.,reschedule_delivery
+I want my account back.,reactivate_account
+My parcel is running late.,delivery_delay
+Address edit kar do.,update_address
+product under warranty.,warranty_claim
+What time will my package arrive today?,delivery_status
+Mera order kis phase mein chal raha hai?,order_status
+login issue.,login_issue
+Mujhe pura order nahi mila.,missing_package
+complaint status.,complaint_status
+The package was torn.,damaged_package
+I need the tax invoice.,invoice_request
+Order ka current status dikhao.,order_status
+Main product use nahi kar pa raha hoon.,technical_support
+Please update my delivery schedule.,change_delivery_slot
+replace contact number.,change_phone
+Order ki current location batao.,order_status
+Has my order moved to the next stage?,order_status
+Please delivery reschedule kar do.,reschedule_delivery
+Debit card select kar do.,payment_method_change
+Order confirm hua kya?,order_confirmation
+Gaming laptop recommend karo.,product_recommendation
+I want to report an issue.,raise_complaint
+Complaint submit kar do.,raise_complaint
+The login keeps failing.,login_issue
+Refund track karo.,refund_status
+Please reopen my profile.,reactivate_account
+What's the progress of my complaint?,complaint_status
+Invoice bhej do.,invoice_request
+Please refund status verify karo.,refund_status
+Please recover my deactivated profile.,reactivate_account
+Previous order list dikhao.,order_history
+₹30000 ke andar achha phone bataiye.,product_recommendation
+Mujhe help chahiye.,general_query
+Best washing machine suggest kijiye.,product_recommendation
+Courier deliver dikhata hai par mujhe nahi mila.,order_not_received
+Galat payment method select ho gaya.,payment_method_change
+Replace my old email with a new one.,change_email
+Shipment ki location update dijiye.,track_shipment
+Locate the nearest branch.,store_location
+Past orders batao.,order_history
+Mera receipt bhejo.,invoice_request
+Please mera account disable karo.,deactivate_account
+Account restriction lag gayi hai.,account_locked
+Mujhe order confirm hai ya nahi batao.,order_confirmation
+Main abhi account use nahi karna chahta.,deactivate_account
+payment error.,payment_failed
+Mere order records dikhao.,order_history
+Mera cashback update do.,cashback_query
+Delivery ka latest status dikhao.,delivery_status
+Complaint create karo.,raise_complaint
+Nearest branch batao.,store_location
+Mujhe koi accha product suggest karo.,product_recommendation
+Profile mein correction karni hai.,profile_update
+I want to see my past orders.,order_history
+Mujhe mera parcel receive nahi hua.,order_not_received
+Accha smartwatch batao.,product_recommendation
+Why is my delivery delayed?,delivery_delay
+Order history please.,order_history
+Track this package for me.,track_shipment
+Aaj delivery mat karo.,reschedule_delivery
+I can't access my account because it's locked.,account_locked
+Ek hi order ke liye double charge hua.,duplicate_payment
+Transaction status dikhao.,payment_status
+Wallet mein kitne paise hain?,wallet_balance
+Order receive nahi hua abhi tak.,order_not_received
+Recommend a gaming laptop.,product_recommendation
+Reset password please.,reset_password
+Thanks for your help.,general_query
+Kripya mera account permanently delete kar dijiye.,delete_account
+Mujhe apna address update karna hai.,update_address
+Can you change mera payment method?,payment_method_change
+Order mein ek product kam hai.,missing_package
+Complaint ka update batao.,complaint_status
+Mujhe complaint raise karni hai.,raise_complaint
+I want to change my payment mode.,payment_method_change
+Mujhe dusra color chahiye.,exchange_order
+Can you reactivate my account?,reactivate_account
+I need my order history.,order_history
+lodge complaint.,raise_complaint
+Mera parcel out for delivery hai?,delivery_status
+Mera delivery slot change karo.,reschedule_delivery
+Payment option modify karo.,payment_method_change
+Mujhe login mein help chahiye.,login_issue
+Nearest service center please.,store_location
+Mera contact number update karo.,change_phone
+Refund ki information do.,refund_status
+Delivery partner ka number share karo.,delivery_agent_contact
+I need to verify my account.,account_verification
+Mera cashback pending hai.,cashback_query
+Pichla parcel fir se bhejo.,reorder_product
+Recommend the best laptop.,product_recommendation
+delete account.,delete_account
+Check my complaint status.,complaint_status
+Payment pending ke baad fail ho gaya.,payment_failed
+Mera refund update batao.,refund_status
+Profile activate kar do.,reactivate_account
+store address.,store_location
+Is the refund under processing?,refund_status
+Cashback kab credit hoga?,cashback_query
+Sabse paas wala outlet batao.,store_location
+I want my old account back.,reactivate_account
+Product error dikha raha hai.,technical_support
+warranty claim.,warranty_claim
+Offer code expire ho gaya hai.,promo_code_issue
+Parcel damage deliver hua hai.,damaged_package
+Mujhe mera order track karna hai.,order_status
+Available balance kitna hai?,wallet_balance
+Register my complaint.,raise_complaint
+Mera profile suspend ho gaya hai.,account_locked
+Stock update do.,product_availability
+I received the wrong product.,wrong_delivery
+Give me directions to your store.,store_location
+I'm unable to use the product properly.,technical_support
+Refund ki latest update dijiye.,refund_status
+Issue raise karna hai.,raise_complaint
+Is this product suitable for daily use?,product_information
+Please start a warranty claim.,warranty_claim
+Mujhe is product ki jankari chahiye.,product_information
+Disable my account temporarily.,deactivate_account
+Package galat address se aaya hai.,wrong_delivery
+Is this product waterproof?,product_information
+Mujhe password change karna hai.,reset_password
+Hello.,general_query
+Can you verify my payment?,payment_status
+Coupon code invalid dikha raha hai.,promo_code_issue
+Mujhe order tracking chahiye.,order_status
+The same transaction happened twice.,duplicate_payment
+I need another one of this product.,reorder_product
+My shipment is delayed.,delivery_delay
+Refund request banana hai.,refund_request
+Email change kar do.,change_email
+Store tak ka rasta batao.,store_location
+Ye product wapas bhejna hai.,return_order
+Is my order ready for shipping?,order_status
+Cashback status please.,cashback_query
+Check my delivery status.,delivery_status
+refund update.,refund_status
+Order ko process mat karo.,cancel_order
+Refund progress batao.,refund_status
+Human assistance chahiye.,speak_to_agent
+Please technical support do.,technical_support
+need return now.,return_order
+Unlock account please.,account_locked
+Is this product available?,product_availability
+Abhi tak order receive nahi hua.,order_not_received
+Shipment ki location batao.,track_shipment
+Show my delivery status.,delivery_status
+Support team se connect karo.,technical_support
+Product ki information do.,product_information
+Account profile modify karo.,profile_update
+Can you verify mera account?,account_verification
+Namaste.,general_query
+Change my email address.,change_email
+Smartwatch ke features batao.,product_information
+Software problem aa rahi hai.,technical_support
+Mera order abhi kahan pahucha hai?,order_status
+Product mil jayega kya?,product_availability
+Refund ke liye apply karna hai.,refund_request
+The app says my account is blocked.,account_locked
+When will this product be back in stock?,product_availability
+Payment do baar ho gaya.,duplicate_payment
+Discount coupon is not accepted.,promo_code_issue
+Password reset email bhejo.,reset_password
+Mera refund start karo.,refund_request
+shipment track pls.,track_shipment
+Dusra payment method use karna hai.,payment_method_change
+I want to change my phone number.,change_phone
+Representative se connect karo.,speak_to_agent
+Complaint status batao.,complaint_status
+Refund process check karo.,refund_status
+I can't sign in.,login_issue
+I need to report a problem.,raise_complaint
+Has my package been delivered?,delivery_status
+Please refund my money.,refund_request
+Is washing machine ke features bataiye.,product_information
+Main account se bahar ho gaya hoon.,account_locked
+Can you call delivery agent?,delivery_agent_contact
+What is the status of my order?,order_status
+Duplicate payment ho gaya.,duplicate_payment
+Phone number replace kar do.,change_phone
+Initiate a refund for my order.,refund_request
+Mujhe technical problem aa rahi hai.,technical_support
+I need warranty support.,warranty_claim
+Mera order history dikhao.,order_history
+Please GST bill bhejo.,invoice_request
+Please customer care se connect karo.,speak_to_agent
+Inventory mein ye product hai kya?,product_availability
+live agent.,speak_to_agent
+Issue report kar do.,raise_complaint
+Kal delivery kar do.,reschedule_delivery
+Mujhe wallet balance dekhna hai.,wallet_balance
+Mujhe product exchange karna hai.,exchange_order
+Where is my package now?,track_shipment
+Is my complaint still open?,complaint_status
+Ye item dobara order karo.,reorder_product
+Please missing item check karo.,missing_package
+Order number 12345 cancel karo.,cancel_order
+Mujhe ye product fir se mangwana hai.,reorder_product
+Is this product available in different colors?,product_information
+Mujhe courier ka contact chahiye.,delivery_agent_contact
+Parcel receive nahi hua.,order_not_received
+Cashback check karo.,cashback_query
+I want to initiate a return.,return_order
+Unable to log in.,login_issue
+Courier ki tracking information do.,track_shipment
+device issue.,technical_support
+Parcel naye address pe bhejna.,update_address
+Please delivery se pehle call karna.,delivery_instructions
+Verification process complete karo.,account_verification
+Mera refund process shuru karo.,refund_request
+Can you modify order number 12345?,modify_order
+Mujhe refund lena hai.,refund_request
+Student ke liye laptop recommend kijiye.,product_recommendation
+Refund ki progress bataiye.,refund_status
+Delivery contact details do.,delivery_agent_contact
+Wrong size aaya hai.,exchange_order
+Courier abhi kahan pahucha hai?,track_shipment
+Duplicate payment was made.,duplicate_payment
+Mera account pause kar do.,deactivate_account
+Account use nahi karna hai.,deactivate_account
+Online payment karna hai.,payment_method_change
+I want to claim my warranty.,warranty_claim
+Service complaint likho.,raise_complaint
+Ye package mera nahi hai.,wrong_delivery
+Payment option update kar do.,payment_method_change
+Refund process complete hua?,refund_status
+Delivery location update karo.,update_address
+Order confirmation message dikhao.,order_confirmation
+Mera package overdue ho gaya hai.,delivery_delay
+Login process complete nahi ho raha.,login_issue
+Can you track mera shipment?,track_shipment
+check refund.,refund_status
+Call me when you arrive.,delivery_instructions
+Package naye address par bhejo.,update_address
+Mera parcel aaj deliver hoga kya?,delivery_status
+Cancel the purchase I made.,cancel_order
+My account is inaccessible.,login_issue
+Coupon issue solve karo.,promo_code_issue
+I want to file a complaint.,raise_complaint
+Galat model bhej diya gaya.,wrong_delivery
+Order successfully place hua?,order_confirmation
+The estimated delivery date has passed.,delivery_delay
+Mujhe mera order record dekhna hai.,order_history
+Payment gateway error aa gaya.,payment_failed
+Mera parcel locate karo.,track_shipment
+Edit my account profile.,profile_update
+Wrong product replace kar do.,wrong_delivery
+I want to edit my account information.,profile_update
+Account deactivate kar do.,deactivate_account
+this isn't my order.,wrong_delivery
+Mera profile fir se active karo.,reactivate_account
+Mera account email update karo.,change_email
+Track my order.,order_status
+Please register my complaint.,raise_complaint
+Mujhe payment wapas chahiye.,refund_request
+buy again.,reorder_product
+Mera email address badal do.,change_email
+Nearby stores dikhao.,store_location
+Package tracking update do.,order_status
+Order ka recent update do.,order_status
+Locked account verify karo.,account_locked
+Check my wallet funds.,wallet_balance
+Delivery schedule change karo.,reschedule_delivery
+Cashback credit hua kya?,cashback_query
+Safe place pe parcel rakhna.,delivery_instructions
+Delivery check kar do.,delivery_status
+Package abhi tak deliver nahi hua.,delivery_delay
+Product stock batao.,product_availability
+Product achanak band ho gaya.,technical_support
+Reorder my recently bought product.,reorder_product
+Mera order accept hua kya?,order_confirmation
+check cashback.,cashback_query
+Order number 12345 ka address badal do.,update_address
+Mera password kaam nahi kar raha.,reset_password
+Account ko dobara khol do.,reactivate_account
+Refund ka latest status dikhao.,refund_status
+Payment preference update karo.,payment_method_change
+Account verify kar do.,account_verification
+Please reorder my last order.,reorder_product
+Wallet amount verify karo.,wallet_balance
+What is happening with my order?,order_status
+Purana email hata do.,change_email
+Courier agent ka contact do.,delivery_agent_contact
+Mera account erase kar do.,delete_account
+Mujhe order confirmation chahiye.,order_confirmation
+Password recover kara do.,reset_password
+Credentials accept nahi ho rahe.,login_issue
+Has my order reached the delivery center?,order_status
+Mera login baar baar fail ho raha hai.,login_issue
+Warranty ke under repair karna hai.,warranty_claim
+Deactivate account ko activate karo.,reactivate_account
+check payment.,payment_status
+Old account restore kar do.,reactivate_account
+Mujhe product ki poori details chahiye.,product_information
+Change my profile details.,profile_update
+Download my bill.,invoice_request
+Mujhe defective product mila hai.,damaged_package
+Delivery se pehle cancel karo.,cancel_order
+Update my registered contact number.,change_phone
+I can't apply the promo code.,promo_code_issue
+did order place?,order_confirmation
+My package arrived damaged.,damaged_package
+Order ka ek part missing hai.,missing_package
+Courier ki live location dikhaiye.,track_shipment
+Account details update karo.,profile_update
+I received the wrong size.,exchange_order
+Let me speak to an agent.,speak_to_agent
+My product is not working.,technical_support
+Best option batao.,product_recommendation
+Can you check mera wallet?,wallet_balance
+My promo code is not working.,promo_code_issue
+Main login nahi kar paa raha.,login_issue
+Can you check missing product?,missing_package
+Can I see my shipment location?,track_shipment
+What is this product made of?,product_information
+Check my wallet balance.,wallet_balance
+Dobara purchase karna hai.,reorder_product
+Product ki condition kharab hai.,damaged_package
+Package deliver hua ya nahi?,delivery_status
+Reschedule my delivery.,reschedule_delivery
+Mujhe apna mobile number update karna hai.,change_phone
+Profile update kar do.,profile_update
+Payment fail ho gaya.,payment_failed
+I haven't received my parcel yet.,order_not_received
+Delivery address edit karo.,update_address
+payment received?,payment_status
+Kya mera order confirm ho gaya hai?,order_confirmation
+Refund chahiye yaar.,refund_request
+Verify my phone number.,account_verification
+Courier tracking chahiye.,track_shipment
+Can you update mera profile?,profile_update
+Has my package left the local hub?,delivery_status
+Mera profile deactivate karo.,deactivate_account
+Please unlock my account.,account_locked
+Mera account verify nahi hua.,account_verification
+Nice to meet you.,general_query
+The item was damaged inside the box.,damaged_package
+I won't be available in the morning.,change_delivery_slot
+Tum kya kar sakte ho?,general_query
+Address update karna hai.,update_address
+Wallet mein paisa bacha hai kya?,wallet_balance
+Where is my shipment right now?,track_shipment
+Meri courier ki location bataiye.,track_shipment
+Mujhe dusri date chahiye.,reschedule_delivery
+Warranty claim shuru karo.,warranty_claim
+Cashback verify karo.,cashback_query
+Mera shipment kahan hai?,track_shipment
+Please connect me to customer care.,speak_to_agent
+Can you cancel my order?,cancel_order
+Delivery wale se baat karni hai.,delivery_agent_contact
+recover password.,reset_password
+delivery delayed.,delivery_delay
+Email replace kar do.,change_email
+Mera parcel incomplete hai.,missing_package
+Stop my order from being delivered.,cancel_order
+Please same product fir se bhejo.,reorder_product
+Show the latest location of my shipment.,track_shipment
+I want to reorder this product.,reorder_product
+report issue.,raise_complaint
+I want to pay using my debit card.,payment_method_change
+Main is product ko wapas karna chahta hoon.,return_order
+Erase all my account details.,delete_account
+Parcel damage deliver hua.,damaged_package
+Live chat agent chahiye.,speak_to_agent
+Track my latest order.,order_status
+Mera package expected date ke baad bhi nahi aaya.,delivery_delay
+Meri account details delete kar do.,delete_account
+Product ki warranty kitni hai?,product_information
+Ye mera parcel nahi hai.,wrong_delivery
+Delivery ko ek din aage badha do.,reschedule_delivery
+Account phir se start kar do.,reactivate_account
+my past orders.,order_history
+I need to speak with customer service.,speak_to_agent
+Ek achha laptop recommend karo.,product_recommendation
+wrong product.,wrong_delivery
+Please product details batao.,product_information
+Mera courier delay hai.,delivery_delay
+I need warranty service.,warranty_claim
+Parcel ki movement dikhao.,track_shipment
+Cancel order number 12345.,cancel_order
+Meri details sahi kar do.,profile_update
+Can you suggest a mobile?,product_recommendation
+Budget phone suggest karo.,product_recommendation
+Order number 12345 return karna hai.,return_order
+missing product.,missing_package
+Galat item deliver hua hai.,wrong_delivery
+Mera tax invoice bhejo.,invoice_request
+Complaint ticket generate karo.,raise_complaint
+App account blocked dikha raha hai.,account_locked
+Has the delivery started?,delivery_status
+Delivery ko next day move kar do.,reschedule_delivery
+Product description dikhao.,product_information
+Reactivate account please.,reactivate_account
+Mera shipment kahan hai?,order_status
+Live agent se connect karo.,speak_to_agent
+parcel broken.,damaged_package
+Can I speak with a human?,speak_to_agent
+Mere completed orders dikhao.,order_history
+Order ki processing complete hui kya?,order_status
+Student ke liye laptop batao.,product_recommendation
+Is my refund still pending?,refund_status
+Can I choose another delivery day?,reschedule_delivery
+Order history open karo.,order_history
+I received the wrong product and want to return it.,return_order
+Mera package damage ho gaya hai.,damaged_package
+technical support.,technical_support
+Order ka latest status check karo.,order_status
+What do you recommend for daily use?,product_recommendation
+Refund amount receive nahi hua.,refund_status
+update personal information.,profile_update
+Koi accha gift suggest karo.,product_recommendation
+Delivery ka slot update kar do.,change_delivery_slot
+Parcel ka update do.,order_status
+The system has blocked my account.,account_locked
+late delivery.,delivery_delay
+Mera payment mode update karo.,payment_method_change
+Ye product daily use ke liye hai kya?,product_information
+Can you return mera order?,return_order
+Order repeat karo please.,reorder_product
+Mera registered email edit karo.,change_email
+Order kho gaya lagta hai.,order_not_received
+I want to change my delivery date.,reschedule_delivery
+Product damage hai.,damaged_package
+Please initiate my refund.,refund_request
+Help me reactivate my account.,reactivate_account
+Mera shipment deliver hone wala hai?,delivery_status
+wrong size replace.,exchange_order
+Coupon redeem nahi ho raha.,promo_code_issue
+The package is stuck and delayed.,delivery_delay
+Delivery slot change karo.,change_delivery_slot
+I can't log into my account.,login_issue
+Mere payment ka status kya hai?,payment_status
+Please return my order.,return_order
+Reorder kar do yaar.,reorder_product
+Mera recent order fir se karo.,reorder_product
+change delivery slot.,change_delivery_slot
+Phone verify karna hai.,account_verification
+need to update order.,modify_order
+What is the status of my refund?,refund_status
+nearest store.,store_location
+When will my complaint be resolved?,complaint_status
+Can you tell me where my parcel is?,order_status
+Please mera order check karo.,order_not_received
+claim warranty.,warranty_claim
+Mera paisa refund hua kya?,refund_status
+Security ko parcel de dena.,delivery_instructions
+temporary account disable.,deactivate_account
+Mera purchase update karo.,modify_order
+Purana address hata do.,update_address
+Please enable my profile again.,reactivate_account
+Track my delivery package.,track_shipment
+Refund initiate kijiye.,refund_request
+I made two payments for one order.,duplicate_payment
+Laptop ka processor kaunsa hai?,product_information
+Cashback kab milega?,cashback_query
+Can you fix my login issue?,login_issue
+Delay kitna aur hoga?,delivery_delay
+Naya address use karo.,update_address
+Can you postpone the shipment?,reschedule_delivery
+Has my order been confirmed?,order_status
+Live support chahiye.,speak_to_agent
+Permanently delete my account.,delete_account
+The delivery is late.,delivery_delay
+Account restriction remove karo.,account_locked
+I cannot use my account because it is locked.,account_locked
+Please product information do.,product_information
+Mera account access kara do.,login_issue
+Update my profile picture.,profile_update
+Mera payment refund kar do.,refund_request
+Temporarily close my account.,deactivate_account
+promo code not working.,promo_code_issue
+Please mera cashback verify karo.,cashback_query
+Mere refund ka status bataiye.,refund_status
+unable to login.,login_issue
+Mera order abhi tak nahi aaya.,delivery_delay
+download bill.,invoice_request
+My coupon was rejected.,promo_code_issue
+Product details check karo.,product_information
+Please refund tracking batao.,refund_status
+product information.,product_information
+Can you check my complaint?,complaint_status
+Same order ke liye 2 payments ho gaye.,duplicate_payment
+change password.,reset_password
+Track my complaint.,complaint_status
+where is refund.,refund_status
+call before delivery.,delivery_instructions
+Login page is showing an error.,login_issue
+Mera account inactive kar do.,deactivate_account
+Meri delivery late ho gayi hai.,delivery_delay
+Has my order been packed yet?,order_status
+transaction failed.,payment_failed
+Authentication error aa raha hai.,login_issue
+product available.,product_availability
+Store ka map dikhao.,store_location
+Was my payment successful and order confirmed?,order_confirmation
+Two payments were taken for one purchase.,duplicate_payment
+I need to request a refund.,refund_request
+Pichla product fir se order karo.,reorder_product
+Place the same order again.,reorder_product
+Suggest a good washing machine.,product_recommendation
+Do you still sell this product?,product_availability
+Display my wallet credits.,wallet_balance
+Mera courier locate kijiye.,track_shipment
+sign in problem.,login_issue
+Account recover kar do.,reactivate_account
+Product malfunction kar raha hai.,technical_support
+Profile delete kar do.,delete_account
+The package was crushed during delivery.,damaged_package
+Best printer recommend kijiye.,product_recommendation
+Edit my phone number.,change_phone
+Mere account se extra paise kat gaye.,duplicate_payment
+Registered email badal do.,change_email
+I need some help.,general_query
+Please change my delivery schedule.,reschedule_delivery
+Mera order ab kis stage mein hai?,order_status
+Can you check mera refund?,refund_status
+Is product ke features kya hain?,product_information
+Please mera parcel check karo.,order_status
+Return initiate kar do.,return_order
+Cashback pending dikha raha hai.,cashback_query
+I want to edit my profile.,profile_update
+My package hasn't arrived yet.,delivery_delay
+The product stopped functioning.,technical_support
+Best products dikhao.,product_recommendation
+I want another variant of this product.,exchange_order
+Running shoes suggest karo.,product_recommendation
+Order the same product again.,reorder_product
+Mera order cancel karo.,cancel_order
+Mera cashback kahan hai?,cashback_query
+Courier executive se connect karo.,delivery_agent_contact
+Refund receive nahi hua abhi tak.,refund_status
+I entered the coupon but got no discount.,promo_code_issue
+Account pause karna hai.,deactivate_account
+I need the receipt for my order.,invoice_request
+Mere city mein store hai kya?,store_location
+Delivery ki latest jankari dijiye.,delivery_status
+Meri delivery postpone kar do.,reschedule_delivery
+Why is the courier taking so long?,delivery_delay
+Track my delivery vehicle.,track_shipment
+Top products dikhao.,product_recommendation
+Support ticket ka status batao.,complaint_status
+previous orders.,order_history
+The payment was processed two times.,duplicate_payment
+Share the delivery partner's contact details.,delivery_agent_contact
+Size change karna hai.,modify_order
+Mera naya address save karo.,update_address
+Kya ye product waterproof hai?,product_information
+I need a different delivery date.,reschedule_delivery
+Agent se baat karni hai.,speak_to_agent
+Please generate a password reset link.,reset_password
+Is my transaction complete?,payment_status
+Blue color available hai kya?,product_availability
+Ye product waterproof hai kya?,product_information
+Package delivery ke liye nikla kya?,delivery_status
+When will I receive my refund?,refund_status
+₹30000 ke andar smartphone suggest karo.,product_recommendation
+raise complaint.,raise_complaint
+How can I contact my delivery agent?,delivery_agent_contact
+Bahut bahut dhanyavaad.,general_query
+Mere purane orders dikhao.,order_history
+Please reactivate my account.,reactivate_account
+I never got my purchase.,order_not_received
+Order ke liye do baar payment hua.,duplicate_payment
+Has my payment been received?,payment_status
+enable account again.,reactivate_account
+Mujhe complaint karni hai please.,raise_complaint
+I haven't received my refund yet.,refund_status
+I want to change an item in my order.,modify_order
+My account was blocked after multiple login attempts.,account_locked
+Can you refund my order?,refund_request
+Product warranty ke andar hai.,warranty_claim
+Mujhe refund chahiye.,refund_request
+Invoice ki copy bhejo.,invoice_request
+payment unsuccessful.,payment_failed
+Enable my account again.,reactivate_account
+App open nahi ho rahi.,technical_support
+The wrong package was delivered.,wrong_delivery
+Mobile number change karna hai.,change_phone
+reorder pls.,reorder_product
+suggest laptop.,product_recommendation
+I received fewer items than ordered.,missing_package
+Mera order complete hua ya nahi?,order_status
+I want to deactivate my account.,deactivate_account
+Phir milenge.,general_query
+Profile correction chahiye.,profile_update
+Delivery ka current update bataiye.,delivery_status
+Is phone ka storage kitna hai?,product_information
+Account dobara chalu kar do.,reactivate_account
+Where is my shipment?,track_shipment
+I need to update my order.,modify_order
+Payment pending hai kya?,payment_status
+Accha TV recommend karo.,product_recommendation
+Mera phone number verify karo.,account_verification
+I need to create a new password.,reset_password
+Is my parcel scheduled for delivery today?,delivery_status
+Payment refund kar do.,refund_request
+Cancel my order.,cancel_order
+Email update please.,change_email
+Mera account suspend kar do.,deactivate_account
+Mera account number update karo.,change_phone
+I won't be available today.,reschedule_delivery
+Watchman ko parcel de dena.,delivery_instructions
+Gender update karna hai.,profile_update
+connect to representative.,speak_to_agent
+offer code failed.,promo_code_issue
+Mera account reopen kar dijiye.,reactivate_account
+I need my invoice.,invoice_request
+Connect me to my delivery partner.,delivery_agent_contact
+cancel 12345.,cancel_order
+Phone ki specifications batao.,product_information
+Budget mobile recommend kijiye.,product_recommendation
+Please modify my address before shipping.,update_address
+Mujhe dusra product mila hai.,wrong_delivery
+Mujhe order ka current status batao.,order_status
+Mera shipping address change karo.,update_address
+Bill download karna hai.,invoice_request
+Mera refund check karo.,refund_status
+My parcel was damaged during delivery.,damaged_package
+why delay?,delivery_delay
+Please remove my profile permanently.,delete_account
+Mera order return accept karo.,return_order
+My order is incomplete.,missing_package
+Product ki availability batao.,product_availability
+Is there any money in my wallet?,wallet_balance
+Delivery late hai.,delivery_delay
+courier location?,track_shipment
+Is my refund successful?,refund_status
+Previous order repeat karna hai.,reorder_product
+Can you postpone my delivery?,reschedule_delivery
+Remove all my account data.,delete_account
+Main complaint submit karna chahta hoon.,raise_complaint
+Delivery location change karo.,update_address
+Can you check my delivery progress?,delivery_status
+Mera account login nahi kar raha.,login_issue
+Product ka color change karna hai.,modify_order
+Agent se connect karo.,speak_to_agent
+Cancel my recent order yaar.,cancel_order
+Profile ko fir se activate karo.,reactivate_account
+Address galat hai change karo.,update_address
+Password yaad nahi hai.,reset_password
+Order ka pata lagao.,order_not_received
+Cashback nahi aaya.,cashback_query
+How much money is in my wallet?,wallet_balance
+Package mein ek item kam hai.,missing_package
+Courier wale ka number chahiye.,delivery_agent_contact
+Order kaha gaya?,order_not_received
+Password reset link bhejo.,reset_password
+Warranty request bhejo.,warranty_claim
+Please check the duplicate transaction.,duplicate_payment
+Contact number update please.,change_phone
+box empty.,missing_package
+reactivate account.,reactivate_account
+Kya mera product warranty mein hai?,warranty_claim
+Please mera login issue solve kijiye.,login_issue
+Claim warranty please.,warranty_claim
+I am still waiting for my order.,order_not_received
+availability check.,product_availability
+Support ticket check karo.,complaint_status
+Package incomplete hai.,missing_package
+I received a message saying my account is locked.,account_locked
+Refund this order.,refund_request
+need refund.,refund_request
+Mera order change kar do.,modify_order
+Best laptop recommend karo.,product_recommendation
+Track my cashback.,cashback_query
+use UPI.,payment_method_change
+Parcel track kar do.,track_shipment
+Galat product select ho gaya.,modify_order
+Show my refund details.,refund_status
+courier phone number.,delivery_agent_contact
+My order is delayed.,delivery_delay
+Can you tell me my current order status?,order_status
+Please change the size of my order.,modify_order
+switch payment.,payment_method_change
+Tomorrow delivery kar dena.,reschedule_delivery
+Is this television a smart TV?,product_information
+Recommend a product for me.,product_recommendation
+Is TV ka screen size kya hai?,product_information
+Naye ghar pe delivery karna.,update_address
+Give me the delivery update.,delivery_status
+Show the top-rated products.,product_recommendation
+What are the specifications of this phone?,product_information
+Mera email address modify karo.,change_email
+Morning available nahi hoon.,change_delivery_slot
+One item is missing from my order.,missing_package
+Delivery shaam mein kar dijiye.,reschedule_delivery
+Please correct my address.,update_address
+Mera parcel kahan hai?,track_shipment
+Coupon code check karo.,promo_code_issue
+replace email.,change_email
+Mera order lekar complaint karni hai.,raise_complaint
+I would like to request a refund.,refund_request
+change profile details.,profile_update
+What is the latest update on my order?,order_status
+Order ka ek item deliver nahi hua.,missing_package
+Payment process hua kya?,payment_status
+Can you change my email?,change_email
+delivery status.,delivery_status
+Please order confirmation dikhao.,order_confirmation
+Please deliver my order tomorrow.,reschedule_delivery
+Shipment late chal raha hai.,delivery_delay
+Kya mera order dispatch ho gaya?,order_status
+Reschedule my package delivery.,reschedule_delivery
+The offer code is not valid.,promo_code_issue
+When will the refunded amount be credited?,refund_status
+Refund complete hua kya?,refund_status

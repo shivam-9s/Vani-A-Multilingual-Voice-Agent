@@ -1,0 +1,599 @@
+sentence,actual_intent,predicted_intent,confidence,correct
+Order number 12345 ka invoice bhejo.,invoice_request,invoice_request,31.3,True
+Main apne account mein login nahi kar pa raha hoon.,login_issue,login_issue,34.09,True
+Order complete hua ya abhi process mein hai?,order_status,order_status,36.33,True
+I want to know my wallet balance.,wallet_balance,wallet_balance,62.67,True
+Temporary account deactivate chahiye.,deactivate_account,reactivate_account,27.07,False
+Order refund kar do.,refund_request,refund_request,41.18,True
+gst invoice.,invoice_request,invoice_request,34.35,True
+Is my delivery on the way?,delivery_status,delivery_status,35.35,True
+new email.,change_email,change_email,45.5,True
+Purchase this item again.,reorder_product,product_recommendation,9.41,False
+Password reset email bhejo please.,reset_password,reset_password,35.3,True
+Purchase history check karni hai.,order_history,order_history,14.62,True
+Issue resolve hua kya?,complaint_status,product_information,11.94,False
+Call me before delivery.,delivery_instructions,reschedule_delivery,33.25,False
+Move my delivery to tomorrow.,reschedule_delivery,reschedule_delivery,36.2,True
+Leave the parcel with my neighbor.,delivery_instructions,delivery_instructions,11.8,True
+Mera deactivate account restore kar dijiye.,reactivate_account,reactivate_account,35.37,True
+Package unattended mat chhodna.,delivery_instructions,delivery_instructions,14.43,True
+Discount apply nahi hua.,promo_code_issue,promo_code_issue,17.49,True
+Account password reset karo.,reset_password,reset_password,44.26,True
+Mera account activate karne ke liye verify karo.,account_verification,reactivate_account,13.62,False
+Delivery boy ko phone lagao.,delivery_agent_contact,delivery_agent_contact,8.98,True
+Deliver my order on another day.,reschedule_delivery,reschedule_delivery,19.31,True
+Email address replace karo.,change_email,change_email,14.01,True
+Product repair karwana hai warranty mein.,warranty_claim,warranty_claim,36.63,True
+Refund ki current sthiti bataiye.,refund_status,refund_status,49.36,True
+Mera account temporary lock ho gaya hai.,account_locked,account_locked,58.12,True
+Mera account dobara activate kar dijiye.,reactivate_account,reactivate_account,36.82,True
+Can I switch my payment method?,payment_method_change,payment_method_change,25.4,True
+My device won't turn on.,technical_support,technical_support,7.47,True
+Too many attempts ki wajah se account lock ho gaya.,account_locked,account_locked,55.45,True
+Mujhe doosri delivery date chahiye.,reschedule_delivery,reschedule_delivery,35.01,True
+order not received.,order_not_received,order_not_received,9.92,True
+How much cashback did I earn?,cashback_query,cashback_query,38.83,True
+Mere old purchases dikhao.,order_history,reorder_product,9.24,False
+Mera order re-order karo.,reorder_product,reorder_product,10.98,True
+Package mein ek product nahi mila.,missing_package,product_recommendation,8.92,False
+Account delete kar do.,delete_account,delete_account,14.09,True
+Payment duplicate ho gaya.,duplicate_payment,payment_failed,14.59,False
+Connect me to a customer support agent.,speak_to_agent,speak_to_agent,14.56,True
+I want to repair my product under warranty.,warranty_claim,warranty_claim,36.5,True
+Mera profile picture badal do.,profile_update,profile_update,20.74,True
+Mera order confirm hua ya nahi?,order_confirmation,order_confirmation,26.49,True
+Wallet mein refund aaya kya?,wallet_balance,wallet_balance,27.38,True
+Order details badal do.,modify_order,order_status,20.18,False
+I need a good Bluetooth speaker.,product_recommendation,product_recommendation,41.07,True
+Aaj delivery hogi kya?,delivery_status,delivery_status,33.7,True
+Bill ki copy bhejo.,invoice_request,reschedule_delivery,7.65,False
+Mujhe mera account wapas chahiye.,reactivate_account,reactivate_account,31.8,True
+Reactivate my customer account.,reactivate_account,reactivate_account,30.61,True
+Item kharab hai.,damaged_package,delivery_delay,6.98,False
+Promo code use nahi kar pa raha hoon.,promo_code_issue,promo_code_issue,20.49,True
+Bluetooth support karta hai kya?,product_information,product_information,16.83,True
+Main locked account use nahi kar pa raha.,account_locked,account_locked,56.21,True
+Can I know the refund progress?,refund_status,refund_status,41.94,True
+My package is missing.,order_not_received,delivery_delay,11.65,False
+Mujhe payment failed ka message mila.,payment_failed,payment_failed,16.07,True
+Product ki dimensions batao.,product_information,product_information,35.96,True
+parcel missing.,order_not_received,missing_package,10.21,False
+System account blocked dikha raha hai.,account_locked,account_locked,58.94,True
+showroom location.,store_location,store_location,23.32,True
+I want to withdraw my order.,cancel_order,cancel_order,8.04,True
+Mujhe refund status batao.,refund_status,refund_status,41.39,True
+One product was not included.,missing_package,damaged_package,7.5,False
+Konsa laptop lena chahiye?,product_recommendation,product_information,22.52,False
+Can you exchange mera order?,exchange_order,exchange_order,14.27,True
+Payment reject ho gaya.,payment_failed,payment_failed,15.2,True
+Good evening Vani.,general_query,general_query,19.33,True
+Was my order placed successfully?,order_confirmation,order_status,33.25,False
+I want to verify my identity.,account_verification,account_verification,21.64,True
+Please check my promo code.,promo_code_issue,promo_code_issue,18.52,True
+Can you provide the delivery person's number?,delivery_agent_contact,delivery_agent_contact,16.32,True
+Wallet credits dikhao.,wallet_balance,wallet_balance,59.35,True
+Return order number 12345.,return_order,return_order,18.59,True
+Delivery timing badal do.,change_delivery_slot,reschedule_delivery,34.43,False
+Can you send mera invoice?,invoice_request,invoice_request,34.09,True
+My login failed.,login_issue,login_issue,35.07,True
+order missing.,order_not_received,order_not_received,8.58,True
+I'm facing a technical issue.,technical_support,technical_support,11.27,True
+My account is restricted.,account_locked,account_locked,45.41,True
+Mujhe refund ke liye return karna hai.,return_order,refund_request,45.09,False
+Can you deliver it in the evening?,change_delivery_slot,reschedule_delivery,30.35,False
+Sign in issue aa raha hai.,login_issue,login_issue,18.22,True
+Order cancel karna hai.,cancel_order,cancel_order,27.98,True
+I want my package delivered later.,reschedule_delivery,delivery_delay,23.27,False
+My parcel is incomplete.,missing_package,missing_package,11.17,True
+Refund initiate karo.,refund_request,refund_request,36.17,True
+Account erase karna hai.,delete_account,reactivate_account,25.56,False
+Courier wale ka contact do.,delivery_agent_contact,delivery_agent_contact,22.38,True
+wrong item return.,return_order,return_order,18.98,True
+Product ki details dikhao.,product_information,product_information,35.92,True
+I want to talk to customer support.,speak_to_agent,speak_to_agent,15.44,True
+What is the warranty period for this product?,product_information,warranty_claim,24.35,False
+account disabled.,account_locked,reactivate_account,19.37,False
+Payment successful hua kya?,payment_status,payment_status,26.08,True
+Delivery ka reason batao.,delivery_delay,delivery_status,27.94,False
+Update my account email.,change_email,change_email,42.04,True
+Money was deducted twice.,duplicate_payment,duplicate_payment,13.53,True
+Mujhe new delivery date chahiye.,reschedule_delivery,reschedule_delivery,31.39,True
+Mera order kuch aur tha.,wrong_delivery,order_status,8.04,False
+The product has physical damage.,damaged_package,damaged_package,28.88,True
+Find a store near me.,store_location,store_location,24.9,True
+Username accept nahi ho raha.,login_issue,login_issue,13.78,True
+Recommend a budget smartphone.,product_recommendation,product_recommendation,62.5,True
+Courier track kar do.,track_shipment,track_shipment,58.94,True
+Mujhe account fir se use karna hai.,reactivate_account,reactivate_account,30.22,True
+Delivery bahut slow hai.,delivery_delay,delivery_delay,33.88,True
+Mera delivery address badal do.,update_address,update_address,37.29,True
+I want the invoice for order 12345.,invoice_request,invoice_request,33.93,True
+My package is missing an item.,missing_package,missing_package,13.41,True
+Mera order expected date par nahi aaya.,delivery_delay,delivery_delay,29.15,True
+Order ki vartaman sthiti kya hai?,order_status,order_status,39.57,True
+Meri delivery late hai.,delivery_delay,delivery_delay,31.16,True
+Refund complete hua ya nahi?,refund_status,refund_status,53.11,True
+Password change nahi ho raha.,reset_password,reset_password,35.07,True
+Delivery complete dikh rahi hai lekin order nahi mila.,order_not_received,delivery_delay,31.73,False
+Move my delivery to the evening slot.,change_delivery_slot,reschedule_delivery,24.94,False
+Same order ka payment do baar hua.,duplicate_payment,payment_failed,14.33,False
+Please mera order status verify karo.,order_status,order_status,16.42,True
+Display my order history.,order_history,order_history,20.93,True
+Mujhe 6 baje ke baad delivery chahiye.,change_delivery_slot,reschedule_delivery,34.3,False
+Please shift my delivery date.,reschedule_delivery,reschedule_delivery,30.65,True
+Mera refund request submit kijiye.,refund_request,refund_request,47.6,True
+Repair under warranty chahiye.,warranty_claim,warranty_claim,43.38,True
+Shift my delivery to the evening.,change_delivery_slot,reschedule_delivery,28.37,False
+Payment option please change.,payment_method_change,payment_method_change,16.79,True
+Best Bluetooth speaker batao.,product_recommendation,product_recommendation,50.34,True
+My verification link has expired.,account_verification,account_verification,22.73,True
+Which laptop should I buy?,product_recommendation,product_recommendation,36.4,True
+The product is not suitable I want to return it.,return_order,return_order,22.13,True
+OTP dobara bhejo.,account_verification,reactivate_account,13.5,False
+Mera profile permanently hata do.,delete_account,reactivate_account,12.22,False
+Mujhe refund apply karna hai.,refund_request,refund_request,43.92,True
+Mera order abhi kahan hai?,order_status,order_status,48.17,True
+Store location check karo.,store_location,store_location,24.46,True
+Can you help me log in?,login_issue,login_issue,22.64,True
+What is the screen size of this monitor?,product_information,product_information,40.41,True
+Phone recommend kar do.,product_recommendation,product_recommendation,61.58,True
+Morning ki jagah evening slot de do.,change_delivery_slot,change_delivery_slot,24.91,True
+Check the status of my support ticket.,complaint_status,track_shipment,9.72,False
+Can I get an update on my order?,order_status,order_status,26.52,True
+Temporarily disable my account.,deactivate_account,account_locked,24.7,False
+Paisa refund hua kya?,refund_status,refund_status,47.78,True
+out of stock.,product_availability,product_availability,9.8,True
+Transaction failed dikha raha hai.,payment_failed,payment_failed,8.36,True
+Mera paisa refund karo.,refund_request,refund_request,39.43,True
+Parcel ki current location batao.,track_shipment,track_shipment,53.63,True
+Can you explain this product's features?,product_information,product_information,27.56,True
+Mera parcel late hai.,delivery_delay,delivery_delay,29.39,True
+Close my account forever.,delete_account,reactivate_account,24.93,False
+Mujhe wahi wala product chahiye.,reorder_product,product_information,14.21,False
+How can I request a refund?,refund_request,refund_request,36.01,True
+Can you explain ye product?,product_information,product_information,22.63,True
+Kal delivery kar dena.,reschedule_delivery,reschedule_delivery,40.73,True
+Can you change my delivery slot?,reschedule_delivery,reschedule_delivery,26.2,True
+Ek order ke liye do payment ho gaye.,duplicate_payment,payment_failed,14.61,False
+Delete my profile permanently.,delete_account,profile_update,13.11,False
+Store ka address batao.,store_location,store_location,16.95,True
+Mujhe shipment track karna hai.,track_shipment,track_shipment,57.4,True
+Provide shipment tracking information.,track_shipment,track_shipment,41.87,True
+Mera email verify karo.,account_verification,change_email,40.16,False
+Exchange request raise karo.,exchange_order,exchange_order,12.41,True
+Availability check kar do.,product_availability,product_recommendation,8.76,False
+Product replace karna hai.,exchange_order,product_recommendation,13.36,False
+Has the delivery vehicle left?,delivery_status,delivery_status,16.91,True
+Change my delivery appointment.,reschedule_delivery,reschedule_delivery,28.26,True
+Galat color deliver hua hai.,wrong_delivery,product_recommendation,8.87,False
+Is my order out for delivery?,delivery_status,order_status,36.43,False
+Best headphones suggest karo.,product_recommendation,product_recommendation,53.94,True
+Edit my purchase details.,modify_order,product_information,13.98,False
+I am unable to access my account.,login_issue,account_locked,22.75,False
+Package delivery track karo.,delivery_status,track_shipment,29.03,False
+Can I select another delivery time?,reschedule_delivery,change_delivery_slot,21.78,False
+Shipment ka status aur location batao.,track_shipment,track_shipment,51.57,True
+Warranty abhi valid hai.,warranty_claim,warranty_claim,44.76,True
+Store ka timing batao.,store_location,store_location,23.72,True
+edit order 12345.,modify_order,modify_order,9.69,True
+money back.,refund_request,reorder_product,6.52,False
+I want to use my account again.,reactivate_account,reactivate_account,33.88,True
+Reception par parcel rakh dena.,delivery_instructions,delivery_instructions,10.51,True
+update profile.,profile_update,profile_update,26.05,True
+Kripya mera order cancel kar dijiye.,cancel_order,cancel_order,26.72,True
+Package kab deliver hoga?,delivery_delay,delivery_status,35.69,False
+Galti se order ho gaya.,cancel_order,delivery_delay,9.22,False
+Can you check mera promo code?,promo_code_issue,promo_code_issue,15.93,True
+Mera package aaj pahunch jayega?,delivery_status,track_shipment,20.12,False
+Purchase receipt chahiye.,invoice_request,invoice_request,19.03,True
+Order number 12345 fir se order karo.,reorder_product,modify_order,9.02,False
+What products have I ordered before?,order_history,product_information,27.88,False
+Mere paas ka nearest store kahan hai?,store_location,store_location,26.13,True
+Refund request create karo.,refund_request,refund_request,39.3,True
+Customer support se baat karni hai.,speak_to_agent,product_recommendation,12.2,False
+Mujhe order withdraw karna hai.,cancel_order,reorder_product,5.14,False
+Delivery mein product damage ho gaya.,damaged_package,damaged_package,27.26,True
+Pichli purchase repeat karo.,reorder_product,reorder_product,11.64,True
+Delivery address update kar do.,update_address,update_address,38.16,True
+Ek samaan nahi aaya.,missing_package,delivery_delay,14.33,False
+Login verification fail ho rahi hai.,login_issue,account_verification,15.26,False
+Maine pehle kya order kiya tha?,order_history,order_status,44.0,False
+Mera account profile update karo.,profile_update,profile_update,19.21,True
+Mujhe complaint register karni hai.,raise_complaint,complaint_status,26.18,False
+Please delivery address update karo.,update_address,update_address,36.8,True
+Gaming monitor recommend karo.,product_recommendation,product_recommendation,62.93,True
+box damaged.,damaged_package,damaged_package,30.15,True
+Check my shipment location.,track_shipment,track_shipment,56.63,True
+Delivery postpone kar do.,reschedule_delivery,reschedule_delivery,43.56,True
+Delivery status batao.,delivery_status,delivery_status,32.06,True
+Mujhe wrong delivery mili hai.,wrong_delivery,delivery_delay,26.1,False
+Cashback account mein aaya kya?,cashback_query,cashback_query,19.09,True
+Order ka latest status batao.,order_status,order_status,47.07,True
+Ye order ab nahi chahiye.,cancel_order,order_not_received,9.3,False
+Mera cashback check karo.,cashback_query,cashback_query,40.42,True
+Can you check mera payment?,payment_status,payment_status,22.34,True
+Can you change mera email?,change_email,change_email,45.95,True
+Please check the delivery delay.,delivery_delay,delivery_delay,38.02,True
+Complaint abhi open hai kya?,complaint_status,complaint_status,34.87,True
+Support request ka update do.,complaint_status,refund_request,5.24,False
+Mera account wapas activate karo.,reactivate_account,reactivate_account,36.18,True
+Delivery delay ka reason batao.,delivery_delay,delivery_delay,33.02,True
+Mera purchase confirm hua?,order_confirmation,order_confirmation,25.85,True
+Login problem aa rahi hai.,login_issue,login_issue,25.07,True
+Modify my order.,modify_order,modify_order,16.23,True
+Mera account kuch din ke liye disable karo.,deactivate_account,reactivate_account,20.83,False
+Deliver after calling me.,delivery_instructions,reschedule_delivery,28.93,False
+Help please.,general_query,general_query,15.31,True
+update address.,update_address,update_address,41.43,True
+Device ke liye support chahiye.,technical_support,product_recommendation,11.37,False
+available balance.,wallet_balance,product_recommendation,12.58,False
+Give me the courier's contact number.,delivery_agent_contact,delivery_agent_contact,12.93,True
+Account aur data delete karo.,delete_account,profile_update,12.36,False
+Please meri complaint register karo.,raise_complaint,complaint_status,29.63,False
+Deliver my order to a new address.,update_address,update_address,41.87,True
+COD se online payment karna hai.,payment_method_change,payment_method_change,24.26,True
+I need to update my personal information.,profile_update,profile_update,21.43,True
+Move my delivery to another date.,reschedule_delivery,reschedule_delivery,34.75,True
+Mera promo code kaam nahi kar raha.,promo_code_issue,promo_code_issue,20.21,True
+confirmation pls.,order_confirmation,order_confirmation,26.38,True
+Is my order successfully placed?,order_confirmation,order_status,31.22,False
+Mera order delivery pe hai kya?,delivery_status,delivery_status,31.67,True
+Suggest a gaming mouse.,product_recommendation,product_recommendation,47.93,True
+OTP nahi mil raha login ke liye.,login_issue,login_issue,33.59,True
+Mera order exchange karna hai.,exchange_order,exchange_order,14.74,True
+Account ko kuch time ke liye band kar do.,deactivate_account,reactivate_account,23.3,False
+Refund ka process start karo.,refund_request,refund_status,36.43,False
+Meri complaint ka status kya hai?,complaint_status,complaint_status,35.68,True
+Mera courier kis jagah hai?,track_shipment,track_shipment,43.12,True
+Support executive se baat karwao.,speak_to_agent,speak_to_agent,15.44,True
+Kaunsa AC lena chahiye?,product_recommendation,product_information,15.98,False
+My order is marked delivered but I didn't get it.,order_not_received,delivery_delay,23.03,False
+Delivery update do.,reschedule_delivery,reschedule_delivery,24.14,True
+Mera purchase cancel kar do.,cancel_order,cancel_order,25.56,True
+Thanks a lot.,general_query,general_query,19.72,True
+Agent se call karwao.,speak_to_agent,delivery_agent_contact,19.0,False
+Mera product kaam nahi kar raha.,technical_support,login_issue,8.14,False
+Return request raise karo.,return_order,return_order,21.05,True
+Delivery evening mein kar do.,change_delivery_slot,reschedule_delivery,35.07,False
+Order ke badle dusra parcel mila.,wrong_delivery,delivery_delay,9.0,False
+Meri complaint register karo.,raise_complaint,complaint_status,30.15,False
+Login error aa raha hai.,login_issue,login_issue,31.51,True
+Why is my coupon not working?,promo_code_issue,promo_code_issue,12.19,True
+permanently delete.,delete_account,delete_account,8.02,True
+Where is your nearest store?,store_location,store_location,27.63,True
+Mere family member ko de dena.,delivery_instructions,delivery_instructions,12.41,True
+Mera parcel return kar do.,return_order,return_order,23.39,True
+Is my order still under processing?,order_status,order_status,46.96,True
+Account temporary disable ho gaya.,account_locked,account_locked,39.46,True
+Product ke baare mein aur batao.,product_information,product_information,20.59,True
+New mobile number add kar do.,change_phone,change_phone,32.16,True
+Delivery timing change karo please.,change_delivery_slot,reschedule_delivery,34.81,False
+Does this speaker support Bluetooth?,product_information,product_information,37.0,True
+Reopen my profile please.,reactivate_account,reactivate_account,24.11,True
+Restore my deactivated account.,reactivate_account,reactivate_account,35.95,True
+Email ID change karni hai.,change_email,change_email,27.97,True
+Naya email address add karo.,change_email,change_email,41.94,True
+When will I receive my cashback?,cashback_query,cashback_query,38.56,True
+I was charged twice.,duplicate_payment,duplicate_payment,10.83,True
+I want to set a new password.,reset_password,reset_password,45.53,True
+System mera account locked dikha raha hai.,account_locked,account_locked,60.26,True
+Mera wallet amount check karo.,wallet_balance,wallet_balance,62.93,True
+initiate refund.,refund_request,refund_request,42.5,True
+Mera phone number badal do.,change_phone,change_phone,29.54,True
+Card se payment nahi karna.,payment_method_change,payment_method_change,16.45,True
+Item kharab nikla.,damaged_package,general_query,7.34,False
+When can I expect my delivery?,delivery_status,reschedule_delivery,22.2,False
+Is the courier out for delivery?,delivery_status,delivery_status,33.12,True
+Can you check mera cashback?,cashback_query,cashback_query,39.27,True
+I want to use a different payment method.,payment_method_change,payment_method_change,25.94,True
+Order mein product replace karo.,modify_order,modify_order,8.46,True
+Please exchange my order.,exchange_order,exchange_order,14.69,True
+modify profile.,profile_update,profile_update,13.77,True
+Customer support please.,speak_to_agent,product_recommendation,17.55,False
+Order cancel karke refund dijiye.,refund_request,refund_request,39.37,True
+I need to change my delivery location.,update_address,track_shipment,10.24,False
+Cashback amount batao.,cashback_query,cashback_query,39.49,True
+I'd like to return this item and get a refund.,refund_request,refund_request,46.27,True
+Mujhe return request raise karni hai.,return_order,return_order,22.06,True
+Help me recover my password.,reset_password,reset_password,45.88,True
+Shipment tracking chalu karo.,track_shipment,track_shipment,61.13,True
+Issue report karna hai.,raise_complaint,raise_complaint,16.81,True
+Show my shipment details.,track_shipment,track_shipment,46.56,True
+When will my package be delivered?,delivery_status,delivery_delay,20.35,False
+Complaint progress dikhao.,complaint_status,complaint_status,31.3,True
+Can you help me fix this issue?,technical_support,refund_request,9.45,False
+My transaction was declined.,payment_failed,payment_failed,15.83,True
+Please availability batao.,product_availability,product_information,16.64,False
+Payment error aa raha hai.,payment_failed,payment_failed,17.19,True
+Mere account se double amount kata.,duplicate_payment,reactivate_account,16.99,False
+Technical help please.,technical_support,product_recommendation,11.37,False
+Account ka password update karna hai.,reset_password,reset_password,42.66,True
+Refund update chahiye.,refund_status,refund_status,44.51,True
+Shipment ka live update do.,track_shipment,track_shipment,52.02,True
+Mera address modify karo.,update_address,update_address,40.08,True
+Show product availability.,product_availability,product_information,21.82,False
+Parcel ki latest location batao.,order_status,track_shipment,50.96,False
+Verification code resend karo.,account_verification,account_verification,19.7,True
+Pause my account.,deactivate_account,reactivate_account,25.09,False
+Mera order history check karo.,order_history,order_history,21.65,True
+Mujhe order ki update chahiye.,order_status,order_status,31.18,True
+The product doesn't match my order.,wrong_delivery,modify_order,6.71,False
+Hey.,general_query,general_query,28.14,True
+Recommendation do.,product_recommendation,invoice_request,7.77,False
+Meri delivery reschedule kar dijiye.,reschedule_delivery,reschedule_delivery,42.63,True
+Showroom ka address chahiye.,store_location,update_address,21.42,False
+Transaction verify karo.,payment_status,account_verification,7.02,False
+Nearby outlet dikhao.,store_location,store_location,22.36,True
+Wallet credit kitna hai?,wallet_balance,wallet_balance,57.53,True
+Features dikhao.,product_information,product_recommendation,16.26,False
+The payment gateway showed an error.,payment_failed,payment_failed,14.89,True
+The delivered product is incorrect.,wrong_delivery,damaged_package,9.08,False
+Package kahan hai check karo.,track_shipment,track_shipment,24.68,True
+Delivery mein problem hai kya?,delivery_delay,delivery_status,21.61,False
+Please meri complaint check karo.,complaint_status,complaint_status,31.78,True
+Can you deactivate my account?,deactivate_account,reactivate_account,29.96,False
+Please mera order modify karo.,modify_order,modify_order,21.01,True
+My online payment failed.,payment_failed,payment_failed,14.6,True
+Mera account security lock mein hai.,account_locked,account_locked,55.31,True
+Mujhe same item fir se chahiye.,reorder_product,exchange_order,7.38,False
+Can you check mera parcel?,order_not_received,order_status,23.72,False
+technical problem.,technical_support,technical_support,12.05,True
+Warranty support do.,warranty_claim,warranty_claim,47.78,True
+Courier ka location batao.,track_shipment,track_shipment,46.37,True
+The delivery is much later than expected.,delivery_delay,delivery_delay,36.77,True
+Delivery ka schedule update karo.,reschedule_delivery,reschedule_delivery,28.22,True
+Transaction complete hua kya?,payment_status,product_information,10.31,False
+Suggest a laptop for students.,product_recommendation,product_recommendation,58.65,True
+Double amount deduct hua.,duplicate_payment,duplicate_payment,14.61,True
+Personal info edit karo.,profile_update,profile_update,20.88,True
+tell me about product.,product_information,product_information,18.35,True
+Can I exchange this item?,exchange_order,exchange_order,15.6,True
+What operating system comes with this device?,product_information,product_information,44.03,True
+delivery update.,delivery_status,delivery_status,26.3,True
+Mera wallet amount dikhao.,wallet_balance,wallet_balance,62.03,True
+Package gate ke bahar rakh dena.,delivery_instructions,delivery_delay,13.57,False
+Email change help chahiye.,change_email,change_email,27.34,True
+Can you explain the delivery delay?,delivery_delay,delivery_delay,26.83,True
+Item toot kar aaya hai.,damaged_package,product_recommendation,9.83,False
+Mujhe apna account fir se activate karna hai.,reactivate_account,reactivate_account,33.56,True
+Order itna late kyu hai?,delivery_delay,delivery_delay,22.53,True
+Warranty ka status batao.,warranty_claim,warranty_claim,38.8,True
+Purana mobile number hata do.,change_phone,change_phone,29.66,True
+Mera order dispatch ke liye ready hai kya?,order_status,order_status,38.4,True
+The payment was cancelled automatically.,payment_failed,payment_failed,14.95,True
+transaction status.,payment_status,payment_status,17.82,True
+Order ke baare mein update dijiye.,order_status,order_status,23.26,True
+Please mera account restore karo.,reactivate_account,reactivate_account,37.62,True
+change phone number.,change_phone,change_phone,31.8,True
+Mujhe delivery agent se baat karni hai.,delivery_agent_contact,delivery_agent_contact,19.3,True
+Is this laptop suitable for gaming?,product_information,product_information,41.73,True
+Multiple login attempts ke baad account lock ho gaya.,account_locked,account_locked,35.99,True
+Can you explain this product?,product_information,product_information,23.87,True
+This is not the item I ordered.,wrong_delivery,missing_package,7.81,False
+Track karo mera shipment.,track_shipment,track_shipment,62.57,True
+Why is my account locked?,account_locked,account_locked,58.11,True
+I am unhappy with your service.,raise_complaint,product_recommendation,7.06,False
+Inventory check karo.,product_availability,product_information,13.59,False
+Same purchase dubara karni hai.,reorder_product,exchange_order,9.09,False
+Mera account password badal do.,reset_password,reset_password,40.27,True
+Mera phone verify karke change karo.,change_phone,account_verification,20.21,False
+Mera order cancel kar do.,cancel_order,cancel_order,29.87,True
+One accessory is missing.,missing_package,missing_package,11.44,True
+Product availability check karo.,product_availability,product_information,22.83,False
+Refund status check karo.,refund_status,refund_status,48.78,True
+Mera account recover kar dijiye.,reactivate_account,reactivate_account,33.85,True
+Please verification OTP bhejo.,account_verification,account_verification,26.54,True
+The coupon code is invalid.,promo_code_issue,promo_code_issue,15.3,True
+Login problem solve karo.,login_issue,login_issue,15.8,True
+Can you help me choose a mobile phone?,product_recommendation,product_recommendation,23.81,True
+Payment status please.,payment_status,payment_status,21.84,True
+Check my refund progress.,refund_status,refund_status,41.39,True
+Can I cancel my purchase?,cancel_order,cancel_order,23.68,True
+When will the refunded amount reflect?,refund_status,refund_status,42.91,True
+Cashback track karo.,cashback_query,cashback_query,34.91,True
+Live representative chahiye.,speak_to_agent,speak_to_agent,13.21,True
+Product ka description batao.,product_information,product_information,42.1,True
+Find my parcel.,track_shipment,track_shipment,31.62,True
+Delivery agle hafte kar dijiye.,reschedule_delivery,reschedule_delivery,37.78,True
+Mera login nahi ho raha.,login_issue,login_issue,37.69,True
+Details update kar do.,profile_update,profile_update,19.72,True
+Product order se match nahi karta.,wrong_delivery,modify_order,6.47,False
+Payment update do.,payment_status,payment_status,23.01,True
+payment confirmed.,payment_status,payment_status,19.09,True
+Mujhe kisi agent se connect karo.,speak_to_agent,speak_to_agent,16.97,True
+Delivery se pehle mujhe call karna.,delivery_instructions,reschedule_delivery,18.71,False
+Account enable karna hai.,reactivate_account,reactivate_account,31.85,True
+I want to pay using UPI instead.,payment_method_change,payment_method_change,12.31,True
+account verification.,account_verification,account_verification,25.84,True
+What is my delivery status?,delivery_status,delivery_status,37.78,True
+Can you reschedule meri delivery?,reschedule_delivery,reschedule_delivery,41.56,True
+Verification email dobara bhejo.,account_verification,change_email,27.37,False
+Shipment ki current location bataiye.,track_shipment,track_shipment,58.99,True
+Mera shipment missing hai.,order_not_received,damaged_package,10.36,False
+Ek product deliver nahi hua.,missing_package,product_information,7.46,False
+Product ki complaint register karo.,raise_complaint,complaint_status,26.22,False
+Hello Vani.,general_query,general_query,27.13,True
+Order confirm hua ya nahi?,order_status,order_confirmation,27.64,False
+Mera order track kar do.,order_status,order_status,30.23,True
+Update my name.,profile_update,profile_update,11.85,True
+delivery agent number.,delivery_agent_contact,delivery_agent_contact,20.14,True
+I paid twice by mistake.,duplicate_payment,duplicate_payment,9.19,True
+Please register my new phone number.,change_phone,change_phone,30.39,True
+The application is not responding.,technical_support,promo_code_issue,7.4,False
+Please create a complaint ticket.,raise_complaint,complaint_status,26.42,False
+Can you leave package with neighbor?,delivery_instructions,delivery_instructions,8.22,True
+Account ko phir se chalu karna hai.,reactivate_account,reactivate_account,28.4,True
+disable account.,deactivate_account,account_locked,30.53,False
+Mujhe wahi product dubara bhejo.,reorder_product,product_recommendation,12.76,False
+Give me the store address.,store_location,store_location,14.69,True
+Is product ka material kya hai?,product_information,product_information,43.63,True
+Mujhe apna account delete karna hai.,delete_account,delete_account,14.05,True
+The product is defective and under warranty.,warranty_claim,warranty_claim,28.32,True
+Refund request accept karo.,refund_request,refund_request,37.74,True
+invoice.,invoice_request,invoice_request,34.37,True
+Screen toot gayi hai.,damaged_package,damaged_package,10.97,True
+Payment process ho gaya kya?,payment_status,payment_status,25.3,True
+Unlock my account.,account_locked,account_locked,56.11,True
+Mera order process ho raha hai kya?,order_status,order_status,34.17,True
+Mera courier abhi kahan hai?,track_shipment,track_shipment,44.82,True
+Did my order get approved?,order_confirmation,order_status,27.96,False
+Mera paisa kab wapas milega?,refund_status,product_information,9.82,False
+Account unlock kar dijiye.,account_locked,account_locked,53.17,True
+Give me a cashback update.,cashback_query,cashback_query,38.38,True
+Kya mera order successfully place hua?,order_confirmation,order_status,25.37,False
+Courier ne galat package diya.,wrong_delivery,delivery_delay,16.11,False
+Mera account disable ho gaya hai.,account_locked,account_locked,51.92,True
+Update my profile.,profile_update,profile_update,23.71,True
+edit email address.,change_email,change_email,43.59,True
+Can you refund my payment?,refund_request,refund_request,42.63,True
+Mujhe return karna hai.,return_order,return_order,25.36,True
+Suggest the best washing machine.,product_recommendation,product_recommendation,53.36,True
+Order exchange process batao.,exchange_order,exchange_order,13.7,True
+Can I view my purchase history?,order_history,order_history,15.27,True
+Contact details change karo.,change_phone,profile_update,11.74,False
+Complaint number 12345 ka status batao.,complaint_status,complaint_status,33.08,True
+Can you check mera order status?,order_status,order_status,44.53,True
+Please enable my account.,reactivate_account,reactivate_account,33.84,True
+Payment method change karo.,payment_method_change,payment_method_change,25.14,True
+Package delay ho raha hai.,delivery_delay,delivery_delay,31.83,True
+Purchase details update karo.,modify_order,profile_update,11.11,False
+Shipment update do.,track_shipment,track_shipment,47.67,True
+Kya ye product available hai?,product_availability,product_information,33.42,False
+Replacement initiate karo.,exchange_order,reorder_product,5.37,False
+I need help with my device.,technical_support,product_recommendation,16.29,False
+Main available nahi hoon.,reschedule_delivery,product_recommendation,18.6,False
+Online payment fail ho gaya.,payment_failed,payment_failed,14.56,True
+Replace one item in my order.,modify_order,modify_order,8.17,True
+Help me request a refund.,refund_request,refund_request,47.26,True
+Best headphones recommend karo.,product_recommendation,product_recommendation,62.41,True
+Mera amount wapas bhejo.,refund_request,refund_request,5.87,True
+Mere saare purchases dikhao.,order_history,reorder_product,8.11,False
+order delayed.,delivery_delay,delivery_delay,25.69,True
+Complete information dikhao.,product_information,profile_update,19.03,False
+Product repair request bhejo.,warranty_claim,product_information,9.29,False
+Please mera account unlock kar do.,account_locked,account_locked,53.5,True
+Quantity badalni hai.,modify_order,product_recommendation,10.96,False
+Quantity change kar do.,modify_order,product_information,7.04,False
+Mujhe order abhi tak nahi mila.,order_not_received,delivery_delay,16.96,False
+Is this product currently available?,product_availability,product_information,41.39,False
+Please change my delivery slot.,change_delivery_slot,reschedule_delivery,31.76,False
+Mera last order fir se place karo.,reorder_product,reorder_product,10.67,True
+Can you check mera payment?,payment_failed,payment_status,22.34,False
+Delivery executive ka number chahiye.,delivery_agent_contact,delivery_agent_contact,19.72,True
+Ye product out of stock hai kya?,product_availability,product_information,33.34,False
+Order history dekhni hai.,order_history,order_history,20.52,True
+Please update my email address.,change_email,change_email,42.58,True
+Mera address change kar do.,update_address,update_address,40.61,True
+Has my money been refunded?,refund_status,refund_status,38.55,True
+Mera invoice bhejo.,invoice_request,invoice_request,35.41,True
+Offer apply nahi hua.,promo_code_issue,promo_code_issue,15.32,True
+Naye address par delivery karo.,update_address,update_address,39.24,True
+Login page error dikha raha hai.,login_issue,login_issue,29.85,True
+Can you lodge a complaint for me?,raise_complaint,complaint_status,30.72,False
+Meri complaint track karo.,complaint_status,complaint_status,32.88,True
+Mera account unlock karo.,account_locked,account_locked,57.67,True
+Refund process kis stage mein hai?,refund_status,refund_status,50.52,True
+Temporary disable kar do.,deactivate_account,login_issue,6.41,False
+Mere old orders dikhao.,order_history,order_history,25.29,True
+Account login issue hai.,login_issue,login_issue,33.51,True
+Cashback credit kar do.,cashback_query,cashback_query,37.37,True
+Mera account delete kar do.,delete_account,delete_account,15.22,True
+Product change ho gaya lagta hai.,wrong_delivery,damaged_package,7.27,False
+Is this model available?,product_availability,product_information,39.73,False
+Connect me to a support executive.,speak_to_agent,speak_to_agent,13.87,True
+Order cancel karke refund do.,refund_request,refund_request,38.99,True
+Give me the contact details of the delivery executive.,delivery_agent_contact,delivery_agent_contact,22.88,True
+Office use ke liye laptop batao.,product_recommendation,product_recommendation,41.68,True
+The item is defective.,damaged_package,damaged_package,8.4,True
+Payment type change karo.,payment_method_change,payment_method_change,18.19,True
+Can you update mera address?,update_address,update_address,41.05,True
+Return pickup arrange karo.,return_order,return_order,16.76,True
+Mera password reset karo.,reset_password,reset_password,46.87,True
+Please provide my purchase receipt.,invoice_request,invoice_request,14.29,True
+Change my phone number.,change_phone,change_phone,32.34,True
+Verification email bhejo.,account_verification,change_email,20.73,False
+Password recover karna hai.,reset_password,reset_password,44.77,True
+Fitness ke liye smartwatch bataiye.,product_recommendation,product_recommendation,47.27,True
+Mujhe confirm karo ki order place ho gaya.,order_confirmation,order_confirmation,16.73,True
+warranty support.,warranty_claim,warranty_claim,47.57,True
+Where is my order?,order_status,order_status,46.67,True
+I placed the order by mistake.,cancel_order,delivery_delay,9.2,False
+Kya payment ke baad order confirm hua?,order_confirmation,payment_status,10.17,False
+Kitna cashback mila?,cashback_query,cashback_query,39.15,True
+Can you change mera phone number?,change_phone,change_phone,31.43,True
+charged twice.,duplicate_payment,duplicate_payment,11.75,True
+Wallet funds check karo.,wallet_balance,wallet_balance,60.95,True
+Complaint tracking karo.,complaint_status,complaint_status,31.62,True
+The parcel arrived without one product.,missing_package,delivery_delay,8.14,False
+Can you confirm my order?,order_confirmation,order_confirmation,26.02,True
+erase account.,delete_account,reactivate_account,24.94,False
+I am having trouble logging in.,login_issue,login_issue,14.17,True
+Mera order nahi aaya.,order_not_received,delivery_delay,12.56,False
+Dusra mobile number use karna hai.,change_phone,change_phone,28.88,True
+Please change my payment option.,payment_method_change,payment_method_change,20.74,True
+The promotional code failed.,promo_code_issue,promo_code_issue,11.49,True
+Real person se connect karo.,speak_to_agent,speak_to_agent,17.12,True
+Package safe jagah par rakhna.,delivery_instructions,delivery_delay,13.08,False
+thanks.,general_query,general_query,15.05,True
+The app is stuck on the loading screen.,technical_support,damaged_package,10.16,False
+Mera order kahan hai?,order_status,order_status,48.49,True
+Refund status batao.,refund_status,refund_status,49.7,True
+Available wallet balance batao.,wallet_balance,wallet_balance,61.82,True
+Bring my account back.,reactivate_account,reactivate_account,35.03,True
+Can you check my refund?,refund_status,refund_status,40.99,True
+Warranty repair kar do.,warranty_claim,warranty_claim,46.02,True
+Package phata hua hai.,damaged_package,delivery_delay,11.97,False
+Problem report karni hai.,raise_complaint,raise_complaint,11.45,True
+Disable account for now.,deactivate_account,reactivate_account,23.41,False
+Refund abhi tak receive nahi hua.,refund_status,refund_status,35.2,True
+Gift ke liye product suggest karo.,product_recommendation,product_recommendation,28.01,True
+Please mera parcel track karo.,track_shipment,track_shipment,55.93,True
+send invoice.,invoice_request,invoice_request,34.96,True
+Have a nice day.,general_query,reschedule_delivery,16.73,False
+Refund amount kab aayega?,refund_status,refund_status,50.76,True
+Mera account reopen karo.,reactivate_account,reactivate_account,37.53,True
+My shipment is delayed again.,delivery_delay,delivery_delay,40.05,True
+Is my parcel on the way?,order_status,track_shipment,20.61,False
+Help me unlock my account.,account_locked,account_locked,55.48,True
+I received a broken item.,damaged_package,damaged_package,23.91,True
+My account was locked after several login attempts.,account_locked,account_locked,51.35,True
+Password update karna hai.,reset_password,reset_password,45.14,True
+Product explain karo.,product_information,product_information,21.75,True
+Mera refund verify karo.,refund_status,refund_request,36.48,False
+duplicate transaction.,duplicate_payment,duplicate_payment,13.95,True
+I need to change my personal profile.,profile_update,profile_update,16.48,True
+How much wallet credit do I have?,wallet_balance,wallet_balance,61.28,True
+Reactivate my membership account.,reactivate_account,reactivate_account,33.92,True
+Bye Vani.,general_query,general_query,27.01,True
+Package mein saman kam nikla.,missing_package,delivery_instructions,9.26,False
+Refund pending hai kya?,refund_status,refund_status,50.58,True
+Update my payment method.,payment_method_change,payment_method_change,25.49,True
+Delivery partner se contact karna hai.,delivery_agent_contact,delivery_agent_contact,21.09,True
+Deactivate my profile.,deactivate_account,reactivate_account,29.49,False
+Which air conditioner is energy efficient?,product_recommendation,product_information,34.71,False
+Product pasand nahi aaya.,return_order,delivery_delay,5.86,False
+Can you locate my package?,track_shipment,track_shipment,52.63,True
+Deliver it next week.,reschedule_delivery,reschedule_delivery,38.87,True
+See you.,general_query,general_query,26.3,True
+Delivery vehicle nikal chuka hai kya?,delivery_status,delivery_status,18.77,True
+Is my order arriving today?,delivery_status,order_status,40.46,False
+The expected delivery date has passed.,delivery_delay,delivery_delay,31.72,True
+Please check where my package is.,order_status,track_shipment,17.36,False
+You are awesome.,general_query,general_query,14.81,True
+Parcel incomplete deliver hua.,missing_package,missing_package,11.78,True
+Mere order ki current sthiti kya hai?,order_status,order_status,49.93,True
+Can you issue my refund?,refund_request,refund_status,36.57,False
+Mera voucher invalid hai.,promo_code_issue,promo_code_issue,11.75,True
+Mera order replace kar do.,exchange_order,modify_order,11.58,False
+I want a different size.,exchange_order,product_recommendation,8.63,False
+Can you reorder my previous order?,reorder_product,reorder_product,9.09,True
+Support complaint bhejo.,raise_complaint,complaint_status,28.88,False
+Delivery partner ko connect karo.,delivery_agent_contact,delivery_agent_contact,20.32,True
+Delivery itni slow kyun hai?,delivery_delay,delivery_delay,24.39,True
+package delivered?,delivery_status,delivery_status,20.6,True
+Specification batao.,product_information,product_information,8.71,True
+Mujhe apna email update karna hai.,change_email,change_email,44.74,True
+Package shaam ko deliver karna.,change_delivery_slot,reschedule_delivery,25.17,False
+Show me the best products.,product_recommendation,product_recommendation,20.03,True
+Did you receive my payment?,payment_status,payment_status,24.06,True
+Mera order delay ho gaya.,delivery_delay,delivery_delay,29.27,True
