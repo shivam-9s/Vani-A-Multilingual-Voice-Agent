@@ -1,20 +1,41 @@
+# ==========================
+# Data Processing
+# ==========================
 pandas
 numpy
 scikit-learn
 
+# ==========================
+# Deep Learning
+# ==========================
 torch
 transformers
 datasets
 evaluate
 accelerate
 sentencepiece
+safetensors
 
-streamlit
-
+# ==========================
+# API
+# ==========================
 fastapi
 uvicorn
 
+# ==========================
+# Frontend
+# ==========================
+streamlit
+
+# ==========================
+# Voice AI
+# ==========================
 openai-whisper
 TTS
 
+# ==========================
+# Utilities
+# ==========================
+joblib
 matplotlib
+tqdm

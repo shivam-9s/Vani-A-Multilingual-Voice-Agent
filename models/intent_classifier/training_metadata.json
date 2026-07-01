@@ -6,14 +6,14 @@
     "num_labels": 50,
     "seed": 42,
     "evaluation": {
-        "eval_loss": 1.666792392730713,
-        "eval_accuracy": 0.717391304347826,
-        "eval_precision": 0.7452807414099123,
-        "eval_recall": 0.717391304347826,
-        "eval_f1": 0.6943186520112704,
-        "eval_runtime": 3.6649,
-        "eval_samples_per_second": 163.17,
-        "eval_steps_per_second": 10.369,
+        "eval_loss": 1.670175552368164,
+        "eval_accuracy": 0.725752508361204,
+        "eval_precision": 0.7319599823054759,
+        "eval_recall": 0.725752508361204,
+        "eval_f1": 0.6963168463499818,
+        "eval_runtime": 3.4344,
+        "eval_samples_per_second": 174.12,
+        "eval_steps_per_second": 11.064,
         "epoch": 10.0
     }
 }

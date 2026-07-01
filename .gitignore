@@ -1,32 +1,73 @@
+# ==========================
 # Python
+# ==========================
 __pycache__/
 *.py[cod]
 *.pyo
+*.pyd
 
-# Virtual environments
+# Virtual Environments
 venv/
-.env
+.venv/
+env/
+ENV/
 
+# ==========================
 # IDE
+# ==========================
 .vscode/
 .idea/
 
-# OS
+# ==========================
+# Operating System
+# ==========================
 .DS_Store
 Thumbs.db
 
-# HuggingFace checkpoints
-checkpoint-*/
+# ==========================
+# Python Cache
+# ==========================
+.pytest_cache/
+.mypy_cache/
+.cache/
 
-# Trainer state
+# ==========================
+# Jupyter
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# Hugging Face Trainer
+# ==========================
+checkpoint-*/
 optimizer.pt
 scheduler.pt
 rng_state.pth
 trainer_state.json
 training_args.bin
 
-# Cache
-.cache/
+# ==========================
+# Large Model Files
+# ==========================
+*.safetensors
 
-# Notebook
-.ipynb_checkpoints/
+# ==========================
+# Logs
+# ==========================
+logs/
+*.log
+
+# ==========================
+# Build
+# ==========================
+build/
+dist/
+*.egg-info/
+
+# ==========================
+# Temporary Files
+# ==========================
+*.tmp
+*.bak
+# Local trained model
+models/intent_classifier/model.safetensors
